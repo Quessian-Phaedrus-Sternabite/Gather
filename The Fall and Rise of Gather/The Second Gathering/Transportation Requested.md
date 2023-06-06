@@ -1,0 +1,2 @@
+#story 
+I threw the ball against the wall, and watched as it ricocheted wildly through the cramped confines of the cab. Never gets old. Space was a peculiar thing, the endless void surrounding you with its icy tendrils. Many people described the feeling of drifting as a weightlessness, but I disagreed. To me, it was true impact, the feeling of a thousand stars pulling upon you in every possible direction until you struggled to discern one way from another.  

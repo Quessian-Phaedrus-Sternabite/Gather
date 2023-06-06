@@ -1,0 +1,2 @@
+#story 
+You remember standing there, on the bow of a grand carrier, observing the war that took place. Dimly, in your head, you wondered if it could have been avoided. Before that thought could take root though, you shook it out. You weren't paid to think, only to act. And act you shall. 
