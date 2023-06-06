@@ -7,6 +7,4 @@ Named after [Charles Aevum](Overview%201#^f75ec3). Focused primarily with the im
 
 ### Cathan
 
-^3bb3b7
-
 It's predecessor [Noelle Cathan](Overview%201#^251a3e), a great descended of Saint Cathan, was selected for Gather due to her peaceful stance on reality. She, of course, used this inner calm to attain massive wealth through stock trading, and her shipping business, Cathan Goods, was one of the most powerful pre-Gather corporations. Cathan banks were known for their reliability during the golden era of Gather ([[In the Vaults of Monotony]]), and Cathan Goods was a reliable source of economical growth during the time. 
