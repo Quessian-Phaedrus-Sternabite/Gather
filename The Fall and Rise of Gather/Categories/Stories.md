@@ -14,4 +14,6 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 
 ### The Fifth Gathering
 - [[Eternity in a Day]]
-- 
+
+## The Sixth Gathering
+- [[A Precipice of Disaster]]
