@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "802a48d2f2696ced",
+    "type": "split",
+    "children": [
+      {
+        "id": "93d64419af4cfddd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5029f29a4e7aa68e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d3a5be1e3656d74",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a28ccec3449347e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aba25ab8571c0f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98e274d2f634e304",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf3cd34eaeb56f15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8047df61f26a6336",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8d9ba4e2a517c16",
+    "type": "split",
+    "children": [
+      {
+        "id": "caf52b1f0c02ea0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08eae35639aa8293",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a832f342b0e6ee8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac97317dfb795e59",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec77d0672c00b186",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5029f29a4e7aa68e",
+  "lastOpenFiles": [
+    "The Fall and Rise of Gather/The First Gathering/Overview 1.md",
+    "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md",
+    "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md",
+    "The Fall and Rise of Gather/The Fifth Gathering/Eternity in a Day.md",
+    "The Fall and Rise of Gather/Categories/Stories.md",
+    "The Fall and Rise of Gather/Categories/Legends.md"
+  ]
+}
