@@ -31,5 +31,13 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-wordnet-plugin:open-wordnet-suggestor": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
   ]
 }
