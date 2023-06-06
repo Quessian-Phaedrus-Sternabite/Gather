@@ -1,3 +1,3 @@
 #story 
 *Conceptual space not mentioned*
-In those times, the gilded vaults of Cathan were second to none, with it's
+In those times, the gilded vaults of Cathan were second to none, with their treasuries stretching miles through the caverns of hundreds of planets. Their magnificent splendor was a beacon to many citizens of Gather, who flocked to the banks with pockets bursting of Dinar, eagerly waiting to both witness the security and sheer spectacle of the famed hoards. And yet, amidst all this splendor lay Cathan Sheila, a simple clerk in the heart of Rankin. Every single day, for the past 200 or so years, she woke up, went into work, and sat counting coins for hours on end. Sure, the pay was excellent, and the bank had outstanding benefits, but by the blind
