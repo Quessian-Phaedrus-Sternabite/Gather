@@ -1,7 +1,9 @@
-#legend, #two, #six
+#legend, #two, #six, #outskirts 
 *See [[Vivisection of a Disaster]]*
 "Gather around, children, and heed my tale! In the days of your forefathers, there were strange creatures rumored to roam the stars. Distant cousins of ours, these Cathan Swelts, as I do say they would have been yelled, would traipse aimlessly, devouring all in their path. For none of them, none of them! Would sustain off food alone. Nay, they required something far more volatile. Ether!
 "Some call it Cathan sorcery, and I can't incline myself but to agree. The vilest of machinations from those evil, cursed minds, these Swollen Men would indulge in liquid made from the very flesh of space! Oh yes, they would consume the fabric that holds us in the sky, for we all know that removal would surely bring destruction, which is the Cathans' only goal. 
-"It's said our Holy Father himself performed a dissection of one of these beasts, ripping them into shreds with his metal limbs 'O Plenty! Those Cathan scum were no match for his grasp! With his powerful tools, his gifts from the Founder himself, he tore into them and learned their dark secrets. My father's father heard from his father before, and all unto an unbroken chain stemming back to Father himself that he was endowed with an endless multitude of diagnosers, limbs upon limbs of inspection and introspection and every other ection! He could glimpse at a wall and tell you where it was![^1]
+"It's said our Holy Father himself performed a dissection of one of these beasts, ripping them into shreds with his metal limbs 'O Plenty! Those Cathan scum were no match for his grasp! With his powerful tools, his gifts from the Founder himself, he tore into them and learned their dark secrets. My father's father heard from his father before, and all unto an unbroken chain stemming back to Father himself that he was endowed with an endless multitude of diagnosers, limbs upon limbs of inspection and introspection and every other -ection! He could glimpse at a wall and tell you exactly where it was[^1]! [^2]
+"Where was I again? Oh yes! The Swelt men that roamed! Her wretchedness Cathy had gone and cast abominations upon the stars, 
 
-[^1]: At the rim, distance was more of a suggestions anyways [[]]
+[^1]: At the rim, distance was more of a suggestions anyways 
+[^2]: At the time, many believed in embellished tales of Conceptual Space, and as such, thought that knowing true axioms of an object lent one power over it.
