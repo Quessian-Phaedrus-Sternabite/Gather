@@ -1,0 +1,148 @@
+/* === Persona 5 Cool-Toned Theme === */
+
+/* Base colors */
+:root {
+    /* Background colors */
+    --background-primary: #292f3d;
+    --background-secondary: #1f242f;
+  
+    /* Text colors */
+    --text-primary: #ffffff;
+    --text-secondary: #b4b9c0;
+    --text-accent: #f1f1f1;
+  
+    /* Accent colors */
+    --accent-primary: #3273dc;
+    --accent-secondary: #1e90ff;
+    --accent-tertiary: #ff6a00ef;
+  
+    /* Line colors */
+    --line-primary: #4c5164;
+    --line-secondary: #1e2532;
+  }
+  
+  /* Panels */
+  .cm-s-obsidian {
+    background-color: var(--background-primary) !important;
+    color: var(--text-primary) !important;
+  }
+  
+  /* Sidebar */
+  .nav-folder-children, .nav-folder-leaf {
+    border-color: var(--line-primary) !important;
+  }
+  
+  /* Active and Hover states */
+  .nav-file-title.is-active, .nav-folder-title.is-active,
+  .nav-file-title:hover, .nav-folder-title:hover,
+  .nav-folder-leaf:hover {
+    background-color: var(--background-secondary) !important;
+    color: var(--accent-primary) !important;
+  }
+  
+  /* Markdown */
+  .markdown-preview-view {
+    background-color: var(--background-primary) !important;
+    color: var(--text-primary) !important;
+  }
+  
+  /* Links */
+  a {
+    color: var(--accent-primary) !important;
+  }
+  
+  a:hover {
+    color: var(--accent-secondary) !important;
+  }
+  
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--text-primary) !important;
+  }
+  
+  /* Blockquotes */
+  blockquote {
+    border-color: var(--line-primary) !important;
+  }
+  
+  /* Code blocks */
+  .markdown-preview-view pre > code {
+    background-color: var(--background-secondary) !important;
+    color: var(--text-primary) !important;
+  }
+  
+  /* Code inline */
+  .markdown-preview-view code {
+    background-color: var(--background-secondary) !important;
+    color: var(--text-primary) !important;
+  }
+  
+  /* Stylistic lines */
+  .cm-hmd-fence {
+    border-color: var(--line-primary) !important;
+  }
+  
+  /* Search */
+  .modal-content {
+    background-color: var(--background-primary) !important;
+    color: var(--text-primary) !important;
+  }
+  
+  /* Status bar */
+  .status-bar {
+    background-color: var(--background-primary) !important;
+    color: var(--text-primary) !important;
+    border-color: var(--line-primary) !important;
+  }
+  
+  /* Graph view */
+  .graph-view {
+    background-color: var(--background-primary) !important;
+  }
+  
+  /* Scrollbars */
+  ::-webkit-scrollbar {
+    width: 10px;
+    background-color: var(--background-primary);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: var(--accent-primary);
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: var(--accent-secondary);
+  }
+  
+  /* Tag pills */
+  .tag-pill {
+    background-color: var(--accent-primary) !important;
+    color: var(--text-primary) !important;
+  }
+  
+  .tag-pill:hover {
+    background-color: var(--accent-secondary) !important;
+    color: var(--text-accent) !important;
+  }
+  
+  /* Task lists */
+  .task-list-item-checkbox.checked {
+    color: var(--accent-primary) !important;
+  }
+  
+  /* === Persona 5 Stylistic Lines === */
+  
+  /* Vertical lines */
+  .cm-hmd-fence-info {
+    background: repeating-linear-gradient(to right, var(--line-primary), var(--line-primary) 2px, transparent 2px, transparent 4px);
+    background-size: 100% 4px;
+  }
+  
+  /* Horizontal lines */
+  .cm-hmd-fence-tip {
+    background: repeating-linear-gradient(to bottom, var(--line-primary), var(--line-primary) 2px, transparent 2px, transparent 4px);
+    background-size: 4px 100%;
+  }
+  
+  /* Save the theme to a .css file and import it in Obsidian's "Custom CSS" settings */
+  
