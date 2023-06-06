@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md",
+                "file": "The Fall and Rise of Gather/The First Gathering/Overview 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md",
+                "file": "The Fall and Rise of Gather/The First Gathering/Overview 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md",
+                "file": "The Fall and Rise of Gather/The First Gathering/Overview 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,11 +133,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md"
+                "file": "The Fall and Rise of Gather/The First Gathering/Overview 1.md"
               }
             }
+          },
+          {
+            "id": "5ec266bb5a2826e9",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,26 +160,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
   "active": "5029f29a4e7aa68e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "The Fall and Rise of Gather/The First Gathering/Overview 1.md",
+    "The Fall and Rise of Gather/Crèches.md",
     "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md",
+    "The Fall and Rise of Gather/Description.md",
+    "The Fall and Rise of Gather/Naming Conventions.md",
+    "The Fall and Rise of Gather/The Fifth Gathering/Overview 5.md",
+    "The Fall and Rise of Gather/The Fourth Gathering/Overview 4.md",
     "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md",
+    "The Fall and Rise of Gather/The Fourth Gathering/Superiority through Purity.md",
     "The Fall and Rise of Gather/The Fourth Gathering/Champions of Nothing.md",
     "The Fall and Rise of Gather/The Fourth Gathering/In the Vaults of Monotony.md",
-    "The Fall and Rise of Gather/The First Gathering/Overview 1.md",
     "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
     "Markdown Cheat Sheet.md",
-    "The Fall and Rise of Gather/Naming Conventions.md",
     "2023-06-05.md",
     "The Fall and Rise of Gather/The Fifth Gathering/Eternity in a Day.md",
     "The Fall and Rise of Gather/The Fourth Gathering/Conceptual Space Disambiguation.md",
     "The Fall and Rise of Gather/Gather.canvas",
-    "Untitled.canvas",
-    "The Fall and Rise of Gather/Crèches.md",
-    "The Fall and Rise of Gather/Description.md"
+    "Untitled.canvas"
   ]
 }
