@@ -4,6 +4,7 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 ### The Second Gathering
 - [[Shipped into Oblivion]]
 - [[Transportation Requested]]
+- [[Superiority through Purity]]
 
 ### The Fourth Gathering 
 - [[Champions of Nothing]]
