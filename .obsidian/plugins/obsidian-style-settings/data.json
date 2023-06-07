@@ -10,7 +10,7 @@
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-default-rainbow",
   "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
   "anuppuccin-theme-settings@@anp-background-image-dark": "url(\"https://wallpaperaccess.com/download/ocean-night-sky-1125452\")",
-  "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 1,
-  "anuppuccin-theme-settings@@anp-custom-bg-brightness-dark": 0.45,
-  "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 0.5
+  "anuppuccin-theme-settings@@anp-custom-bg-blur-dark": 5,
+  "anuppuccin-theme-settings@@anp-custom-bg-brightness-dark": 0.7,
+  "anuppuccin-theme-settings@@anp-custom-bg-card-fg-opacity-dark": 1
 }
