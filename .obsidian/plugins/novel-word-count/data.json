@@ -48,16 +48,16 @@
     "The Fall and Rise of Gather/Faster-Than-Light Travel.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 101,
+      "pageCount": 0.33666666666666667,
+      "characterCount": 637,
+      "nonWhitespaceCharacterCount": 531,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686106797366,
-      "modifiedDate": 1686106797366,
-      "sizeInBytes": 0
+      "modifiedDate": 1686107116067,
+      "sizeInBytes": 637
     },
     "The Fall and Rise of Gather/The Sixth Gathering/A Precipice of Disaster.md": {
       "isDirectory": false,
@@ -269,6 +269,20 @@
       "modifiedDate": 1685939150448,
       "sizeInBytes": 1124
     },
+    "The Fall and Rise of Gather/The First Gathering/Material Requisition Form Epsilon Eridani 102.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686107161107,
+      "modifiedDate": 1686107161107,
+      "sizeInBytes": 0
+    },
     "The Fall and Rise of Gather/The First Gathering/Overview 1.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -314,16 +328,16 @@
     "The Fall and Rise of Gather/Crèches.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 260,
-      "pageCount": 0.8666666666666667,
-      "characterCount": 1674,
-      "nonWhitespaceCharacterCount": 1407,
+      "wordCount": 276,
+      "pageCount": 0.92,
+      "characterCount": 1829,
+      "nonWhitespaceCharacterCount": 1546,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783879,
-      "modifiedDate": 1686021853741,
-      "sizeInBytes": 1677
+      "modifiedDate": 1686107156278,
+      "sizeInBytes": 1832
     },
     "The Fall and Rise of Gather/Categories/Stories.md": {
       "isDirectory": false,

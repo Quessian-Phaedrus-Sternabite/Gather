@@ -13,6 +13,6 @@ Josiah Veritas was widely considereed
 ## Fidelis
 Fidelis stems from faith. Perhaps government?
 ## Novus
-The most ambitious. Known for [Orion Drives](Faster-Than-Light Travel#^bf48a8). Constantly destroying planets, achieved the first Human-made megast
+The most ambitious. Known for [Orion Drives](Faster-Than-Light Travel#^bf48a8). Constantly destroying planets, achieved the first Human-made megastructure
 ## Tempi
 ## Lucis
