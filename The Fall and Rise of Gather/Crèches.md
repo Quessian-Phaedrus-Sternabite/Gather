@@ -9,10 +9,10 @@ Named after [Charles Aevum](Overview%201#^f75ec3). Aevum was a Supreme Court Jus
 Cathan's founder [Noelle Cathan](Overview%201#^251a3e), a great descendent of Saint Cathan, was selected for Gather due to her peaceful stance on reality. She, of course, used this inner calm to attain massive wealth through stock trading, and her shipping business, Cathan Goods, was one of the most powerful pre-Gather corporations. In the second Gathering, the genetically engineered armies of Goods proved an effective force to contend with any of the other Crèches, despite lacking in conventional warfare technologies. Cathan banks were known for their reliability during the golden era of Gather ([[In the Vaults of Monotony]]), and Cathan Goods was a reliable source of economical growth during the time. 
 
 ## Veritas
-Josiah Veritas was widely considereed 
+Josiah Veritas was widely considered the most ambitious man of the Space Age. Headed science committee 
 ## Fidelis
 Fidelis stems from faith. Perhaps government?
 ## Novus
-The most ambitious. Known for [Orion Drives](Faster-Than-Light Travel#^bf48a8). Constantly destroying planets, achieved the first Human-made megastructure
+The most ambitious. Known for [Orion Drives](Faster-Than-Light Travel#^bf48a8). Constantly destroying planets, achieved the first Human-made megastructure ([[Project Requisition Form Epsilon Eridani 102]])
 ## Tempi
 ## Lucis

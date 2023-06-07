@@ -2,7 +2,7 @@
 The stories of Gather are assumed to be historical account. Note that "story" refers to any history shared amongst members of society. 
 
 ### The First Gathering
-- [[Material Requisition Form Epsilon Eridani 102]]
+- [[Project Requisition Form Epsilon Eridani 102]]
 
 ### The Second Gathering
 - [[Shipped into Oblivion]]
