@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686111459705,
+      "modifiedDate": 1686111459705,
+      "sizeInBytes": 0
+    },
     "Markdown Cheat Sheet.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -76,16 +90,16 @@
     "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 331,
-      "pageCount": 1.1033333333333333,
-      "characterCount": 1873,
-      "nonWhitespaceCharacterCount": 1542,
+      "wordCount": 515,
+      "pageCount": 1.7166666666666666,
+      "characterCount": 2883,
+      "nonWhitespaceCharacterCount": 2366,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010784026,
-      "modifiedDate": 1686106797244,
-      "sizeInBytes": 1873
+      "modifiedDate": 1686111460630,
+      "sizeInBytes": 2883
     },
     "The Fall and Rise of Gather/The Second Gathering/The Swollen Men.md": {
       "isDirectory": false,
@@ -118,16 +132,16 @@
     "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2892,
-      "pageCount": 9.64,
-      "characterCount": 16751,
-      "nonWhitespaceCharacterCount": 13852,
+      "wordCount": 3080,
+      "pageCount": 10.266666666666667,
+      "characterCount": 17775,
+      "nonWhitespaceCharacterCount": 14688,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010784021,
-      "modifiedDate": 1686110713359,
-      "sizeInBytes": 16753
+      "modifiedDate": 1686111128860,
+      "sizeInBytes": 17777
     },
     "The Fall and Rise of Gather/The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
