@@ -17,20 +17,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "Shipped into Oblivion^.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1686106341235,
-      "modifiedDate": 1686106341235,
-      "sizeInBytes": 0
-    },
     "Markdown Cheat Sheet.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -148,14 +134,14 @@
       "noteCount": 1,
       "wordCount": 43,
       "pageCount": 0.14333333333333334,
-      "characterCount": 271,
-      "nonWhitespaceCharacterCount": 228,
+      "characterCount": 275,
+      "nonWhitespaceCharacterCount": 232,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010784006,
-      "modifiedDate": 1686022599422,
-      "sizeInBytes": 271
+      "modifiedDate": 1686109089479,
+      "sizeInBytes": 275
     },
     "The Fall and Rise of Gather/The Fourth Gathering/In the Vaults of Monotony.md": {
       "isDirectory": false,
@@ -272,16 +258,16 @@
     "The Fall and Rise of Gather/The First Gathering/Excerpt from the Founder (1).md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 92,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 475,
+      "nonWhitespaceCharacterCount": 384,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686108835626,
-      "modifiedDate": 1686108835626,
-      "sizeInBytes": 0
+      "modifiedDate": 1686109131100,
+      "sizeInBytes": 475
     },
     "The Fall and Rise of Gather/The First Gathering/Project Requisition Form Epsilon Eridani 102.md": {
       "isDirectory": false,
@@ -370,16 +356,16 @@
     "The Fall and Rise of Gather/Categories/Legends.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 83,
-      "pageCount": 0.27666666666666667,
-      "characterCount": 484,
-      "nonWhitespaceCharacterCount": 397,
-      "linkCount": 2,
+      "wordCount": 89,
+      "pageCount": 0.2966666666666667,
+      "characterCount": 519,
+      "nonWhitespaceCharacterCount": 426,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783909,
-      "modifiedDate": 1686108830780,
-      "sizeInBytes": 484
+      "modifiedDate": 1686109118919,
+      "sizeInBytes": 519
     }
   }
 }
