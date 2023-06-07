@@ -11,8 +11,12 @@
             "id": "5029f29a4e7aa68e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#four",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md"
+              }
             }
           },
           {
@@ -137,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,26 +162,26 @@
       "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "3aba25ab8571c0f3",
+  "active": "5029f29a4e7aa68e",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/Categories/Stories.md",
-    "The Fall and Rise of Gather/The Fourth Gathering/In the Vaults of Monotony.md",
-    "The Fall and Rise of Gather/The First Gathering/Overview 1.md",
     "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md",
+    "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md",
+    "The Fall and Rise of Gather/The Second Gathering/Vivisection of a Disaster.md",
+    "The Fall and Rise of Gather/The Fourth Gathering/Overview 4.md",
+    "The Fall and Rise of Gather/The Fourth Gathering/In the Vaults of Monotony.md",
+    "The Fall and Rise of Gather/The Fourth Gathering/Conceptual Space.md",
+    "The Fall and Rise of Gather/The Fourth Gathering/Champions of Nothing.md",
+    "The Fall and Rise of Gather/Categories/Stories.md",
+    "The Fall and Rise of Gather/The First Gathering/Overview 1.md",
     "The Fall and Rise of Gather/The Fourth Gathering/Conceptual Space Disambiguation.md",
     "The Fall and Rise of Gather/The Fifth Gathering/Eternity in a Day.md",
-    "The Fall and Rise of Gather/The Fourth Gathering/Champions of Nothing.md",
     "The Fall and Rise of Gather/The Fifth Gathering/Overview 5.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
-    "The Fall and Rise of Gather/The Second Gathering/Vivisection of a Disaster.md",
     "The Fall and Rise of Gather/The Second Gathering/The Swollen Men.md",
     "The Fall and Rise of Gather/The Sixth Gathering/A Precipice of Disaster.md",
-    "The Fall and Rise of Gather/The Fourth Gathering/Overview 4.md",
     "The Fall and Rise of Gather/The Fourth Gathering/The Tale of Lauren.md",
-    "The Fall and Rise of Gather/The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/The Second Gathering/Superiority through Purity.md",
     "The Fall and Rise of Gather/The Fourth Gathering/Screams.md",
-    "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md",
     "The Fall and Rise of Gather/The Sixth Gathering",
     "The Fall and Rise of Gather/Crèches.md",
     "The Fall and Rise of Gather/Description.md",
