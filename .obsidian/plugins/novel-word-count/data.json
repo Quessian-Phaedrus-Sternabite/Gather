@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Shipped into Oblivion^.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686106341235,
+      "modifiedDate": 1686106341235,
+      "sizeInBytes": 0
+    },
     "Markdown Cheat Sheet.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -48,30 +62,30 @@
     "The Fall and Rise of Gather/The Second Gathering/Vivisection of a Disaster.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 208,
-      "pageCount": 0.6933333333333334,
-      "characterCount": 1249,
-      "nonWhitespaceCharacterCount": 1041,
+      "wordCount": 210,
+      "pageCount": 0.7,
+      "characterCount": 1270,
+      "nonWhitespaceCharacterCount": 1059,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686021442391,
-      "modifiedDate": 1686022557661,
-      "sizeInBytes": 1249
+      "modifiedDate": 1686106111975,
+      "sizeInBytes": 1270
     },
     "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 80,
-      "pageCount": 0.26666666666666666,
-      "characterCount": 466,
-      "nonWhitespaceCharacterCount": 385,
-      "linkCount": 0,
+      "wordCount": 172,
+      "pageCount": 0.5733333333333334,
+      "characterCount": 999,
+      "nonWhitespaceCharacterCount": 827,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010784026,
-      "modifiedDate": 1686022560939,
-      "sizeInBytes": 466
+      "modifiedDate": 1686106293642,
+      "sizeInBytes": 999
     },
     "The Fall and Rise of Gather/The Second Gathering/The Swollen Men.md": {
       "isDirectory": false,
@@ -104,16 +118,16 @@
     "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1481,
-      "pageCount": 4.9366666666666665,
-      "characterCount": 8589,
-      "nonWhitespaceCharacterCount": 7103,
+      "wordCount": 1749,
+      "pageCount": 5.83,
+      "characterCount": 10151,
+      "nonWhitespaceCharacterCount": 8398,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010784021,
-      "modifiedDate": 1686024930317,
-      "sizeInBytes": 8590
+      "modifiedDate": 1686106132303,
+      "sizeInBytes": 10152
     },
     "The Fall and Rise of Gather/The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
