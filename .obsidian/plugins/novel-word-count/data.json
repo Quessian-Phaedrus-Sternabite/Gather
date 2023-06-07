@@ -132,16 +132,16 @@
     "The Fall and Rise of Gather/The Second Gathering/Shipped into Oblivion.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1749,
-      "pageCount": 5.83,
-      "characterCount": 10151,
-      "nonWhitespaceCharacterCount": 8398,
+      "wordCount": 2002,
+      "pageCount": 6.673333333333333,
+      "characterCount": 11665,
+      "nonWhitespaceCharacterCount": 9658,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010784021,
-      "modifiedDate": 1686106132303,
-      "sizeInBytes": 10152
+      "modifiedDate": 1686108699649,
+      "sizeInBytes": 11666
     },
     "The Fall and Rise of Gather/The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
@@ -188,16 +188,16 @@
     "The Fall and Rise of Gather/The Fourth Gathering/Overview 4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 166,
-      "pageCount": 0.5533333333333333,
-      "characterCount": 1089,
-      "nonWhitespaceCharacterCount": 917,
+      "wordCount": 205,
+      "pageCount": 0.6833333333333333,
+      "characterCount": 1334,
+      "nonWhitespaceCharacterCount": 1122,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783995,
-      "modifiedDate": 1685938871604,
-      "sizeInBytes": 1091
+      "modifiedDate": 1686108790866,
+      "sizeInBytes": 1337
     },
     "The Fall and Rise of Gather/The Fourth Gathering/Conceptual Space.md": {
       "isDirectory": false,
@@ -269,19 +269,33 @@
       "modifiedDate": 1685939150448,
       "sizeInBytes": 1124
     },
+    "The Fall and Rise of Gather/The First Gathering/Excerpt from the Founder (1).md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686108835626,
+      "modifiedDate": 1686108835626,
+      "sizeInBytes": 0
+    },
     "The Fall and Rise of Gather/The First Gathering/Project Requisition Form Epsilon Eridani 102.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 64,
-      "pageCount": 0.21333333333333335,
-      "characterCount": 426,
-      "nonWhitespaceCharacterCount": 363,
+      "wordCount": 185,
+      "pageCount": 0.6166666666666667,
+      "characterCount": 1183,
+      "nonWhitespaceCharacterCount": 997,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686107161107,
-      "modifiedDate": 1686107621386,
-      "sizeInBytes": 426
+      "modifiedDate": 1686108303118,
+      "sizeInBytes": 1183
     },
     "The Fall and Rise of Gather/The First Gathering/Overview 1.md": {
       "isDirectory": false,
@@ -328,44 +342,44 @@
     "The Fall and Rise of Gather/Crèches.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 287,
-      "pageCount": 0.9566666666666667,
-      "characterCount": 1894,
-      "nonWhitespaceCharacterCount": 1600,
-      "linkCount": 3,
+      "wordCount": 293,
+      "pageCount": 0.9766666666666667,
+      "characterCount": 1945,
+      "nonWhitespaceCharacterCount": 1645,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783879,
-      "modifiedDate": 1686107529788,
-      "sizeInBytes": 1897
+      "modifiedDate": 1686107712904,
+      "sizeInBytes": 1948
     },
     "The Fall and Rise of Gather/Categories/Stories.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 89,
       "pageCount": 0.2966666666666667,
-      "characterCount": 585,
-      "nonWhitespaceCharacterCount": 489,
+      "characterCount": 584,
+      "nonWhitespaceCharacterCount": 488,
       "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783916,
-      "modifiedDate": 1686107275636,
-      "sizeInBytes": 585
+      "modifiedDate": 1686107643770,
+      "sizeInBytes": 584
     },
     "The Fall and Rise of Gather/Categories/Legends.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 79,
-      "pageCount": 0.2633333333333333,
-      "characterCount": 460,
-      "nonWhitespaceCharacterCount": 378,
+      "wordCount": 83,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 484,
+      "nonWhitespaceCharacterCount": 397,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783909,
-      "modifiedDate": 1686021933235,
-      "sizeInBytes": 460
+      "modifiedDate": 1686108830780,
+      "sizeInBytes": 484
     }
   }
 }

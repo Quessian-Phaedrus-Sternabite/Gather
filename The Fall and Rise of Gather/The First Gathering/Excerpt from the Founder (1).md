@@ -1,0 +1,2 @@
+#one, #legend 
+The Founder sat in a yard, and Amy sat at her feet. She looked to Amy, and had asked, "What troubles you?" For she had seen that something was on her mind. Amy had merely shied away from the question, asking what the point of creation was if no one was there to bask upon it. The founder merely smiled, and 
