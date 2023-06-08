@@ -20,16 +20,16 @@
     "readme.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 103,
-      "pageCount": 0.3433333333333333,
-      "characterCount": 600,
-      "nonWhitespaceCharacterCount": 493,
+      "wordCount": 104,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 604,
+      "nonWhitespaceCharacterCount": 496,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686111459705,
-      "modifiedDate": 1686191126062,
-      "sizeInBytes": 600
+      "modifiedDate": 1686191156660,
+      "sizeInBytes": 604
     },
     "Markdown Cheat Sheet.md": {
       "isDirectory": false,
@@ -76,16 +76,16 @@
     "The Fall and Rise of Gather/The Second Gathering/Vivisection of a Disaster.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 210,
-      "pageCount": 0.7,
-      "characterCount": 1270,
-      "nonWhitespaceCharacterCount": 1059,
+      "wordCount": 227,
+      "pageCount": 0.7566666666666667,
+      "characterCount": 1372,
+      "nonWhitespaceCharacterCount": 1144,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686021442391,
-      "modifiedDate": 1686106111975,
-      "sizeInBytes": 1270
+      "modifiedDate": 1686193115607,
+      "sizeInBytes": 1372
     },
     "The Fall and Rise of Gather/The Second Gathering/Transportation Requested.md": {
       "isDirectory": false,
@@ -142,6 +142,20 @@
       "createdDate": 1686010784021,
       "modifiedDate": 1686111128860,
       "sizeInBytes": 17777
+    },
+    "The Fall and Rise of Gather/The Fourth Gathering/Defiance.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686196708033,
+      "modifiedDate": 1686196708033,
+      "sizeInBytes": 0
     },
     "The Fall and Rise of Gather/The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
