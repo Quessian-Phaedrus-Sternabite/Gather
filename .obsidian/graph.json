@@ -11,21 +11,63 @@
       "query": "tag:#overview",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#story",
-      "color": {
-        "a": 1,
-        "rgb": 5401056
+        "rgb": 808268
       }
     },
     {
       "query": "tag:#information",
       "color": {
         "a": 1,
-        "rgb": 12669664
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#one",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#two",
+      "color": {
+        "a": 1,
+        "rgb": 14711890
+      }
+    },
+    {
+      "query": "tag:#three",
+      "color": {
+        "a": 1,
+        "rgb": 14732626
+      }
+    },
+    {
+      "query": "tag:#four",
+      "color": {
+        "a": 1,
+        "rgb": 9625682
+      }
+    },
+    {
+      "query": "tag:#five",
+      "color": {
+        "a": 1,
+        "rgb": 5425632
+      }
+    },
+    {
+      "query": "tag:#sixth",
+      "color": {
+        "a": 1,
+        "rgb": 5526240
+      }
+    },
+    {
+      "query": "tag:#seventh",
+      "color": {
+        "a": 1,
+        "rgb": 10506976
       }
     }
   ],
@@ -39,6 +81,6 @@
   "repelStrength": 12.7083333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792644,
-  "close": false
+  "scale": 0.7132754626224506,
+  "close": true
 }
