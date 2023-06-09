@@ -64,7 +64,7 @@
       }
     },
     {
-      "query": "tag:#seventh",
+      "query": "tag:#seven",
       "color": {
         "a": 1,
         "rgb": 10506976
@@ -81,6 +81,6 @@
   "repelStrength": 12.7083333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224506,
-  "close": true
+  "scale": 0.7132754626224508,
+  "close": false
 }
