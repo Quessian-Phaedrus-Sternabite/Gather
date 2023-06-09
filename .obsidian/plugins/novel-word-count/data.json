@@ -90,16 +90,16 @@
     "The Fall and Rise of Gather/Information/Naming Conventions.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 254,
-      "pageCount": 0.8466666666666667,
-      "characterCount": 1637,
-      "nonWhitespaceCharacterCount": 1371,
-      "linkCount": 1,
+      "wordCount": 252,
+      "pageCount": 0.84,
+      "characterCount": 1646,
+      "nonWhitespaceCharacterCount": 1382,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783897,
-      "modifiedDate": 1686273259415,
-      "sizeInBytes": 1645
+      "modifiedDate": 1686274575422,
+      "sizeInBytes": 1654
     },
     "The Fall and Rise of Gather/Information/Description.md": {
       "isDirectory": false,
@@ -157,33 +157,47 @@
       "modifiedDate": 1686272397820,
       "sizeInBytes": 172
     },
-    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md": {
+    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 111,
-      "pageCount": 0.37,
-      "characterCount": 661,
-      "nonWhitespaceCharacterCount": 550,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
+      "createdDate": 1686274735188,
+      "modifiedDate": 1686274735188,
+      "sizeInBytes": 0
+    },
+    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 119,
+      "pageCount": 0.39666666666666667,
+      "characterCount": 761,
+      "nonWhitespaceCharacterCount": 640,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
       "createdDate": 1686272630371,
-      "modifiedDate": 1686274112161,
-      "sizeInBytes": 661
+      "modifiedDate": 1686274732475,
+      "sizeInBytes": 761
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 227,
       "pageCount": 0.7566666666666667,
-      "characterCount": 1380,
-      "nonWhitespaceCharacterCount": 1152,
+      "characterCount": 1383,
+      "nonWhitespaceCharacterCount": 1155,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686021442391,
-      "modifiedDate": 1686272649074,
-      "sizeInBytes": 1380
+      "modifiedDate": 1686274378140,
+      "sizeInBytes": 1383
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md": {
       "isDirectory": false,
@@ -232,14 +246,14 @@
       "noteCount": 1,
       "wordCount": 3080,
       "pageCount": 10.266666666666667,
-      "characterCount": 17783,
-      "nonWhitespaceCharacterCount": 14696,
+      "characterCount": 17786,
+      "nonWhitespaceCharacterCount": 14699,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010784021,
-      "modifiedDate": 1686272649058,
-      "sizeInBytes": 17785
+      "modifiedDate": 1686274301854,
+      "sizeInBytes": 17788
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md": {
       "isDirectory": false,
@@ -392,7 +406,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783950,
-      "modifiedDate": 1686274151071,
+      "modifiedDate": 1686274551643,
       "sizeInBytes": 969
     },
     "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md": {
