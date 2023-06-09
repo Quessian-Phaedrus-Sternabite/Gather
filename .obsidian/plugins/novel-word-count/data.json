@@ -17,20 +17,6 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
-    "0..md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1686274168632,
-      "modifiedDate": 1686274177423,
-      "sizeInBytes": 0
-    },
     "readme.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -62,16 +48,16 @@
     "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 15,
-      "nonWhitespaceCharacterCount": 13,
+      "wordCount": 108,
+      "pageCount": 0.36,
+      "characterCount": 652,
+      "nonWhitespaceCharacterCount": 543,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686273297137,
-      "modifiedDate": 1686273310399,
-      "sizeInBytes": 15
+      "modifiedDate": 1686275454039,
+      "sizeInBytes": 652
     },
     "The Fall and Rise of Gather/Information/Notable Characters.md": {
       "isDirectory": false,
@@ -120,14 +106,14 @@
       "noteCount": 1,
       "wordCount": 293,
       "pageCount": 0.9766666666666667,
-      "characterCount": 1961,
+      "characterCount": 1962,
       "nonWhitespaceCharacterCount": 1661,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783879,
-      "modifiedDate": 1686272649089,
-      "sizeInBytes": 1964
+      "modifiedDate": 1686275730738,
+      "sizeInBytes": 1965
     },
     "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md": {
       "isDirectory": false,
@@ -160,30 +146,30 @@
     "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 22,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 136,
+      "nonWhitespaceCharacterCount": 115,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686274735188,
-      "modifiedDate": 1686274735188,
-      "sizeInBytes": 0
+      "modifiedDate": 1686275716341,
+      "sizeInBytes": 137
     },
     "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 119,
-      "pageCount": 0.39666666666666667,
-      "characterCount": 761,
-      "nonWhitespaceCharacterCount": 640,
-      "linkCount": 2,
+      "wordCount": 169,
+      "pageCount": 0.5633333333333334,
+      "characterCount": 1005,
+      "nonWhitespaceCharacterCount": 833,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686272630371,
-      "modifiedDate": 1686274732475,
-      "sizeInBytes": 761
+      "modifiedDate": 1686275325494,
+      "sizeInBytes": 1005
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md": {
       "isDirectory": false,

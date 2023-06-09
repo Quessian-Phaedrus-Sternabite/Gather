@@ -24,14 +24,6 @@
             "id": "cc0ea7c4f9b81a9c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a544679d9d800195",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
@@ -54,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md"
+              }
             }
           },
           {
@@ -241,16 +237,17 @@
   },
   "active": "cc0ea7c4f9b81a9c",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
+    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
     "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
-    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
     "The Fall and Rise of Gather/Information/Notable Characters.md",
@@ -260,7 +257,6 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
     "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
     "The Fall and Rise of Gather/Information/Description.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
