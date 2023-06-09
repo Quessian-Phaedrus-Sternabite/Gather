@@ -57,6 +57,24 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "987e34b7e32ec1c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c09e68e1ed023c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,17 +219,20 @@
   },
   "active": "e933f5588f332c77",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
+    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
+    "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
+    "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
     "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/3. The Third Gathering",
-    "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md",
@@ -219,7 +240,6 @@
     "The Fall and Rise of Gather/Information/Description.md",
     "readme.md",
     "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
-    "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/Information",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
@@ -227,8 +247,6 @@
     "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
     "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
-    "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "Untitled.canvas",
     "The Fall and Rise of Gather/6. The Sixth Gathering",
     "The Fall and Rise of Gather/Gather.canvas"
