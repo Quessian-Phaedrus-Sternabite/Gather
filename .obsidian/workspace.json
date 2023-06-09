@@ -167,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md"
-              }
+              "state": {}
             }
           },
           {
@@ -236,8 +232,9 @@
       "obsidian-wordnet-plugin:WordNet Dictionary": false
     }
   },
-  "active": "cc0ea7c4f9b81a9c",
+  "active": "e933f5588f332c77",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
     "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
@@ -257,7 +254,6 @@
     "The Fall and Rise of Gather/Information/Notable Characters.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
     "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
     "The Fall and Rise of Gather/Information/Description.md",
