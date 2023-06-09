@@ -5,5 +5,4 @@ Named after the famed scientist, the Kuiper Drive was the first prototype made b
 # Project Orion
 
 ^bf48a8
-
 Humanity did it. They used nukes. For space. This is absurdly destructive, expensive, and toxic to anything. 
