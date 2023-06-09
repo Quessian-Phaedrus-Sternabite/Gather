@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md"
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md"
               }
             }
           },
@@ -201,8 +201,10 @@
   },
   "active": "e933f5588f332c77",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
+    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "The Fall and Rise of Gather/3. The Third Gathering",
+    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
     "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
@@ -228,7 +230,6 @@
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "g r.md",
     "Untitled.canvas",
-    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
     "The Fall and Rise of Gather/6. The Sixth Gathering",
     "The Fall and Rise of Gather/Gather.canvas"
   ]
