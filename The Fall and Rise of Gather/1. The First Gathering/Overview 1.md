@@ -17,4 +17,4 @@ When writing for the first gathering, it should generally be positive. Ideally, 
 ## Naming Conventions
 Era-wise, this would occur near the beginning of human space exploration. As a result, names are standard with current practices.[^2]
 [^1]: As it was a small colony world on the outskirts of human space, the meaning of the "ditch" applied literally to most.
-[^2]:  See [1st Naming Conventions](Naming%20Conventions#^0b885e). 
+[^2]:  See [1st Naming Conventions](Naming%20Conventions.md#^0b885e). 
