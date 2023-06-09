@@ -15,4 +15,5 @@ Fidelis stems from faith. Perhaps government?
 ## Novus
 The most ambitious. Known for [Orion Drives](Faster-Than-Light Travel#^bf48a8). Constantly destroying planets, achieved the first Human-made megastructure ([[Project Requisition Form Epsilon Eridani 102]])
 ## Tempi
+
 ## Lucis
