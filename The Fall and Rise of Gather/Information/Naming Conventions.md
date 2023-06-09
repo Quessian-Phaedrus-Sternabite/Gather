@@ -13,7 +13,7 @@ Any titles go in front of the first name or the entire name.
 	- By far the longest, due to the golden age being needlessly complicated. Since names include the name plus a phrase, as [[Conceptual Space]] becomes prevalent, most don't share their full name freely. Significant numbers fall off as population grows
 	- Formal introduction. *Aevum Lewis Daniel*.  Societal. *Lewis Daniel*. Casual conversation. *Daniel*. Friends. *Daniel*.
 - 5th Gathering - Crèche, Family, Name, Iteration ^47bfe4
-	- Due to [cloning](0. Overview 5#^639685), an iteration number is optional. 
+	- Due to [[0. Overview 5#^639685]], an iteration number is optional. 
 	- Formal. *Aevum Lewis Daniel 2*. Societal. *Lewis Daniel 2*. Casual. *Daniel 2*
 - 6th Gathering - Crèche, Family, Name
 	- Iterations are only occasionally visible
