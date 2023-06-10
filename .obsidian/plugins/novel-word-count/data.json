@@ -244,16 +244,16 @@
     "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 170,
-      "pageCount": 0.5666666666666667,
-      "characterCount": 1018,
-      "nonWhitespaceCharacterCount": 845,
+      "wordCount": 172,
+      "pageCount": 0.5733333333333334,
+      "characterCount": 1042,
+      "nonWhitespaceCharacterCount": 867,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686272630371,
-      "modifiedDate": 1686276347883,
-      "sizeInBytes": 1018
+      "modifiedDate": 1686421862285,
+      "sizeInBytes": 1042
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md": {
       "isDirectory": false,
@@ -338,6 +338,20 @@
       "createdDate": 1686010783950,
       "modifiedDate": 1686278425740,
       "sizeInBytes": 963
+    },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686422116886,
+      "modifiedDate": 1686422116886,
+      "sizeInBytes": 0
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md": {
       "isDirectory": false,
@@ -440,16 +454,16 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 209,
-      "pageCount": 0.6966666666666667,
-      "characterCount": 1360,
-      "nonWhitespaceCharacterCount": 1143,
+      "wordCount": 326,
+      "pageCount": 1.0866666666666667,
+      "characterCount": 2089,
+      "nonWhitespaceCharacterCount": 1756,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783995,
-      "modifiedDate": 1686282332757,
-      "sizeInBytes": 1363
+      "modifiedDate": 1686422110970,
+      "sizeInBytes": 2093
     }
   }
 }
