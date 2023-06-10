@@ -28,18 +28,6 @@
         "dimension": 44.59247648902821,
         "children": [
           {
-            "id": "3c09e68e1ed023c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d44a60762c57d03e",
             "type": "leaf",
             "state": {
@@ -128,24 +116,8 @@
     "type": "split",
     "children": [
       {
-        "id": "4f5296ceedb28069",
-        "type": "tabs",
-        "dimension": 51.388888888888886,
-        "children": [
-          {
-            "id": "e933f5588f332c77",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "caf52b1f0c02ea0e",
         "type": "tabs",
-        "dimension": 48.61111111111111,
         "children": [
           {
             "id": "08eae35639aa8293",
@@ -153,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,6 +170,20 @@
             "type": "leaf",
             "state": {
               "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b550842f54f2adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c09e68e1ed023c5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
@@ -219,11 +201,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-wordnet-plugin:WordNet Dictionary": false
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "3d-graph:3D Graph": false
     }
   },
   "active": "3c09e68e1ed023c5",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/Categories/Information.md",
+    "The Fall and Rise of Gather/Categories/Stories.md",
+    "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
@@ -231,9 +217,7 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
     "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
-    "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
-    "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
     "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
@@ -249,7 +233,6 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
     "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
     "The Fall and Rise of Gather/Information/Description.md",
-    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
     "The Fall and Rise of Gather/3. The Third Gathering",
     "The Fall and Rise of Gather/Information",
     "Untitled.canvas",

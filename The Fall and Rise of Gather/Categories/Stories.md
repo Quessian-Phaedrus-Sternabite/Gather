@@ -14,7 +14,7 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[Champions of Nothing]]
 - [[In the Vaults of Monotony]]
 - [[Screams]]
-- 
+- [[Core Collapse]]
 
 ### The Fifth Gathering
 - [[Eternity in a Day]]

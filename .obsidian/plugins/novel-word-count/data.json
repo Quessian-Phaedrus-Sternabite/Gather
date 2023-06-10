@@ -157,19 +157,33 @@
       "modifiedDate": 1686272397820,
       "sizeInBytes": 172
     },
+    "The Fall and Rise of Gather/Categories/Information.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686422398047,
+      "modifiedDate": 1686422398047,
+      "sizeInBytes": 0
+    },
     "The Fall and Rise of Gather/Categories/Stories.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 89,
-      "pageCount": 0.2966666666666667,
-      "characterCount": 584,
-      "nonWhitespaceCharacterCount": 488,
-      "linkCount": 10,
+      "wordCount": 92,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 604,
+      "nonWhitespaceCharacterCount": 505,
+      "linkCount": 11,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783916,
-      "modifiedDate": 1686107643770,
-      "sizeInBytes": 584
+      "modifiedDate": 1686422365998,
+      "sizeInBytes": 604
     },
     "The Fall and Rise of Gather/Categories/Legends.md": {
       "isDirectory": false,
@@ -342,16 +356,16 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 19,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 107,
+      "nonWhitespaceCharacterCount": 89,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686422116886,
-      "modifiedDate": 1686422116886,
-      "sizeInBytes": 0
+      "modifiedDate": 1686422309408,
+      "sizeInBytes": 107
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md": {
       "isDirectory": false,
@@ -454,16 +468,16 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 326,
-      "pageCount": 1.0866666666666667,
-      "characterCount": 2089,
-      "nonWhitespaceCharacterCount": 1756,
-      "linkCount": 7,
+      "wordCount": 327,
+      "pageCount": 1.09,
+      "characterCount": 2102,
+      "nonWhitespaceCharacterCount": 1768,
+      "linkCount": 8,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783995,
-      "modifiedDate": 1686422110970,
-      "sizeInBytes": 2093
+      "modifiedDate": 1686422321275,
+      "sizeInBytes": 2106
     }
   }
 }

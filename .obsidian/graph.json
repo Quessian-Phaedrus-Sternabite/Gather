@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -12,13 +12,6 @@
       "color": {
         "a": 1,
         "rgb": 808268
-      }
-    },
-    {
-      "query": "tag:#information",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
       }
     },
     {
@@ -69,6 +62,20 @@
         "a": 1,
         "rgb": 10506976
       }
+    },
+    {
+      "query": "tag:#hub",
+      "color": {
+        "a": 1,
+        "rgb": 9764792
+      }
+    },
+    {
+      "query": "tag:#information",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 12.7083333333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792692,
+  "scale": 0.13168724279835664,
   "close": true
 }

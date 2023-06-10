@@ -1,0 +1,19 @@
+{
+  "filters": {
+    "doShowOrphans": true
+  },
+  "groups": {
+    "groups": [
+      {
+        "query": "tag:#hub",
+        "color": "#96ff94"
+      }
+    ]
+  },
+  "display": {
+    "nodeSize": 4,
+    "linkThickness": 5,
+    "particleSize": 11,
+    "particleCount": 4
+  }
+}
