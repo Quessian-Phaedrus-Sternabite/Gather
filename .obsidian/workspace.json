@@ -45,13 +45,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af318c7a9b34d33b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/Categories/Information.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md"
+              }
             }
           },
           {
@@ -205,17 +222,19 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "3c09e68e1ed023c5",
+  "active": "01ed7cd915584fc1",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
     "The Fall and Rise of Gather/Categories/Information.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
+    "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
-    "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
@@ -231,8 +250,6 @@
     "The Fall and Rise of Gather/Information/Notable Characters.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
-    "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
-    "The Fall and Rise of Gather/Information/Description.md",
     "The Fall and Rise of Gather/3. The Third Gathering",
     "The Fall and Rise of Gather/Information",
     "Untitled.canvas",
