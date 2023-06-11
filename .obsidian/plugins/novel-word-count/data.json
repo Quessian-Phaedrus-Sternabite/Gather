@@ -45,21 +45,7 @@
       "modifiedDate": 1686447726295,
       "sizeInBytes": 604
     },
-    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 534,
-      "pageCount": 1.78,
-      "characterCount": 3126,
-      "nonWhitespaceCharacterCount": 2592,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1686498565294,
-      "modifiedDate": 1686519315273,
-      "sizeInBytes": 3126
-    },
-    "The Fall and Rise of Gather/Information/Customs.md": {
+    "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed painting 1.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -69,9 +55,37 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1686519330811,
-      "modifiedDate": 1686519330811,
+      "createdDate": 1686522464804,
+      "modifiedDate": 1686522464804,
       "sizeInBytes": 0
+    },
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1076,
+      "pageCount": 3.5866666666666664,
+      "characterCount": 6192,
+      "nonWhitespaceCharacterCount": 5111,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686498565294,
+      "modifiedDate": 1686522460209,
+      "sizeInBytes": 6192
+    },
+    "The Fall and Rise of Gather/Information/Customs.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 113,
+      "pageCount": 0.37666666666666665,
+      "characterCount": 628,
+      "nonWhitespaceCharacterCount": 506,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686519330811,
+      "modifiedDate": 1686521808317,
+      "sizeInBytes": 628
     },
     "The Fall and Rise of Gather/Information/Notable Characters.md": {
       "isDirectory": false,
