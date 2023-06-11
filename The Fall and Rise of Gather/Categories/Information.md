@@ -1,5 +1,7 @@
 #hub, #information 
+- [[Customs]]
 - [[Crèches]]
+- [[Capital Planets]]
 - [[Description]]
 - [[Naming Conventions]]
 - [[Faster-Than-Light Travel]]
