@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Information.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md"
+              }
             }
           },
           {
@@ -210,11 +214,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "3c09e68e1ed023c5",
+  "active": "199fbf1f5bcea7d0",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets.md",
+    "The Fall and Rise of Gather/Categories/Stories.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/Categories/Information.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets.md",
     "The Fall and Rise of Gather/Information/Customs.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
     "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
@@ -222,7 +229,6 @@
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/7. The Seventh Gathering",
     "Untitled.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
@@ -234,11 +240,9 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
-    "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
-    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
     "The Fall and Rise of Gather/3. The Third Gathering",
     "The Fall and Rise of Gather/Information",
     "Untitled.canvas",
