@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "502a6583f70ca090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md"
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md"
               }
             }
           },
@@ -177,10 +190,15 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "5029f29a4e7aa68e",
+  "active": "502a6583f70ca090",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering",
+    "Untitled.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
     "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
     "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
     "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
@@ -194,17 +212,13 @@
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
     "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
-    "The Fall and Rise of Gather/Information/Notable Characters.md",
     "The Fall and Rise of Gather/3. The Third Gathering",
     "The Fall and Rise of Gather/Information",
     "Untitled.canvas",

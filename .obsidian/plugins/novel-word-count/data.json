@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686498489283,
+      "modifiedDate": 1686498489283,
+      "sizeInBytes": 0
+    },
     "readme.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -30,6 +44,20 @@
       "createdDate": 1686447726295,
       "modifiedDate": 1686447726295,
       "sizeInBytes": 604
+    },
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686498565294,
+      "modifiedDate": 1686498565294,
+      "sizeInBytes": 0
     },
     "The Fall and Rise of Gather/Information/Notable Characters.md": {
       "isDirectory": false,
@@ -146,16 +174,16 @@
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 43,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 279,
+      "nonWhitespaceCharacterCount": 236,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686498341929,
-      "modifiedDate": 1686498341929,
-      "sizeInBytes": 0
+      "modifiedDate": 1686498474018,
+      "sizeInBytes": 279
     },
     "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md": {
       "isDirectory": false,
