@@ -1,1 +1,1 @@
-Grace trudged across the murky sands of... wherever 
+Grace trudged across the murky sands of... wherever this was. Her only companions on this desolate planet of regolith and little else. With one key exception. Strewn haphazardly across the landscape were buildings, monumental structures towering over all else, their shadows' edges pitch black from the setting sun. Her every footfall kicked up dust into the air, where it settled in areas untouched by millenia
