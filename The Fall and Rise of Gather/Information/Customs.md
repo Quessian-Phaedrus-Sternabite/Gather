@@ -1,0 +1,6 @@
+- ## The Seventh Gathering
+	- Explorers would make a drink upon entering a new area. They then poured out half of it and drunk the rest. This stems from a practice from days of colony, when bringing bacteria on crops from fer
+		- The nearest available crop (usually lentils due to their prevalence)
+		- A portion of the soil
+		- And water from their home, or barring that, some of the last water they had drank.
+	- 

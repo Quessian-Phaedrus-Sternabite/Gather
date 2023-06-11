@@ -47,8 +47,12 @@
             "id": "199fbf1f5bcea7d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/Information/Customs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -126,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Fall and Rise of Gather/Information/Customs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Fall and Rise of Gather/Information/Customs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Fall and Rise of Gather/Information/Customs.md"
+              }
             }
           },
           {
@@ -208,6 +216,7 @@
   },
   "active": "199fbf1f5bcea7d0",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/Information/Customs.md",
     "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
@@ -234,7 +243,6 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
     "The Fall and Rise of Gather/3. The Third Gathering",
     "The Fall and Rise of Gather/Information",
     "Untitled.canvas",

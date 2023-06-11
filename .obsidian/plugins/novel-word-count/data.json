@@ -48,6 +48,20 @@
     "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md": {
       "isDirectory": false,
       "noteCount": 1,
+      "wordCount": 534,
+      "pageCount": 1.78,
+      "characterCount": 3126,
+      "nonWhitespaceCharacterCount": 2592,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686498565294,
+      "modifiedDate": 1686519315273,
+      "sizeInBytes": 3126
+    },
+    "The Fall and Rise of Gather/Information/Customs.md": {
+      "isDirectory": false,
+      "noteCount": 1,
       "wordCount": 0,
       "pageCount": 0,
       "characterCount": 0,
@@ -55,8 +69,8 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1686498565294,
-      "modifiedDate": 1686498565294,
+      "createdDate": 1686519330811,
+      "modifiedDate": 1686519330811,
       "sizeInBytes": 0
     },
     "The Fall and Rise of Gather/Information/Notable Characters.md": {
@@ -76,16 +90,16 @@
     "The Fall and Rise of Gather/Information/Naming Conventions.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 252,
-      "pageCount": 0.84,
-      "characterCount": 1646,
-      "nonWhitespaceCharacterCount": 1382,
+      "wordCount": 263,
+      "pageCount": 0.8766666666666667,
+      "characterCount": 1706,
+      "nonWhitespaceCharacterCount": 1430,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686447726295,
-      "modifiedDate": 1686447726295,
-      "sizeInBytes": 1654
+      "modifiedDate": 1686518327990,
+      "sizeInBytes": 1715
     },
     "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md": {
       "isDirectory": false,
