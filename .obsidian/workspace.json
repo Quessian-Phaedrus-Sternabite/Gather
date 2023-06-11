@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "199fbf1f5bcea7d0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,11 +206,11 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "502a6583f70ca090",
+  "active": "199fbf1f5bcea7d0",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
