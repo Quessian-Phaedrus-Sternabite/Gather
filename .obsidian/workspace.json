@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "502a6583f70ca090",
+            "id": "c24bab0175e404a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md"
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md"
               }
             }
           },
@@ -226,13 +226,14 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "502a6583f70ca090",
+  "active": "3aba25ab8571c0f3",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "conflict-files-obsidian-git.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
-    "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets.md",
     "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
@@ -254,7 +255,6 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
-    "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
     "The Fall and Rise of Gather/3. The Third Gathering",
     "The Fall and Rise of Gather/Information",
     "Untitled.canvas",
