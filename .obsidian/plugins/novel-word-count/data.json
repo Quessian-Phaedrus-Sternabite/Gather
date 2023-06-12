@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "conflict-files-obsidian-git.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 92,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 662,
+      "nonWhitespaceCharacterCount": 560,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686527941989,
+      "modifiedDate": 1686527941989,
+      "sizeInBytes": 662
+    },
     "Untitled.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -146,30 +160,30 @@
     "The Fall and Rise of Gather/Information/Crèches.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 299,
-      "pageCount": 0.9966666666666667,
-      "characterCount": 2001,
-      "nonWhitespaceCharacterCount": 1695,
+      "wordCount": 296,
+      "pageCount": 0.9866666666666667,
+      "characterCount": 1975,
+      "nonWhitespaceCharacterCount": 1672,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686447726295,
-      "modifiedDate": 1686523607918,
-      "sizeInBytes": 2004
+      "modifiedDate": 1686523749301,
+      "sizeInBytes": 1978
     },
     "The Fall and Rise of Gather/Categories/Stories.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 92,
-      "pageCount": 0.30666666666666664,
-      "characterCount": 604,
-      "nonWhitespaceCharacterCount": 505,
-      "linkCount": 11,
+      "wordCount": 108,
+      "pageCount": 0.36,
+      "characterCount": 701,
+      "nonWhitespaceCharacterCount": 586,
+      "linkCount": 14,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686447726295,
-      "modifiedDate": 1686447726295,
-      "sizeInBytes": 604
+      "modifiedDate": 1686523922993,
+      "sizeInBytes": 701
     },
     "The Fall and Rise of Gather/Categories/Legends.md": {
       "isDirectory": false,
@@ -188,16 +202,16 @@
     "The Fall and Rise of Gather/Categories/Information.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 193,
-      "nonWhitespaceCharacterCount": 171,
-      "linkCount": 7,
+      "wordCount": 27,
+      "pageCount": 0.09,
+      "characterCount": 229,
+      "nonWhitespaceCharacterCount": 202,
+      "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686447726295,
-      "modifiedDate": 1686447726295,
-      "sizeInBytes": 194
+      "modifiedDate": 1686523717558,
+      "sizeInBytes": 230
     },
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md": {
       "isDirectory": false,
@@ -258,30 +272,30 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 25,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 153,
+      "nonWhitespaceCharacterCount": 127,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686523611211,
-      "modifiedDate": 1686523611211,
-      "sizeInBytes": 0
+      "modifiedDate": 1686523695769,
+      "sizeInBytes": 153
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 101,
-      "pageCount": 0.33666666666666667,
-      "characterCount": 602,
-      "nonWhitespaceCharacterCount": 500,
+      "wordCount": 350,
+      "pageCount": 1.1666666666666667,
+      "characterCount": 2052,
+      "nonWhitespaceCharacterCount": 1701,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686447726295,
-      "modifiedDate": 1686523575586,
-      "sizeInBytes": 602
+      "modifiedDate": 1686525166760,
+      "sizeInBytes": 2052
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md": {
       "isDirectory": false,
@@ -294,7 +308,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686447726295,
-      "modifiedDate": 1686447726295,
+      "modifiedDate": 1686525074255,
       "sizeInBytes": 184
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md": {
