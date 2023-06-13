@@ -6,7 +6,10 @@
       {
         "id": "93d64419af4cfddd",
         "type": "tabs",
+<<<<<<< HEAD
         "dimension": 55.40752351097179,
+=======
+>>>>>>> 1217775d2b362ce16416437afec731c8707bd89e
         "children": [
           {
             "id": "5029f29a4e7aa68e",
@@ -14,57 +17,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "987e34b7e32ec1c8",
-        "type": "tabs",
-        "dimension": 44.59247648902821,
-        "children": [
-          {
-            "id": "d44a60762c57d03e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "01ed7cd915584fc1",
+            "id": "c24bab0175e404a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+=======
+                "file": "conflict-files-obsidian-git.md",
+>>>>>>> 1217775d2b362ce16416437afec731c8707bd89e
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af318c7a9b34d33b",
+            "id": "4773abb9080227f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Information.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "199fbf1f5bcea7d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "931f092b55d3ca61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/Information/Crèches.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+=======
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
+>>>>>>> 1217775d2b362ce16416437afec731c8707bd89e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +171,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+=======
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
+>>>>>>> 1217775d2b362ce16416437afec731c8707bd89e
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +198,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md"
+=======
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md"
+>>>>>>> 1217775d2b362ce16416437afec731c8707bd89e
               }
             }
           },
@@ -208,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295
+    "width": 317
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +246,9 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "01ed7cd915584fc1",
+  "active": "3aba25ab8571c0f3",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
     "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
@@ -248,8 +273,35 @@
     "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
     "The Fall and Rise of Gather/Information/Notable Characters.md",
+=======
+>>>>>>> 1217775d2b362ce16416437afec731c8707bd89e
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
+    "conflict-files-obsidian-git.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
+    "The Fall and Rise of Gather/Information/Crèches.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets.md",
+    "The Fall and Rise of Gather/Categories/Stories.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
+    "The Fall and Rise of Gather/Categories/Information.md",
+    "The Fall and Rise of Gather/Information/Customs.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed painting 1.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering",
+    "Untitled.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
+    "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
+    "Markdown Cheat Sheet.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
+    "The Fall and Rise of Gather/Categories/Legends.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "The Fall and Rise of Gather/3. The Third Gathering",
     "The Fall and Rise of Gather/Information",
     "Untitled.canvas",

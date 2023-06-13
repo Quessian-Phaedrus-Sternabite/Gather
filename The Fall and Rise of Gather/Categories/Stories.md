@@ -9,7 +9,7 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[Transportation Requested]]
 - [[Superiority through Purity]]
 - [[Vivisection of a Disaster]]
-
+- [[Collapse]]
 ### The Fourth Gathering 
 - [[Champions of Nothing]]
 - [[In the Vaults of Monotony]]
@@ -21,3 +21,7 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 
 ## The Sixth Gathering
 - [[A Precipice of Disaster]]
+
+## The Seventh Gathering
+- [[Ruin.]]
+- [[A Description of an Unnamed painting 1]]

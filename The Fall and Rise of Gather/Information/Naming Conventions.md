@@ -17,3 +17,5 @@ Any titles go in front of the first name or the entire name.
 	- Formal. *Aevum Lewis Daniel 2*. Societal. *Lewis Daniel 2*. Casual. *Daniel 2*
 - 6th Gathering - Crèche, Family, Name
 	- Iterations are only occasionally visible
+- 7th Gathering - Crèche (on occasion), name
+	- Very basic.
