@@ -101,6 +101,20 @@
       "modifiedDate": 1686614821739,
       "sizeInBytes": 1997
     },
+    "The Fall and Rise of Gather/Categories/Overviews.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686620008006,
+      "modifiedDate": 1686620008006,
+      "sizeInBytes": 0
+    },
     "The Fall and Rise of Gather/Categories/Stories.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -132,16 +146,16 @@
     "The Fall and Rise of Gather/Categories/Information.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 27,
-      "pageCount": 0.09,
-      "characterCount": 238,
-      "nonWhitespaceCharacterCount": 202,
+      "wordCount": 29,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 234,
+      "nonWhitespaceCharacterCount": 204,
       "linkCount": 9,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686422398047,
-      "modifiedDate": 1686614821737,
-      "sizeInBytes": 239
+      "modifiedDate": 1686620006129,
+      "sizeInBytes": 235
     },
     "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed Painting 1.md": {
       "isDirectory": false,
@@ -241,19 +255,33 @@
       "modifiedDate": 1686619151982,
       "sizeInBytes": 1148
     },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 46,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 283,
+      "nonWhitespaceCharacterCount": 235,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686614821734,
+      "modifiedDate": 1686619881751,
+      "sizeInBytes": 283
+    },
     "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 42,
+      "pageCount": 0.14,
+      "characterCount": 267,
+      "nonWhitespaceCharacterCount": 225,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686619723347,
-      "modifiedDate": 1686619723347,
-      "sizeInBytes": 0
+      "modifiedDate": 1686619983743,
+      "sizeInBytes": 267
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
@@ -366,20 +394,6 @@
       "createdDate": 1686010783968,
       "modifiedDate": 1686023157689,
       "sizeInBytes": 166
-    },
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 25,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 156,
-      "nonWhitespaceCharacterCount": 127,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1686614821734,
-      "modifiedDate": 1686614821734,
-      "sizeInBytes": 156
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md": {
       "isDirectory": false,

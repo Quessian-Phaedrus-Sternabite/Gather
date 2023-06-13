@@ -15,6 +15,7 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[In the Vaults of Monotony]]
 - [[Screams]]
 - [[Core Collapse]]
+- [[So You Want to Master the Universe!]]
 
 ### The Fifth Gathering
 - [[Eternity in a Day]]
