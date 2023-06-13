@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md"
+              }
             }
           }
         ]
@@ -162,7 +165,7 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "52200f312b5027bf",
+  "active": "a2e6a822f9902853",
   "lastOpenFiles": [
     "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
