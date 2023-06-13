@@ -1,2 +1,2 @@
 #key 
-This is the first story of Gather. Ideally, it should be written last. In it, the last living being in what's left of the universe dies. They are aware of the truth behind Conceptual Space's unravelling, and b 
+This is the first story of Gather. Ideally, it should be written last. In it, the last living being in what's left of the universe dies. They are aware of the truth behind Conceptual Space's unravelling, and know that the universe itself will cease to exist once she isn't there to remember it.
