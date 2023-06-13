@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md"
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md"
               }
             }
           }
@@ -194,7 +193,7 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "dc9643af5a8cc13d",
+  "active": "a2e6a822f9902853",
   "lastOpenFiles": [
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
