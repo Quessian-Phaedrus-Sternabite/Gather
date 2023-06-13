@@ -24,4 +24,4 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 
 ## The Seventh Gathering
 - [[Ruin.]]
-- [[A Description of an Unnamed painting 1]]
+- [[A Description of an Unnamed Painting 1]]

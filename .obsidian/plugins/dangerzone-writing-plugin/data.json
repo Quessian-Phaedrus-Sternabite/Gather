@@ -1,7 +1,7 @@
 {
   "countdownSeconds": "60",
   "secondsUntilDeletion": "5",
-  "succesfullSessionCount": "0",
+  "succesfullSessionCount": "1",
   "customEditorFontSize": "",
   "customEditorBackgroundColor": "#3b4f76"
 }
