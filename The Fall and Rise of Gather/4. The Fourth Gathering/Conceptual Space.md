@@ -6,7 +6,7 @@ In the early years of the Fourth Gathering, a discovery was made that changed ev
 Despite direct changes being outlawed, a beneficial side effect came from Conceptual Space. The first was longevity. The older something got, the more it was associated with being timeless, leading to extraordinary durability and functional immortality. Additionally, masters at crafts could spend centuries meditating upon their connection to an idea in order to strengthen a bond, leading to absurd feats. Unfortunately, though, this led to a resurgence every so often of people who would attempt to become known for their power or combat prowess, taking a mass indoctrination approach to connections. 
 
 ## Phrasal Names
-See [[Naming Conventions]] for more. A phrasal name is a name one forms an extraordinarily strong connection with, and in doing so binds it to their identity. Each Crèche has different methods for instillation. 
+A phrasal name is a name one forms an extraordinarily strong connection with, and in doing so binds it to their identity. Each Crèche has different methods for instillation. See [[Naming Conventions]] for more information.
 
 
 [^1]: See [[Conceptual Space Disambiguation]]
