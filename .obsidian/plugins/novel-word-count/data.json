@@ -232,14 +232,14 @@
       "noteCount": 1,
       "wordCount": 350,
       "pageCount": 1.1666666666666667,
-      "characterCount": 2055,
+      "characterCount": 2052,
       "nonWhitespaceCharacterCount": 1701,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010784006,
-      "modifiedDate": 1686614821735,
-      "sizeInBytes": 2055
+      "modifiedDate": 1686614935153,
+      "sizeInBytes": 2052
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md": {
       "isDirectory": false,
@@ -562,20 +562,6 @@
       "createdDate": 1686010784041,
       "modifiedDate": 1685889158096,
       "sizeInBytes": 1908
-    },
-    "conflict-files-obsidian-git.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 92,
-      "pageCount": 0.30666666666666664,
-      "characterCount": 678,
-      "nonWhitespaceCharacterCount": 560,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1686614821741,
-      "modifiedDate": 1686614821742,
-      "sizeInBytes": 678
     }
   }
 }
