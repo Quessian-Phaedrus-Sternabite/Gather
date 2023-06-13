@@ -7,3 +7,5 @@
 - Licet - A collaboration between Aevum and Veritas, this planet serves as a scientific outpost and convention center for the Crèches.
 
 ## Novus
+Novus maintains the power infrastructure around Gather, scilicet they have stations around many, if not all of the Dyson Spheres.
+- Dyson Station 01 ^216e7e
