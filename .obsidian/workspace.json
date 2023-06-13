@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md"
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md"
               }
             }
           }
@@ -206,12 +206,12 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "781573b82fcca1cf",
+  "active": "dd552b9f4acb053f",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/Information/Crèches.md",
-    "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+    "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
