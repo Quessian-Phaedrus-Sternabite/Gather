@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/0. Overview 7.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2366ed4bb8988b1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90e0269106941304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md"
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md"
               }
             }
           }
@@ -141,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2e6a822f9902853",
+  "active": "90e0269106941304",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/0. Overview 7.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md"
   ]
 }
