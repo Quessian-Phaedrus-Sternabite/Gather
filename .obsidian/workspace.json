@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md"
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md"
               }
             }
           }
@@ -183,21 +183,23 @@
   },
   "active": "a2e6a822f9902853",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
+    "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
     "The Fall and Rise of Gather/Information/Description.md",
     "The Fall and Rise of Gather/Information/Customs.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
     "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
     "The Fall and Rise of Gather/Categories/Information.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/Categories/Overviews.md",
@@ -206,8 +208,6 @@
     "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
     "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed Painting 1.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
-    "The Fall and Rise of Gather/Information/Crèches.md",
-    "The Fall and Rise of Gather/Categories/Stories.md",
-    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md"
+    "The Fall and Rise of Gather/Information/Crèches.md"
   ]
 }

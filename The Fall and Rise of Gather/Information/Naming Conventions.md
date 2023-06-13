@@ -11,9 +11,11 @@ Any titles go in front of the first name or the entire name.
 	- Formal introduction. *Aevum 12 Daniel*. Casual conversation. *12 Daniel*. Friends. *Daniel*
 - 4th Gathering - Crèche, Family, Name including titles or phrases. *Aevum Lewis Daniel of the Undying Clouds. ^876a4e
 	- By far the longest, due to the golden age being needlessly complicated. Since names include the name plus a phrase, as [[Conceptual Space]] becomes prevalent, most don't share their full name freely. Significant numbers fall off as population grows
-	- Formal introduction. *Aevum Lewis Daniel*.  Societal. *Lewis Daniel*. Casual conversation. *Daniel*. Friends. *Daniel*.
+	- Formal introduction. *Aevum Lewis Daniel*.  Societal. *Lewis Daniel*. Casual conversation. *Daniel.* Friends. *Daniel*.
+	- The shorter the name, the older the person generally is, as many people rushed to take short phrasal names.
 	- Crèches
-		- Aevum - 
+		- Aevum - Aevum instill a phrasal name onto a child from birth, usually representing a poem.
+		- Fidelis - Fidelis tend to choose it as part of becoming an adult, and as such, many are the bearer's favorite thing. Leads to names such as Fidelis 
 - 5th Gathering - Crèche, Family, Name, Iteration ^47bfe4
 	- Due to [Cloning](0.%20Overview%205#%5E639685.md), an iteration number is optional. 
 	- Formal. *Aevum Lewis Daniel 2*. Societal. *Lewis Daniel 2*. Casual. *Daniel 2*
