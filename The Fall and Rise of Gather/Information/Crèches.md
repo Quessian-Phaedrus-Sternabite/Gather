@@ -11,7 +11,8 @@ Cathan's founder [Noelle Cathan](0.%20Overview%201.md#^251a3e), a great descende
 ## Veritas
 Josiah Veritas was widely considered the most ambitious man of the Space Age. Headed science committee 
 ## Fidelis
-Fidelis stems from faith. Perhaps government?
+Fidelis stems from faith. Perhaps government? Most Crèches find them agreeable. Average people, extreme variety
+
 ## Novus
 The most ambitious. Known for [Orion Drives](Faster-Than-Light Travel#^bf48a8). Constantly destroying planets, achieved the first Human-made megastructure ([[Project Requisition Form Epsilon Eridani 102]])
 ## Tempi
