@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md"
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "a2e6a822f9902853",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/Categories/Overviews.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
     "The Fall and Rise of Gather/Categories/Legends.md",
@@ -215,7 +216,6 @@
     "readme.md",
     "The Fall and Rise of Gather/Categories/Hubs.md",
     "The Fall and Rise of Gather/Categories/Information.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
-    "The Fall and Rise of Gather/Categories/Stories.md"
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md"
   ]
 }
