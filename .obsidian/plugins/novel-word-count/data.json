@@ -101,7 +101,7 @@
       "modifiedDate": 1686614821739,
       "sizeInBytes": 1997
     },
-    "The Fall and Rise of Gather/Categories/Overviews.md": {
+    "The Fall and Rise of Gather/Categories/Hubs.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -111,23 +111,37 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1686620008006,
-      "modifiedDate": 1686620008006,
+      "createdDate": 1686620146162,
+      "modifiedDate": 1686620146162,
       "sizeInBytes": 0
+    },
+    "The Fall and Rise of Gather/Categories/Overviews.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 30,
+      "pageCount": 0.1,
+      "characterCount": 159,
+      "nonWhitespaceCharacterCount": 129,
+      "linkCount": 7,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686620008006,
+      "modifiedDate": 1686620140576,
+      "sizeInBytes": 159
     },
     "The Fall and Rise of Gather/Categories/Stories.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 108,
-      "pageCount": 0.36,
-      "characterCount": 727,
-      "nonWhitespaceCharacterCount": 586,
-      "linkCount": 14,
+      "wordCount": 116,
+      "pageCount": 0.38666666666666666,
+      "characterCount": 742,
+      "nonWhitespaceCharacterCount": 620,
+      "linkCount": 15,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783916,
-      "modifiedDate": 1686619616384,
-      "sizeInBytes": 727
+      "modifiedDate": 1686620145971,
+      "sizeInBytes": 742
     },
     "The Fall and Rise of Gather/Categories/Legends.md": {
       "isDirectory": false,
@@ -140,22 +154,22 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783909,
-      "modifiedDate": 1686273893743,
+      "modifiedDate": 1686620129698,
       "sizeInBytes": 547
     },
     "The Fall and Rise of Gather/Categories/Information.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 29,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 234,
-      "nonWhitespaceCharacterCount": 204,
-      "linkCount": 9,
+      "wordCount": 37,
+      "pageCount": 0.12333333333333334,
+      "characterCount": 276,
+      "nonWhitespaceCharacterCount": 238,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686422398047,
-      "modifiedDate": 1686620006129,
-      "sizeInBytes": 235
+      "modifiedDate": 1686620135732,
+      "sizeInBytes": 277
     },
     "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed Painting 1.md": {
       "isDirectory": false,

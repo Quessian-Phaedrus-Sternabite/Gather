@@ -1,4 +1,4 @@
-#hub, #information 
+#hub, #information
 The stories of Gather are assumed to be historical account. Note that "story" refers to any history shared amongst members of society. 
 
 ### The First Gathering
