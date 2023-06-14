@@ -3,5 +3,6 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "extended-colorschemes"
-  ]
+  ],
+  "textFontFamily": "LetterOMatic!"
 }
