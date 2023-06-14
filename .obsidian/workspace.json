@@ -159,7 +159,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +196,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -223,12 +219,12 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "781573b82fcca1cf",
+  "active": "09c659f914d46316",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md",
     "The Fall and Rise of Gather/7. The Seventh Gathering/0. Overview 7.md",
     "The Fall and Rise of Gather/7. The Seventh Gathering/Introduction.md",
     "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
-    "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md",
     "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/Categories/Information.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
