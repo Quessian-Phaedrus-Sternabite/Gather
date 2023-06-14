@@ -17,6 +17,7 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[Core Collapse]]
 - [[So You Want to Master the Universe!]]
 - [[Woodworking]]
+- [[Fishing in the Void]]
 
 ### The Fifth Gathering
 - [[Eternity in a Day]]
