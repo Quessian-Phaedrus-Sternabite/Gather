@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Fishing in the Void.md",
                 "mode": "source",
                 "source": false
               }
@@ -184,7 +184,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +200,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,9 +221,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "The Fall and Rise of Gather/Categories/Stories.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -248,12 +244,13 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "9b638acffab009cb",
+  "active": "09c659f914d46316",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Fishing in the Void.md",
+    "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/Categories/Overviews.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/Categories/Information.md",
@@ -274,7 +271,6 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md"
+    "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md"
   ]
 }
