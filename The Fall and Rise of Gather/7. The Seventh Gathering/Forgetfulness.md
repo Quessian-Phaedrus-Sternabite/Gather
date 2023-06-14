@@ -1,2 +1,2 @@
 #story , #seven 
-In his 
+In the 27th year of his life, Cathan Isaac decided to return home. It had been ages since he visited his mothers on Ferve, the small moon he grew up on. The town wasn't much, but Cathan Goods still kept it in it's logs, and Novus engineers still provided maintenance on the power supply. Or at least they had when Isaac had left; it had been almost a decade since then. Isaac had moved away at his mothers' insistence, they told him that an entire universe was out there for him to explore and discover. In his case, the universe was merely a Dyson station a few systems over, good ole' 1783. The station was middle-aged at this point, at least compared to other Dyson stations. Still, it constituted as roughly the core of 
