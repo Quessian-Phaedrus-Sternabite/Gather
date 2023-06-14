@@ -171,7 +171,7 @@
       "modifiedDate": 1686620135732,
       "sizeInBytes": 277
     },
-    "The Fall and Rise of Gather/7. The Seventh Gathering/Introduction.md": {
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -181,9 +181,23 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1686689888137,
-      "modifiedDate": 1686689888137,
+      "createdDate": 1686703750967,
+      "modifiedDate": 1686703750967,
       "sizeInBytes": 0
+    },
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Introduction.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 54,
+      "pageCount": 0.18,
+      "characterCount": 300,
+      "nonWhitespaceCharacterCount": 246,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686689888137,
+      "modifiedDate": 1686689959745,
+      "sizeInBytes": 300
     },
     "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed Painting 1.md": {
       "isDirectory": false,
@@ -286,30 +300,30 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 39,
-      "pageCount": 0.13,
-      "characterCount": 206,
-      "nonWhitespaceCharacterCount": 165,
+      "wordCount": 340,
+      "pageCount": 1.1333333333333333,
+      "characterCount": 1877,
+      "nonWhitespaceCharacterCount": 1534,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686688135641,
-      "modifiedDate": 1686689885204,
-      "sizeInBytes": 206
+      "modifiedDate": 1686691012821,
+      "sizeInBytes": 1877
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 92,
-      "pageCount": 0.30666666666666664,
-      "characterCount": 533,
-      "nonWhitespaceCharacterCount": 437,
+      "wordCount": 118,
+      "pageCount": 0.3933333333333333,
+      "characterCount": 697,
+      "nonWhitespaceCharacterCount": 575,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686614821734,
-      "modifiedDate": 1686627878173,
-      "sizeInBytes": 534
+      "modifiedDate": 1686690473952,
+      "sizeInBytes": 698
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md": {
       "isDirectory": false,
@@ -496,16 +510,16 @@
     "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 419,
-      "pageCount": 1.3966666666666667,
-      "characterCount": 2429,
-      "nonWhitespaceCharacterCount": 2006,
+      "wordCount": 426,
+      "pageCount": 1.42,
+      "characterCount": 2468,
+      "nonWhitespaceCharacterCount": 2038,
       "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686021874535,
-      "modifiedDate": 1686276233972,
-      "sizeInBytes": 2429
+      "modifiedDate": 1686690298767,
+      "sizeInBytes": 2468
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md": {
       "isDirectory": false,
@@ -566,16 +580,16 @@
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 185,
-      "pageCount": 0.6166666666666667,
-      "characterCount": 1183,
-      "nonWhitespaceCharacterCount": 997,
-      "linkCount": 0,
+      "wordCount": 221,
+      "pageCount": 0.7366666666666667,
+      "characterCount": 1470,
+      "nonWhitespaceCharacterCount": 1248,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686107161107,
-      "modifiedDate": 1686108303118,
-      "sizeInBytes": 1183
+      "modifiedDate": 1686690535405,
+      "sizeInBytes": 1470
     },
     "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md": {
       "isDirectory": false,

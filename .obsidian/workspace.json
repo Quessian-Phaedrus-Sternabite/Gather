@@ -6,6 +6,7 @@
       {
         "id": "da22538a389aedc6",
         "type": "tabs",
+        "dimension": 68.33756345177665,
         "children": [
           {
             "id": "a2e6a822f9902853",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,7 +43,15 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2f6bec5100ca5e4b",
+        "type": "tabs",
+        "dimension": 31.66243654822335,
+        "children": [
           {
             "id": "09c659f914d46316",
             "type": "leaf",
@@ -129,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md"
+                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md"
               }
             }
           }
@@ -193,8 +202,10 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "a2e6a822f9902853",
+  "active": "09c659f914d46316",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
@@ -203,7 +214,6 @@
     "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
@@ -219,7 +229,6 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
-    "The Fall and Rise of Gather/Information/Description.md",
-    "The Fall and Rise of Gather/Information/Customs.md"
+    "The Fall and Rise of Gather/Information/Description.md"
   ]
 }

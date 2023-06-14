@@ -23,7 +23,8 @@ Any titles go in front of the first name or the entire name.
 
 ## Crèche Conventions
 ### General
-- Aevum - Welsh in origin
+- Aevum - Welsh in origin. 
+- Cathan - Irish in origin
 - Novus - Stemming from middle-eastern roots. As such, instead of last or family names, the names of a father (or mother if needed) is used.
 
 ### Fourth Gathering
