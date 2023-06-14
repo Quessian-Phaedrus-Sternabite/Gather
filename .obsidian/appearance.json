@@ -4,5 +4,7 @@
   "enabledCssSnippets": [
     "extended-colorschemes"
   ],
-  "textFontFamily": "LetterOMatic!"
+  "textFontFamily": "",
+  "baseFontSize": 16,
+  "interfaceFontFamily": ""
 }
