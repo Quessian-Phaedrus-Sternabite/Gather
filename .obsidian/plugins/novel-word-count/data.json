@@ -64,14 +64,14 @@
       "noteCount": 1,
       "wordCount": 298,
       "pageCount": 0.9933333333333333,
-      "characterCount": 1759,
-      "nonWhitespaceCharacterCount": 1458,
+      "characterCount": 1758,
+      "nonWhitespaceCharacterCount": 1457,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686274133855,
-      "modifiedDate": 1686274159083,
-      "sizeInBytes": 1759
+      "modifiedDate": 1686771320635,
+      "sizeInBytes": 1758
     },
     "The Fall and Rise of Gather/Information/Naming Conventions.md": {
       "isDirectory": false,
@@ -92,14 +92,14 @@
       "noteCount": 1,
       "wordCount": 101,
       "pageCount": 0.33666666666666667,
-      "characterCount": 636,
-      "nonWhitespaceCharacterCount": 531,
+      "characterCount": 635,
+      "nonWhitespaceCharacterCount": 530,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686106797366,
-      "modifiedDate": 1686273948320,
-      "sizeInBytes": 636
+      "modifiedDate": 1686771333816,
+      "sizeInBytes": 635
     },
     "The Fall and Rise of Gather/Information/Crèches.md": {
       "isDirectory": false,
@@ -356,16 +356,16 @@
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 227,
-      "pageCount": 0.7566666666666667,
-      "characterCount": 1383,
-      "nonWhitespaceCharacterCount": 1155,
+      "wordCount": 719,
+      "pageCount": 2.3966666666666665,
+      "characterCount": 4302,
+      "nonWhitespaceCharacterCount": 3582,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686021442391,
-      "modifiedDate": 1686274378140,
-      "sizeInBytes": 1383
+      "modifiedDate": 1686771656369,
+      "sizeInBytes": 4302
     },
     "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md": {
       "isDirectory": false,
@@ -426,16 +426,16 @@
     "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3080,
-      "pageCount": 10.266666666666667,
-      "characterCount": 17786,
-      "nonWhitespaceCharacterCount": 14699,
+      "wordCount": 3096,
+      "pageCount": 10.32,
+      "characterCount": 17883,
+      "nonWhitespaceCharacterCount": 14780,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010784021,
-      "modifiedDate": 1686274301854,
-      "sizeInBytes": 17788
+      "modifiedDate": 1686771757554,
+      "sizeInBytes": 17885
     },
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md": {
       "isDirectory": false,
@@ -479,19 +479,33 @@
       "modifiedDate": 1686278425740,
       "sizeInBytes": 963
     },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Fishing in the Void.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686783373234,
+      "modifiedDate": 1686783373234,
+      "sizeInBytes": 0
+    },
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 2726,
       "pageCount": 9.086666666666666,
-      "characterCount": 15609,
-      "nonWhitespaceCharacterCount": 12869,
+      "characterCount": 15608,
+      "nonWhitespaceCharacterCount": 12868,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010784006,
-      "modifiedDate": 1686689381618,
-      "sizeInBytes": 15609
+      "modifiedDate": 1686715178128,
+      "sizeInBytes": 15608
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md": {
       "isDirectory": false,
