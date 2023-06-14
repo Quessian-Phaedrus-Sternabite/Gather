@@ -16,6 +16,7 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[Screams]]
 - [[Core Collapse]]
 - [[So You Want to Master the Universe!]]
+- [[Woodworking]]
 
 ### The Fifth Gathering
 - [[Eternity in a Day]]
@@ -26,3 +27,4 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 ## The Seventh Gathering
 - [[Ruin.]]
 - [[A Description of an Unnamed Painting 1]]
+- [[Forgetfulness]]
