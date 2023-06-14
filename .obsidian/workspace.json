@@ -56,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5567948eda043be3",
@@ -182,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md"
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md"
               }
             }
           }
@@ -246,12 +247,12 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "a2e6a822f9902853",
+  "active": "9b638acffab009cb",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
-    "The Fall and Rise of Gather/Information/Notable Characters.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+    "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
+    "The Fall and Rise of Gather/Information/Notable Characters.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
     "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
