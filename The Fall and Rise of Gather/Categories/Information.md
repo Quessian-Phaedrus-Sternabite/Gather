@@ -5,7 +5,7 @@
 - [[Description]]
 - [[Naming Conventions]]
 - [[Faster-Than-Light Travel]]
-- [[Notable Characters]]
+- [[The Fall and Rise of Gather/Information/Notable Characters]]
 - [[Conceptual Space]]
 - [[Conceptual Space Disambiguation]]
 - [[So You Want to Master the Universe!]]
