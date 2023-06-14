@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "9b638acffab009cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dc9643af5a8cc13d",
             "type": "leaf",
             "state": {
@@ -236,11 +248,13 @@
   },
   "active": "a2e6a822f9902853",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
+    "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
+    "The Fall and Rise of Gather/Information/Notable Characters.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
     "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
     "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
@@ -259,8 +273,6 @@
     "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
     "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed Painting 1.md",
-    "The Fall and Rise of Gather/7. The Seventh Gathering/0. Overview 7.md",
-    "The Fall and Rise of Gather/7. The Seventh Gathering/Introduction.md",
-    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md"
+    "The Fall and Rise of Gather/7. The Seventh Gathering/0. Overview 7.md"
   ]
 }
