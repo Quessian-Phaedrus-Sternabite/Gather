@@ -143,6 +143,20 @@
       "modifiedDate": 1685938720160,
       "sizeInBytes": 600
     },
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1686957114743,
+      "modifiedDate": 1686957114743,
+      "sizeInBytes": 0
+    },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -162,14 +176,14 @@
       "noteCount": 1,
       "wordCount": 192,
       "pageCount": 0.64,
-      "characterCount": 1144,
-      "nonWhitespaceCharacterCount": 946,
+      "characterCount": 1134,
+      "nonWhitespaceCharacterCount": 936,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783934,
-      "modifiedDate": 1686619151982,
-      "sizeInBytes": 1148
+      "modifiedDate": 1686957110500,
+      "sizeInBytes": 1138
     },
     "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md": {
       "isDirectory": false,
@@ -294,7 +308,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686620146162,
-      "modifiedDate": 1686620182379,
+      "modifiedDate": 1686784757581,
       "sizeInBytes": 120
     },
     "The Fall and Rise of Gather/Categories/Information.md": {
@@ -398,16 +412,16 @@
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 22,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 122,
-      "nonWhitespaceCharacterCount": 100,
+      "wordCount": 45,
+      "pageCount": 0.15,
+      "characterCount": 259,
+      "nonWhitespaceCharacterCount": 212,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686020636493,
-      "modifiedDate": 1686022630074,
-      "sizeInBytes": 122
+      "modifiedDate": 1686794199782,
+      "sizeInBytes": 259
     },
     "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md": {
       "isDirectory": false,
@@ -482,30 +496,30 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
-      "pageCount": 0.006666666666666667,
-      "characterCount": 11,
-      "nonWhitespaceCharacterCount": 9,
+      "wordCount": 6,
+      "pageCount": 0.02,
+      "characterCount": 38,
+      "nonWhitespaceCharacterCount": 32,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686784703550,
-      "modifiedDate": 1686784724262,
-      "sizeInBytes": 11
+      "modifiedDate": 1686784741666,
+      "sizeInBytes": 38
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Fishing in the Void.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 653,
-      "pageCount": 2.1766666666666667,
-      "characterCount": 3717,
-      "nonWhitespaceCharacterCount": 3060,
-      "linkCount": 0,
+      "wordCount": 704,
+      "pageCount": 2.3466666666666667,
+      "characterCount": 4005,
+      "nonWhitespaceCharacterCount": 3297,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686783373234,
-      "modifiedDate": 1686784701565,
-      "sizeInBytes": 3717
+      "modifiedDate": 1686794058716,
+      "sizeInBytes": 4005
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,

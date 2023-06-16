@@ -1,0 +1,1 @@
+*%%A story set at an internment facility where a clone*
