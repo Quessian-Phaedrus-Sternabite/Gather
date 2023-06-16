@@ -1,1 +1,1 @@
-*%%A story set at an internment facility where a clone*
+*%%A story set at an internment facility where a clone attempts to escape over an exceedingly long life.%%*
