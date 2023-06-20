@@ -57,5 +57,14 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-wordy:wordy-syn": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }
