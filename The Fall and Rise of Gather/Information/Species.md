@@ -4,3 +4,4 @@
 	- Differently resemble plants
 - Guma
 	- A human-analogue native to Andromeda. 
+	- Triple helical DNA
