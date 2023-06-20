@@ -45,6 +45,20 @@
       "modifiedDate": 1686614821741,
       "sizeInBytes": 0
     },
+    "The Fall and Rise of Gather/Information/Species.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1687237224834,
+      "modifiedDate": 1687237224834,
+      "sizeInBytes": 0
+    },
     "The Fall and Rise of Gather/Information/Notable Characters.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -132,16 +146,16 @@
     "The Fall and Rise of Gather/Categories/Stories.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 125,
-      "pageCount": 0.4166666666666667,
-      "characterCount": 806,
-      "nonWhitespaceCharacterCount": 675,
-      "linkCount": 18,
+      "wordCount": 129,
+      "pageCount": 0.43,
+      "characterCount": 828,
+      "nonWhitespaceCharacterCount": 693,
+      "linkCount": 19,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783916,
-      "modifiedDate": 1686783668100,
-      "sizeInBytes": 806
+      "modifiedDate": 1687236183000,
+      "sizeInBytes": 828
     },
     "The Fall and Rise of Gather/Categories/Overviews.md": {
       "isDirectory": false,
@@ -300,44 +314,44 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 18,
-      "pageCount": 0.06,
-      "characterCount": 107,
-      "nonWhitespaceCharacterCount": 90,
+      "wordCount": 746,
+      "pageCount": 2.486666666666667,
+      "characterCount": 4712,
+      "nonWhitespaceCharacterCount": 3965,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686957114743,
-      "modifiedDate": 1686957156559,
-      "sizeInBytes": 107
+      "modifiedDate": 1687237170428,
+      "sizeInBytes": 4714
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 335,
-      "pageCount": 1.1166666666666667,
-      "characterCount": 2016,
-      "nonWhitespaceCharacterCount": 1679,
+      "wordCount": 336,
+      "pageCount": 1.12,
+      "characterCount": 2027,
+      "nonWhitespaceCharacterCount": 1688,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783929,
-      "modifiedDate": 1686191017189,
-      "sizeInBytes": 2016
+      "modifiedDate": 1687236171597,
+      "sizeInBytes": 2027
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 192,
       "pageCount": 0.64,
-      "characterCount": 1134,
+      "characterCount": 1135,
       "nonWhitespaceCharacterCount": 936,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783934,
-      "modifiedDate": 1686957110500,
-      "sizeInBytes": 1138
+      "modifiedDate": 1687234994176,
+      "sizeInBytes": 1139
     },
     "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md": {
       "isDirectory": false,

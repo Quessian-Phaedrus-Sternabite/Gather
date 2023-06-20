@@ -1,0 +1,6 @@
+- Lycium
+	- Resemble plants
+- Olea
+	- Differently resemble plants
+- Guma
+	- A human-analogue native to Andromeda. 

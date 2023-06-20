@@ -86,7 +86,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
+                    "file": "The Fall and Rise of Gather/Information/Species.md",
                     "mode": "source",
                     "source": false
                   }
@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
+                "file": "The Fall and Rise of Gather/Information/Species.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
+                "file": "The Fall and Rise of Gather/Information/Species.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md"
+                "file": "The Fall and Rise of Gather/Information/Species.md"
               }
             }
           }
@@ -248,16 +248,19 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "9b638acffab009cb",
+  "active": "919de72a89ab157c",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
+    "The Fall and Rise of Gather/Information/Species.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
     "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Fishing in the Void.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
     "The Fall and Rise of Gather/Information/Notable Characters.md",
@@ -273,9 +276,6 @@
     "The Fall and Rise of Gather/Gather.canvas",
     "The Fall and Rise of Gather/Information/Description.md",
     "readme.md",
-    "The Fall and Rise of Gather/Information/Customs.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md"
+    "The Fall and Rise of Gather/Information/Customs.md"
   ]
 }
