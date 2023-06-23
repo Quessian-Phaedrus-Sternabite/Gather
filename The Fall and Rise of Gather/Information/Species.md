@@ -5,3 +5,4 @@
 - Guma
 	- A human-analogue native to Andromeda. 
 	- Triple helical DNA
+	- non-binary
