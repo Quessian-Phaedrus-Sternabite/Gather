@@ -68,4 +68,5 @@ The tether descended, flames curling off of it as it tore through the flimsy atm
 
 ***
 
-Rowan 113 woke up, the last day a hole in their memory. Jarring every time, but this time in particular. For instead of the familiar confines of the Spider, their own personal inferno, nothing laid in front of Rowan except for darkness and a shadowy figure. Something was most definitely wrong. 
+Rowan 113 woke up, the last day a hole in their memory. Jarring every time, but this time in particular. For instead of the familiar confines of the Spider, their own personal inferno, nothing laid in front of Rowan except for darkness and a shadowy figure. Something was most definitely wrong. A human male walked up to them and sat down, dwarfed by the natural height of Rowan and all other Guma. He cleared his throat, and adjusted his glasses, a smirk half-present on his face.
+"Do you want to tell me why you're here?" he asked, a useless question, as it was obvious Rowan was un
