@@ -43,9 +43,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca401ecacb049379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "5567948eda043be3",
@@ -207,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md"
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md"
               }
             }
           },
@@ -288,8 +300,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "9b638acffab009cb",
+  "active": "ca401ecacb049379",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
     "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png",
@@ -317,7 +330,6 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Fishing in the Void.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
     "The Fall and Rise of Gather/Information/Notable Characters.md",
-    "The Fall and Rise of Gather/Categories/Information.md",
     "The Fall and Rise of Gather/Gather.canvas"
   ]
 }
