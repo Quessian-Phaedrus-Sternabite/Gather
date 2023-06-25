@@ -59,20 +59,6 @@
       "modifiedDate": 1685889158096,
       "sizeInBytes": 1908
     },
-    "The Fall and Rise of Gather/Try, try, again.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1687574929703,
-      "modifiedDate": 1687575012172,
-      "sizeInBytes": 0
-    },
     "The Fall and Rise of Gather/Information/Species.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -176,14 +162,14 @@
       "noteCount": 1,
       "wordCount": 129,
       "pageCount": 0.5608695652173913,
-      "characterCount": 828,
-      "nonWhitespaceCharacterCount": 693,
+      "characterCount": 827,
+      "nonWhitespaceCharacterCount": 692,
       "linkCount": 19,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783916,
-      "modifiedDate": 1687236183000,
-      "sizeInBytes": 828
+      "modifiedDate": 1687716733497,
+      "sizeInBytes": 827
     },
     "The Fall and Rise of Gather/Categories/Overviews.md": {
       "isDirectory": false,
@@ -339,19 +325,19 @@
       "modifiedDate": 1686272397820,
       "sizeInBytes": 172
     },
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md": {
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 9184,
-      "pageCount": 39.93043478260869,
-      "characterCount": 53827,
-      "nonWhitespaceCharacterCount": 44602,
+      "wordCount": 9187,
+      "pageCount": 39.94347826086957,
+      "characterCount": 53859,
+      "nonWhitespaceCharacterCount": 44629,
       "linkCount": 0,
-      "embedCount": 0,
+      "embedCount": 1,
       "aliases": null,
       "createdDate": 1686957114743,
-      "modifiedDate": 1687713367461,
-      "sizeInBytes": 53857
+      "modifiedDate": 1687713607004,
+      "sizeInBytes": 53889
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md": {
       "isDirectory": false,
