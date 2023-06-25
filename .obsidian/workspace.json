@@ -126,12 +126,23 @@
               {
                 "id": "09c659f914d46316",
                 "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "juggl_view",
+                  "state": {},
+                  "pinned": true
+                }
+              },
+              {
+                "id": "4ba347a19eaebc4b",
+                "type": "leaf",
                 "state": {
                   "type": "graph",
                   "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -208,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Species.md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Species.md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +259,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Species.md"
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md"
               }
+            }
+          },
+          {
+            "id": "5c003a23a9bc2665",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a63726b3fb99150",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
         ]
@@ -269,10 +296,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "dangerzone-writing-plugin:Dangerzone Writing": false
+      "dangerzone-writing-plugin:Dangerzone Writing": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "919de72a89ab157c",
+  "active": "dc9643af5a8cc13d",
   "lastOpenFiles": [
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
     "The Fall and Rise of Gather/Information/Species.md",
