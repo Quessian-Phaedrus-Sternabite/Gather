@@ -33,18 +33,6 @@
             }
           },
           {
-            "id": "05603c3f67a07f56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "781573b82fcca1cf",
             "type": "leaf",
             "state": {
@@ -57,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "5567948eda043be3",
@@ -219,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md"
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md"
               }
             }
           },
@@ -300,11 +288,11 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "502f692d6c89d690",
+  "active": "9b638acffab009cb",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
     "The Fall and Rise of Gather/Information/Species.md",
-    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
