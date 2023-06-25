@@ -1,3 +1,3 @@
 #one, #legend , #founder
 *%% This should be used in between stories about construction or grand works. Either at the beginning or the end of the work %%*
-The Founder sat in a yard, and Amy sat at her feet. She looked to Amy, and had asked, "What troubles you?" For she had seen that something was on her mind. Amy had merely shied away from the question, asking what the point of creation was if no one was there to bask upon it. The founder merely smiled, and sent Amy away.
+The Founder sat in a yard, and Amy sat at her feet. She looked to Amy, and had asked, "What troubles you?" For she had seen that something was on her mind. Amy had shied away from the question, asking what the point of creation was if no one was there to bask upon it. The founder merely smiled, and sent Amy away.
