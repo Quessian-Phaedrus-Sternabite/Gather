@@ -55,4 +55,6 @@ Every step Rowan took sent dust cascading from the ceiling and onto their should
 "Excuse me!" Rowan cried, and one of the watchers stared up blankly. Rowan tried not to tremble with anticipation: "how far is the Spider? I need to piss." The guard clearly thought them a moron.
 "It's been what, 10 hours and you already forgot? It's maybe 5 kilos that way, wait until the end of the day." Without another word, Rowan walked back into the mine, struggling not to smile. After an hour or so, Rowan returned to the ledge they had crossed under and skulked into the cave, pausing once inside to ensure nobody saw them. A few minutes backtracking revealed a crevasse, large enough to fit maybe 4 guma, and completely enshrouded by darkness through its bends. Bile built up in their throat, but that wouldn't stop them- Rowan crept through the claustrophobic opening and laid back in the opening, deciding to sleep. Nothing followed for the next two months except for sleeping and eating the bare minimum.
 
+Finally, the rumbling stopped. After another week to be sure, Rowan peeled themselves from the hole, blinking light into their eyes for the first time in months. Rowan 92 had vibrant memories of 91, and the contrast could not be clearer. Whereas 91 was resplendent with glorious musculature, 
+
 
