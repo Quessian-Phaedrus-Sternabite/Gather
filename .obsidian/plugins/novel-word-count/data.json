@@ -62,30 +62,30 @@
     "The Fall and Rise of Gather/Information/Species.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 32,
-      "pageCount": 0.1391304347826087,
-      "characterCount": 186,
-      "nonWhitespaceCharacterCount": 146,
+      "wordCount": 34,
+      "pageCount": 0.14782608695652175,
+      "characterCount": 195,
+      "nonWhitespaceCharacterCount": 154,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1687237224834,
-      "modifiedDate": 1687654023772,
-      "sizeInBytes": 186
+      "modifiedDate": 1687723268326,
+      "sizeInBytes": 195
     },
     "The Fall and Rise of Gather/Information/Crèches.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 302,
-      "pageCount": 1.3130434782608695,
-      "characterCount": 2030,
-      "nonWhitespaceCharacterCount": 1718,
+      "wordCount": 304,
+      "pageCount": 1.3217391304347825,
+      "characterCount": 2044,
+      "nonWhitespaceCharacterCount": 1729,
       "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686010783879,
-      "modifiedDate": 1686711586537,
-      "sizeInBytes": 2034
+      "modifiedDate": 1687724905507,
+      "sizeInBytes": 2048
     },
     "The Fall and Rise of Gather/Information/Notable Characters.md": {
       "isDirectory": false,
@@ -297,6 +297,34 @@
       "modifiedDate": 1686619579839,
       "sizeInBytes": 427
     },
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1687724950393,
+      "modifiedDate": 1687724950393,
+      "sizeInBytes": 0
+    },
+    "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.22608695652173913,
+      "characterCount": 299,
+      "nonWhitespaceCharacterCount": 248,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1687724818763,
+      "modifiedDate": 1687724950160,
+      "sizeInBytes": 299
+    },
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -328,16 +356,16 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 9187,
-      "pageCount": 39.94347826086957,
-      "characterCount": 53859,
-      "nonWhitespaceCharacterCount": 44629,
+      "wordCount": 10094,
+      "pageCount": 43.88695652173913,
+      "characterCount": 58971,
+      "nonWhitespaceCharacterCount": 48828,
       "linkCount": 0,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1686957114743,
-      "modifiedDate": 1687713607004,
-      "sizeInBytes": 53889
+      "modifiedDate": 1687724811938,
+      "sizeInBytes": 59002
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md": {
       "isDirectory": false,

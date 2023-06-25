@@ -1,0 +1,1 @@
+%%*Classic scrappy underdog story about a young girl joining the fleet and winning a battle, celebrating after destroying an enemy starship. Tempi vs. Novus. Ambitious to a fault, this is supposed to be a grim story of murder portrayed as a happy victory between two sides with no reason to fight. *
