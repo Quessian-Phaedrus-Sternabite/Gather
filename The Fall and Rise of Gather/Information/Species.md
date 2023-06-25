@@ -6,3 +6,5 @@
 	- A human-analogue native to Andromeda. 
 	- Triple helical DNA
 	- non-binary
+	- Children referred to as kuld
+	- 

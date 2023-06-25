@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
+                "file": "The Fall and Rise of Gather/Information/Species.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
+                "file": "The Fall and Rise of Gather/Information/Species.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md"
+                "file": "The Fall and Rise of Gather/Information/Species.md"
               }
             }
           }
@@ -272,12 +272,12 @@
       "dangerzone-writing-plugin:Dangerzone Writing": false
     }
   },
-  "active": "dc9643af5a8cc13d",
+  "active": "919de72a89ab157c",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try, again.md",
-    "The Fall and Rise of Gather/Try, try, again.md",
     "The Fall and Rise of Gather/Information/Species.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
+    "The Fall and Rise of Gather/Try, try, again.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
