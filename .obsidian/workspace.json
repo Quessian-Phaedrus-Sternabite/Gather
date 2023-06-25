@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md",
                 "mode": "source",
                 "source": false
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md"
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md"
               }
             }
           },
@@ -302,8 +302,9 @@
   },
   "active": "ca401ecacb049379",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
@@ -329,7 +330,6 @@
     "The Fall and Rise of Gather/7. The Seventh Gathering/Introduction.md",
     "readme.md",
     "Untitled.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
     "The Fall and Rise of Gather/Gather.canvas"
   ]
 }

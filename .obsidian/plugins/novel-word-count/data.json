@@ -297,7 +297,7 @@
       "modifiedDate": 1686619579839,
       "sizeInBytes": 427
     },
-    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md": {
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 0,
@@ -307,9 +307,23 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1687724950393,
-      "modifiedDate": 1687724950393,
+      "createdDate": 1687724997699,
+      "modifiedDate": 1687724997699,
       "sizeInBytes": 0
+    },
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 33,
+      "pageCount": 0.14347826086956522,
+      "characterCount": 173,
+      "nonWhitespaceCharacterCount": 141,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1687724950393,
+      "modifiedDate": 1687724997246,
+      "sizeInBytes": 173
     },
     "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md": {
       "isDirectory": false,
