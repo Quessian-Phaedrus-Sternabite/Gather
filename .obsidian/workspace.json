@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "5567948eda043be3",
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/The Wages of Sin.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/The Wages of Sin.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/The Wages of Sin.md"
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md"
               }
             }
           },
@@ -300,23 +300,27 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "ca401ecacb049379",
+  "active": "9b638acffab009cb",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
-    "The Fall and Rise of Gather/1. The First Gathering/The Wages of Sin.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Untitled.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+    "The Fall and Rise of Gather/1. The First Gathering/The Wages of Sin.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Untitled.md",
+    "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md",
     "The Fall and Rise of Gather/Information/Species.md",
     "The Fall and Rise of Gather/Categories/Stories.md",
@@ -326,10 +330,6 @@
     "The Fall and Rise of Gather/Try, try, again.md",
     "The Fall and Rise of Gather/Spider.png",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
-    "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/Gather.canvas"
   ]
 }

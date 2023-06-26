@@ -1,1 +1,2 @@
-%%*Story and Mary's recruitment. It consists of Aevum and Tempi explaining the *
+#fidelis , #one 
+%%*Story of Mary's recruitment. It consists of Aevum and Tempi explaining how they disassembled her criminal empire. Ends with the Founder offering Fidelis a place in Gather as a peacekeeper force. *%%
