@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md",
                 "mode": "source",
                 "source": false
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md"
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md"
               }
             }
           },
@@ -302,14 +302,15 @@
   },
   "active": "9b638acffab009cb",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/1. The First Gathering/The Wages of Sin.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Untitled.md",
     "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
-    "The Fall and Rise of Gather/1. The First Gathering/The Wages of Sin.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
     "The Fall and Rise of Gather/1. The First Gathering/Untitled.md",
     "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
@@ -329,7 +330,6 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png",
     "The Fall and Rise of Gather/Try, try, again.md",
     "The Fall and Rise of Gather/Spider.png",
-    "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/Gather.canvas"
   ]
 }

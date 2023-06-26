@@ -1,1 +1,2 @@
-#two , #fi
+#two , #fidelis , #key 
+%%*A tale concerning the mythical acts of Fidelis as she commands her peacekeeping force to rebel against all of Gather simultaneously, sparking the war and the second Gathering*%%

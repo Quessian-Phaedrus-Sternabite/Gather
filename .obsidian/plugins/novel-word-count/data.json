@@ -297,6 +297,20 @@
       "modifiedDate": 1686711531662,
       "sizeInBytes": 2193
     },
+    "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1687821843531,
+      "modifiedDate": 1687821843531,
+      "sizeInBytes": 0
+    },
     "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -622,16 +636,16 @@
     "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 33,
+      "pageCount": 0.14347826086956522,
+      "characterCount": 204,
+      "nonWhitespaceCharacterCount": 171,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1687821699803,
-      "modifiedDate": 1687821699803,
-      "sizeInBytes": 0
+      "modifiedDate": 1687821838787,
+      "sizeInBytes": 204
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md": {
       "isDirectory": false,
