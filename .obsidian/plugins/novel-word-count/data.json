@@ -300,16 +300,16 @@
     "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "wordCount": 21,
+      "pageCount": 0.09130434782608696,
+      "characterCount": 117,
+      "nonWhitespaceCharacterCount": 97,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1687724997699,
-      "modifiedDate": 1687724997699,
-      "sizeInBytes": 0
+      "modifiedDate": 1687725118001,
+      "sizeInBytes": 118
     },
     "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md": {
       "isDirectory": false,
@@ -370,16 +370,16 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 10094,
-      "pageCount": 43.88695652173913,
-      "characterCount": 58971,
-      "nonWhitespaceCharacterCount": 48828,
+      "wordCount": 10533,
+      "pageCount": 45.79565217391304,
+      "characterCount": 61556,
+      "nonWhitespaceCharacterCount": 50969,
       "linkCount": 0,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1686957114743,
-      "modifiedDate": 1687724811938,
-      "sizeInBytes": 59002
+      "modifiedDate": 1687821321889,
+      "sizeInBytes": 61587
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md": {
       "isDirectory": false,
@@ -608,16 +608,16 @@
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 719,
-      "pageCount": 3.126086956521739,
-      "characterCount": 4352,
+      "wordCount": 720,
+      "pageCount": 3.130434782608696,
+      "characterCount": 4353,
       "nonWhitespaceCharacterCount": 3632,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1686021442391,
-      "modifiedDate": 1686784709609,
-      "sizeInBytes": 4352
+      "modifiedDate": 1687737941570,
+      "sizeInBytes": 4353
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md": {
       "isDirectory": false,
@@ -716,6 +716,20 @@
       "createdDate": 1686273297137,
       "modifiedDate": 1686279117414,
       "sizeInBytes": 790
+    },
+    "The Fall and Rise of Gather/1. The First Gathering/The Wages of Sin.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1687821409109,
+      "modifiedDate": 1687821409109,
+      "sizeInBytes": 0
     },
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md": {
       "isDirectory": false,
