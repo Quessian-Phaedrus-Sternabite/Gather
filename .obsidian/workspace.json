@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
                 "mode": "source",
                 "source": false
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md"
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md"
               }
             }
           },
@@ -302,6 +302,7 @@
   },
   "active": "ca401ecacb049379",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
@@ -329,7 +330,6 @@
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/Categories/Hubs.md",
     "The Fall and Rise of Gather/7. The Seventh Gathering/Introduction.md",
-    "readme.md",
     "The Fall and Rise of Gather/Gather.canvas"
   ]
 }
