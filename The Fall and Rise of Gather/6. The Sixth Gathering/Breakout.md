@@ -1,1 +1,0 @@
-%%*Fidelis's wh*

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md",
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,8 +116,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           },
           {
             "id": "2f6bec5100ca5e4b",
@@ -219,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md",
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md",
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md"
+                "file": "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md"
               }
             }
           },
@@ -302,6 +301,14 @@
   },
   "active": "9b638acffab009cb",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "The Fall and Rise of Gather/Information/Crèches.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md",
     "The Fall and Rise of Gather/1. The First Gathering/The Wages of Sin.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/Breakout.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
@@ -317,18 +324,10 @@
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
     "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md",
     "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
-    "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md",
-    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
-    "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
-    "The Fall and Rise of Gather/Information/Crèches.md",
-    "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md",
     "The Fall and Rise of Gather/Information/Species.md",
     "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/Categories/Overviews.md",
-    "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png",
-    "The Fall and Rise of Gather/Try, try, again.md",
     "The Fall and Rise of Gather/Spider.png",
     "The Fall and Rise of Gather/Gather.canvas"
   ]

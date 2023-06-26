@@ -12,7 +12,7 @@ Cathan's founder [Noelle Cathan](0.%20Overview%201.md#^251a3e), a great descende
 Josiah Veritas was widely considered the most ambitious man of the Space Age. Headed science committee 
 
 ## Fidelis
-Fidelis stems from faith. Perhaps government? Most Crèches find them agreeable. Average people, extreme variety
+Mary Fidelis was the strongest fighter the world had ever seen- as well as the ruler of a criminal underworld spanning Earth. Gather took her down, and she was given a Faustian bargain. Uphold peace- the very thing she hated- or die. She, of course, chose peace. Australian, and names are standard English. 
 
 ## Novus
 Umbra Novus. The most ambitious. Known for [Orion Drives](Faster-Than-Light Travel#^bf48a8). Constantly destroying planets, achieved the first Human-made megastructure ([[Project Requisition Form Epsilon Eridani 102]])

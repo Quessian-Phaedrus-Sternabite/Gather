@@ -23,9 +23,10 @@ Any titles go in front of the first name or the entire name.
 
 ## Crèche Conventions
 ### General
-- Aevum - Welsh in origin. 
+- Aevum - Welsh or Mediterranean in origin. 
 - Cathan - Irish, or just generally western European in origin
-- Novus - Stemming from middle-eastern roots. As such, instead of last or family names, the names of a father (or mother if needed) is used.
+- Novus - Stemming from middle-eastern roots. As such, instead of last or family names, the names of a father (or mother if needed) is used. Umbra was born in Greece, but raised in turkey, and she chose to embrace their naming system for her vassals.
+- Fidelis - Australian!
 
 ### Fourth Gathering
 - Aevum - Aevum instill a phrasal name onto a child from birth, usually representing a poem.
