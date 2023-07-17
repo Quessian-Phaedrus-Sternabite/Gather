@@ -1,0 +1,2 @@
+#rhyne, #seven , #story 
+%%*An archaeologist explores Rhyne, watching her team be picked off one by one. At the end, a monk slaughters them all, and proceeds to devastate the segment of the galaxy, using abilities left from the 4th Gathering*%%

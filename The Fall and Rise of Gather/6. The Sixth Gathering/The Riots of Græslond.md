@@ -1,1 +1,2 @@
-%%*Græslond, a stupid old english form of Grassland, was an outer rim planet with a population of roughly 3 billion. Fidelis's Stones (the shortened form of Whetstones) struggle to contain a revolt from consuming the planet. *
+#legend , #six , #fidelis 
+%%*Græslond, a stupid old english form of Grassland, was an outer rim planet with a population of roughly 3 billion. Fidelis's Stones (the shortened form of Whetstones) struggle to contain a revolt from consuming the planet. In this legend, it's told in exaggerated form during the 7th gathering*%%

@@ -6,7 +6,17 @@ Most legends are assumed to be told during the 6th or 7th Gathering, as they rep
 
 ## The Second Gathering
 - [[The Swollen Men]]
+- [[Rightfully Hers]]
 
 ### The Fourth Gathering
 - [[The Tale of Lauren]]
 - [[Philip sat on a stump.]]
+
+### The Fifth Gathering
+- [[The Labyrinths of Chaos]]
+- [[The Monks of Madness]]
+
+### The Sixth Gathering
+- [[The Riots of Græslond]]
+
+### The Seventh Gathering

@@ -1,0 +1,2 @@
+#legend , #six , #rhyne 
+%%*Tale of Rhyne, and an explorer being trapped in there losing their mind. Servants, and the remnants of Cathan's original passive transport sustain them. Ends with Cathan, as a godess, coming to the explorer and rescuing them, before sending them out to spread the story. Passed down through generations since the 5th Gathering*

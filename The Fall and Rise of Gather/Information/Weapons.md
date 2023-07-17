@@ -1,0 +1,11 @@
+- Gnathic Whip
+	- Main weapon. Name stems from the jawbone shape of the whip. Looks visually like a chain with a bunch of nodules on the end. Can be customized to be anything from bombs or bullets
+	- Three names emerged, differing in region
+		- Gignus - Most common. Stems from gigno, or "to beget" due to the creation aspect and genus, relating to the jawbone.
+		- Gena - Less common. Ignores genus, and focuses on combining gigno and the whip.
+		- Geni - Less common. Nickname-esque shortening of gnathic whip.
+- Guns (obviously)
+	- Unfortunately, guns are way to practical not to use.
+- Thrasher
+	- Conventionally refers to larger projectiles, with a thrasher thorn being 5 cm across and spikey, as they fragment into smaller pieces.
+	- Rifled railguns. Exhaust is accelerated backwards to reduce recoil, resulting in a hollow shape loaded with a break. 

@@ -3,6 +3,8 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 
 ### The First Gathering
 - [[Project Requisition Form Epsilon Eridani 102]]
+- [[The Wages of Sin]]
+- [[Foundations of Freight]]
 
 ### The Second Gathering
 - [[Shipped into Oblivion]]
@@ -10,6 +12,7 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[Superiority through Purity]]
 - [[Vivisection of a Disaster]]
 - [[Collapse]]
+- 
 ### The Fourth Gathering 
 - [[Champions of Nothing]]
 - [[In the Vaults of Monotony]]
@@ -18,10 +21,12 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[So You Want to Master the Universe!]]
 - [[Woodworking]]
 - [[Fishing in the Void]]
+- [[Recovery]]
 
 ### The Fifth Gathering
 - [[Eternity in a Day]]
 - [[Try, try again]]
+- [[Let Loose]]
 
 ## The Sixth Gathering
 - [[A Precipice of Disaster]]
@@ -30,3 +35,4 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[Ruin.]]
 - [[A Description of an Unnamed Painting 1]]
 - [[Forgetfulness]]
+- [[Revenge]]

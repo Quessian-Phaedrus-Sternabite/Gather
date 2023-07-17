@@ -1,3 +1,7 @@
+---
+era: 4
+date: 13500
+---
 #story, #four 
 ###*Excerpt from* XTreme Fishing: an Autobiography *, by Fidelis Jones Perc.*
 There was an extreme sport often revered in Gather for being the dullest, most arduous task possible. For that very reason, I, Fidelis Jones Twelve Second Percussion Solo, am the best in the universe! You see, most people assume that by virtue of being "the master of dominion and control," I would be hotheaded, ambitious, and constantly subjugating. They would be completely right. and yet, fishing alone has been able to completely captivate me! Words can't describe how euphoric it is to empty your rage into a rod, fighting tooth and nail against the horrors of the deep! It's exhilarating! And at the end, when you've bent whatever behemoth you've found this time to your will, you receive a nice meal. There's nothing else like it!
