@@ -17,6 +17,20 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "Eighth Gathering.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1693024751800,
+      "modifiedDate": 1693024751800,
+      "sizeInBytes": 0
+    },
     "readme.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -132,30 +146,30 @@
     "The Fall and Rise of Gather/Information/Customs.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 113,
-      "pageCount": 0.49130434782608695,
-      "characterCount": 628,
-      "nonWhitespaceCharacterCount": 506,
+      "wordCount": 112,
+      "pageCount": 0.48695652173913045,
+      "characterCount": 626,
+      "nonWhitespaceCharacterCount": 505,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220979,
-      "modifiedDate": 1687826190000,
-      "sizeInBytes": 628
+      "modifiedDate": 1693024204692,
+      "sizeInBytes": 626
     },
     "The Fall and Rise of Gather/Information/Crèches.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 419,
-      "pageCount": 1.8217391304347825,
-      "characterCount": 2720,
-      "nonWhitespaceCharacterCount": 2291,
-      "linkCount": 5,
+      "wordCount": 430,
+      "pageCount": 1.8695652173913044,
+      "characterCount": 2797,
+      "nonWhitespaceCharacterCount": 2357,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220974,
-      "modifiedDate": 1688065844000,
-      "sizeInBytes": 2723
+      "modifiedDate": 1693024271965,
+      "sizeInBytes": 2800
     },
     "The Fall and Rise of Gather/Categories/Overviews.md": {
       "isDirectory": false,
@@ -510,16 +524,16 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Worst of All Possible Worlds.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1,
-      "pageCount": 0.004347826086956522,
-      "characterCount": 5,
-      "nonWhitespaceCharacterCount": 3,
-      "linkCount": 0,
+      "wordCount": 156,
+      "pageCount": 0.6782608695652174,
+      "characterCount": 920,
+      "nonWhitespaceCharacterCount": 760,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693024125526,
-      "modifiedDate": 1693024143092,
-      "sizeInBytes": 5
+      "modifiedDate": 1693024750644,
+      "sizeInBytes": 969
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
