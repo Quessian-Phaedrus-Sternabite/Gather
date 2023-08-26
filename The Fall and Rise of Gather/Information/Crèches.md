@@ -18,7 +18,7 @@ Mary Fidelis was the strongest fighter the world had ever seen- as well as the r
 Umbra Novus. The most ambitious. Known for [Orion Drives](Faster-Than-Light Travel#^bf48a8). Constantly destroying planets, achieved the first Human-made megastructure ([[Project Requisition Form Epsilon Eridani 102]]). Novus and Tempi war.
 
 ## Tempi
-Militia! Theodore Tempi
+Militia! Theodore Tempi. Time experiments in Fourth Gathering ([[The Worst of All Possible Worlds]])
 
 ## Lucis
 Amy Lucis

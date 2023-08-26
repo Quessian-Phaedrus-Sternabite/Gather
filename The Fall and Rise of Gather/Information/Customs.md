@@ -4,4 +4,4 @@
 		- A portion of the soil
 		- And water from their home, or barring that, some of the last water they had drank.
 	- Most communities would ensure everyone carried out at least one tradition to ensure culture continued
-	- 
+
