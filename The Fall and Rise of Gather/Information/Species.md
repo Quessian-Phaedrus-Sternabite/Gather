@@ -8,5 +8,6 @@
 	- non-binary
 	- Children referred to as kuld
 	- Very tall
+	- 3 parents
 - Norx 
 	- HIVEEEEEEEEEEMINDDDDDDDD

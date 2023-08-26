@@ -27,6 +27,8 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[Eternity in a Day]]
 - [[Try, try again]]
 - [[Let Loose]]
+- [[Sepsis]]
+- 
 
 ## The Sixth Gathering
 - [[A Precipice of Disaster]]
