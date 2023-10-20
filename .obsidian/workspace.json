@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Worst of All Possible Worlds.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,109 +55,67 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93e96aa8c88b7282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Photo Graphs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e66f25bf10a88bd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc8963261c335143",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Broken.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
-        "id": "5567948eda043be3",
-        "type": "split",
+        "id": "2f6bec5100ca5e4b",
+        "type": "tabs",
         "dimension": 34.96192893401015,
         "children": [
           {
-            "id": "a77a041addd8a60a",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fc028acb5ef01667",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "85e619942e5ed4ed",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Fall and Rise of Gather/Information/Species.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f602ee9150905181",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a2357b240bb29057",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bdd7abd826f1a9b3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Markdown Cheat Sheet.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 4
+            "id": "09c659f914d46316",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
           },
           {
-            "id": "2f6bec5100ca5e4b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "09c659f914d46316",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "juggl_view",
-                  "state": {},
-                  "pinned": true
-                }
-              },
-              {
-                "id": "4ba347a19eaebc4b",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 1
+            "id": "4ba347a19eaebc4b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#information",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Worst of All Possible Worlds.md",
+                "file": "Broken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Worst of All Possible Worlds.md",
+                "file": "Broken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/The Worst of All Possible Worlds.md"
+                "file": "Broken.md"
               }
             }
           },
@@ -289,6 +247,16 @@
             "state": {
               "type": "juggl_style",
               "state": {}
+            }
+          },
+          {
+            "id": "9806703a13b884c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ]
@@ -310,37 +278,38 @@
       "3d-graph:3D Graph": false,
       "dangerzone-writing-plugin:Dangerzone Writing": false,
       "juggl:Juggl global graph": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "ca401ecacb049379",
+  "active": "dc8963261c335143",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/The Worst of All Possible Worlds.md",
-    "Eighth Gathering.md",
-    "Markdown Cheat Sheet.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/0. Overview 4.md",
-    "The Fall and Rise of Gather/Information/Crèches.md",
-    "The Fall and Rise of Gather/Information/Notable Characters.md",
-    "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/17 Steps to a Plot.md",
-    "The Fall and Rise of Gather/Information/Customs.md",
-    "The Fall and Rise of Gather/Information/Description.md",
-    "The Fall and Rise of Gather/Categories/Overviews.md",
-    "The Fall and Rise of Gather/Categories/Legends.md",
-    "The Fall and Rise of Gather/Categories/Information.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Fishing in the Void.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space Disambiguation.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Sepsis.md",
-    "The Fall and Rise of Gather/Information/Species.md",
-    "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+    "Broken.md",
+    "The Fall and Rise of Gather/Information/Crèches.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Photo Graphs.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
+    "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
+    "The Fall and Rise of Gather/Categories/Stories.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
+    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Nothing, Forever.md",
+    "The Fall and Rise of Gather/17 Steps to a Plot.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
+    "The Fall and Rise of Gather/Information/Species.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png",
     "The Fall and Rise of Gather/Spider.png",
     "The Fall and Rise of Gather/Gather.canvas"

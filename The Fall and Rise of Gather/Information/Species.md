@@ -11,3 +11,4 @@
 	- 3 parents
 - Norx 
 	- HIVEEEEEEEEEEMINDDDDDDDD
+	- In the Fifth Gathering, the mind was disrupted, and fragmented into several dozen notable beings.

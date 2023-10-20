@@ -22,6 +22,8 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[Woodworking]]
 - [[Fishing in the Void]]
 - [[Recovery]]
+- [[Photo Graphs]]
+- [[Nothing, Forever]]
 
 ### The Fifth Gathering
 - [[Eternity in a Day]]

@@ -7,7 +7,7 @@ Any titles go in front of the first name or the entire name.
 	- First name within Crèche, Crèche and First name outside. *Daniel*, *Aevum Daniel*
 - 3rd Gathering - Crèche, Significant number, First name. *Aevum 12 Daniel*
 	- Significant numbers serve as a potential familial name. First adopted during the plague, as families became looser and people sought to make their name part of their own identity
-	- As Crèches begin dissolving during the Corruption, they hold less impact, due to unification beginning.
+	- As Crèches begin dissolving during the Putrescence, they hold less impact, due to unification beginning.
 	- Formal introduction. *Aevum 12 Daniel*. Casual conversation. *12 Daniel*. Friends. *Daniel*
 - 4th Gathering - Crèche, Family, Name including titles or phrases. *Aevum Lewis Daniel of the Undying Clouds. ^876a4e
 	- By far the longest, due to the golden age being needlessly complicated. Since names include the name plus a phrase, as [[Conceptual Space]] becomes prevalent, most don't share their full name freely. Significant numbers fall off as population grows
@@ -27,7 +27,9 @@ Any titles go in front of the first name or the entire name.
 - Cathan - Irish, or just generally western European in origin
 - Novus - Stemming from middle-eastern roots. As such, instead of last or family names, the names of a father (or mother if needed) is used. Umbra was born in Greece, but raised in turkey, and she chose to embrace their naming system for her vassals.
 - Fidelis - Australian!
+- Tempi
 
 ### Fourth Gathering
 - Aevum - Aevum instill a phrasal name onto a child from birth, usually representing a poem.
 - Fidelis - Fidelis tend to choose it as part of becoming an adult, and as such, many are the bearer's favorite thing.
+- Cathan - The Phrasal name represents the casting off of childhood.
