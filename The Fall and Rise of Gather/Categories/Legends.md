@@ -11,10 +11,12 @@ Most legends are assumed to be told during the 6th or 7th Gathering, as they rep
 ### The Fourth Gathering
 - [[The Tale of Lauren]]
 - [[Philip sat on a stump.]]
+- [[Broken]]
 
 ### The Fifth Gathering
 - [[The Labyrinths of Chaos]]
 - [[The Monks of Madness]]
+- [[Tranquility 4]]
 
 ### The Sixth Gathering
 - [[The Riots of Græslond]]

@@ -79,7 +79,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633221003,
-      "modifiedDate": 1698030760367,
+      "modifiedDate": 1698032393753,
       "sizeInBytes": 474
     },
     "The Fall and Rise of Gather/Information/Naming Conventions.md": {
@@ -261,18 +261,18 @@
     "The Fall and Rise of Gather/Categories/Legends.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 125,
+      "wordCount": 130,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5434782608695652,
-      "characterCount": 732,
-      "nonWhitespaceCharacterCount": 600,
-      "linkCount": 8,
+      "pageCount": 0.5652173913043478,
+      "characterCount": 765,
+      "nonWhitespaceCharacterCount": 628,
+      "linkCount": 10,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220955,
-      "modifiedDate": 1688063860000,
-      "sizeInBytes": 733
+      "modifiedDate": 1698032371512,
+      "sizeInBytes": 766
     },
     "The Fall and Rise of Gather/7. The Seventh Gathering/Introduction.md": {
       "isDirectory": false,
@@ -921,14 +921,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 3.130434782608696,
-      "characterCount": 4353,
-      "nonWhitespaceCharacterCount": 3632,
+      "characterCount": 4350,
+      "nonWhitespaceCharacterCount": 3629,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220732,
-      "modifiedDate": 1687826188000,
-      "sizeInBytes": 4353
+      "modifiedDate": 1698032446060,
+      "sizeInBytes": 4350
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md": {
       "isDirectory": false,
@@ -1170,7 +1170,23 @@
       "modifiedDate": 1695057558000,
       "sizeInBytes": 1908
     },
-    "Broken.md": {
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 678,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.9478260869565216,
+      "characterCount": 3856,
+      "nonWhitespaceCharacterCount": 3159,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1698029457864,
+      "modifiedDate": 1698032317467,
+      "sizeInBytes": 3908
+    },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md": {
       "isDirectory": false,
       "noteCount": 1,
       "wordCount": 571,
@@ -1185,22 +1201,6 @@
       "createdDate": 1697487472907,
       "modifiedDate": 1697770250209,
       "sizeInBytes": 3275
-    },
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 642,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.791304347826087,
-      "characterCount": 3678,
-      "nonWhitespaceCharacterCount": 3016,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1698029457864,
-      "modifiedDate": 1698032087205,
-      "sizeInBytes": 3729
     }
   }
 }

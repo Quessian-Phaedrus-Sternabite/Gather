@@ -72,24 +72,16 @@
             "id": "0e66f25bf10a88bd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dc8963261c335143",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "2f6bec5100ca5e4b",
@@ -205,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md"
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md"
               }
             }
           },
@@ -298,34 +290,34 @@
       "graph:Open graph view": false
     }
   },
-  "active": "dc8963261c335143",
+  "active": "0e66f25bf10a88bd",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/The Worst of All Possible Worlds.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
+    "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/Information/Species.md",
+    "The Fourth Gathering.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md",
+    "The Fall and Rise of Gather/Categories/Overviews.md",
+    "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
-    "Broken.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Photo Graphs.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
-    "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
-    "The Fall and Rise of Gather/Categories/Stories.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
-    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Nothing, Forever.md",
-    "The Fall and Rise of Gather/17 Steps to a Plot.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png",
     "The Fall and Rise of Gather/Spider.png",
     "The Fall and Rise of Gather/Gather.canvas"
