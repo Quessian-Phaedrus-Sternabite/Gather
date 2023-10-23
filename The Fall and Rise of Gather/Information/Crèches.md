@@ -1,6 +1,6 @@
 #hub , #information , #key 
 ## The Main 7
-Throughout the entirety of Gather, there are 7 main crèches, each stemming from one of the original members. Personalities range wildly within crèches, but certain physical characteristics remain prominent in earlier eras.
+Throughout the entirety of Gather, there are 7 main crèches, each stemming from one of the original members. Personalities range wildly within crèches, but certain physical characteristics remain prominent in earlier eras. **Keep in mind** that these crèches are *not* a genetic dynasty, rather they are descendants of groups chosen for a specific purpose. As such, all traits are obscenely divergent
 
 ### Aevum
 Named after [Charles Aevum](0.%20Overview%201.md#^f75ec3). Aevum was a Supreme Court Justice who eventually joined the UN, and later served as a legal and ethical guide for Gather. Focused primarily with the importance of the law and justice, Aevum puts great emphasis on morality above all else. It's citizens can be described as "strained," with the average Aevuternite being forced to conform to rigid laws throughout the reaches of the Empire. As a result, when Gather began to fall, the Aevuternites were the first to turn to lawlessness. 
@@ -21,4 +21,4 @@ Umbra Novus. The most ambitious. Known for [Orion Drives](Faster-Than-Light Trav
 Militia! Theodore Tempi. Time experiments in Fourth Gathering ([[The Worst of All Possible Worlds]])
 
 ## Lucis
-Amy Lucis
+Amy Lucis. Everything else. They do government, and spearheaded colonization. In a way, many are leaders. 
