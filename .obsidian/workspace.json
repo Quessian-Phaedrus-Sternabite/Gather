@@ -117,9 +117,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e64fe4eb48542e74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Fall and Rise of Gather/Information/Species.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md",
+                "file": "The Fall and Rise of Gather/Information/Species.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md",
+                "file": "The Fall and Rise of Gather/Information/Species.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md"
+                "file": "The Fall and Rise of Gather/Information/Species.md"
               }
             }
           },
@@ -286,7 +298,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "dc8963261c335143",
+  "active": "e64fe4eb48542e74",
   "lastOpenFiles": [
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md",

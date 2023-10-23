@@ -69,18 +69,18 @@
     "The Fall and Rise of Gather/Information/Species.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 57,
+      "wordCount": 58,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.24782608695652175,
-      "characterCount": 345,
-      "nonWhitespaceCharacterCount": 277,
+      "pageCount": 0.25217391304347825,
+      "characterCount": 348,
+      "nonWhitespaceCharacterCount": 278,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633221003,
-      "modifiedDate": 1695057966000,
-      "sizeInBytes": 345
+      "modifiedDate": 1698030621034,
+      "sizeInBytes": 348
     },
     "The Fall and Rise of Gather/Information/Naming Conventions.md": {
       "isDirectory": false,
@@ -1189,18 +1189,18 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 234,
+      "wordCount": 358,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.017391304347826,
-      "characterCount": 1343,
-      "nonWhitespaceCharacterCount": 1099,
+      "pageCount": 1.5565217391304347,
+      "characterCount": 2105,
+      "nonWhitespaceCharacterCount": 1733,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698029457864,
-      "modifiedDate": 1698030341200,
-      "sizeInBytes": 1394
+      "modifiedDate": 1698030606523,
+      "sizeInBytes": 2156
     }
   }
 }
