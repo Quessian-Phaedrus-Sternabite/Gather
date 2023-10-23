@@ -1189,18 +1189,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 680,
+      "wordCount": 781,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.9565217391304346,
-      "characterCount": 3802,
-      "nonWhitespaceCharacterCount": 3117,
+      "pageCount": 3.3956521739130436,
+      "characterCount": 4393,
+      "nonWhitespaceCharacterCount": 3605,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697487472907,
-      "modifiedDate": 1698032746218,
-      "sizeInBytes": 3853
+      "modifiedDate": 1698033045845,
+      "sizeInBytes": 4444
     }
   }
 }
