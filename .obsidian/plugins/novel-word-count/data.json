@@ -1173,18 +1173,18 @@
     "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3201,
+      "wordCount": 3209,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 13.917391304347825,
-      "characterCount": 18547,
-      "nonWhitespaceCharacterCount": 15331,
+      "pageCount": 13.952173913043477,
+      "characterCount": 18589,
+      "nonWhitespaceCharacterCount": 15364,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220677,
-      "modifiedDate": 1698123738372,
-      "sizeInBytes": 18547
+      "modifiedDate": 1698123915024,
+      "sizeInBytes": 18589
     },
     "Markdown Cheat Sheet.md": {
       "isDirectory": false,
