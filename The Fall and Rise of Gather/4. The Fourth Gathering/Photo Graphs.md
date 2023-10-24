@@ -96,8 +96,20 @@ The perfect way to get a holograph of the baseline was to situate a camra perfec
 
 *Shhhhhhhhhck*
 
-Finally, my hand was complete. My right arm began to be shucked, shedding the skin and snapping into pieces. Each finger wrapped around it, peeling my arm layer by layer like an rotted baked potato. There was no need to be precise, especially with the bone being just a base for the true arm; the sizzling of leftover meat was music to my pureed ears, at east through bone conduction. My elbow was another weakness, a joint that clicked and clacked far too much for my liking, so it was dissolved like the rest, acid pouring in to polish the metal and prepare a slot for the new flexor. It slid into the still warm smelt, another few swipes of the blade helping chisel the muscles of my new arm accordingly. With enough time and patience, life itself was yet another illusion I could replicate.
+Finally, my hand was complete. My right arm begins to be shucked, shedding the skin and snapping into pieces. Each finger wraps around it, peeling my arm layer by layer like a rotted baked potato. There's no need to be precise, especially with the bone being just a base for the true arm; the sizzling of leftover meat is music to my pureed ears, at least through whatever vestiges of bone conduction remain. My elbow was another weakness, a joint that clicked and clacked far too much for my liking, so it was dissolved like the rest, acid pouring in to polish the metal and prepare a slot for the new flexor. It slid into the still warm smelt, another few swipes of the blade helping chisel the muscles of my new arm accordingly. With enough time and patience, life itself was yet another illusion I could replicate.
 
 *Shhhhhhhhhck*
 
-While my right arm was being rebirthed, I 
+While my right arm was being rebirthed, I began to gouge out my spine, tearing away at the discs and pulling apart the vertebrae; the cord was severed, movement should have been lost-I ignored the urges to fall silent and continued cutting. My right arm was complete, its tube having gone in and the joints being reinforced to the point of overkill, the emaciated flesh being subsumed into alloy, the hand being the only thing left to alter, to enhance. My femur lies shattered, spastic tremors pulling the muscle into bone and helping in the shredding; undoubtedly, a myriad of pains would be felt if it weren't for the near-complete paralysis. It is time for the true final improvement.
+
+*Shhhhhhhhhck*
+
+From one of the corpsicles prepared beforehand, I pull segments of its spine over to myself. A mold is quickly created, followed by casting with more metal. Into my back they go, the discs being replaced with erroneous fluid that degrades with every second, suitable only until stabilized with rubbery mesh extracted from some project or another. A cord is woven, tangling up my back until I can feel it connect to my brainstem where the old was ripped out. Feeling surges again; its crippling wave threatens to send me into a trembling heap as I consider abandoning the project, curling up into the floor, dying alone in a cold room surrounding by muscle and blood and bones and nerves and ejecta from various bodies and cells. To call it a puddle, a disservice; a pile, not enough. 
+
+*Shhhhhhhhhck*
+
+My legs refuse to give out, and I begin stretching upwards as the transformation to my center completes. The skin ripples, tears, bursts as I extend my frame to its full four-meter height, towering over the entirety of my domain. My intestines spill out into the void left by the upraisel-my heart is only held in by the roots of my ribs. With a savage cut of the left hand, my leg is neatly torn off, removed in service of stability. 
+
+*Shhhhhhhhhck*
+
+Here I remain, floating precariously in the center of the room, missing a leg and with a torso three times the size of the other.
