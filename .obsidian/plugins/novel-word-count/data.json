@@ -533,18 +533,18 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 19,
+      "wordCount": 147,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08260869565217391,
-      "characterCount": 118,
-      "nonWhitespaceCharacterCount": 97,
+      "pageCount": 0.6391304347826087,
+      "characterCount": 855,
+      "nonWhitespaceCharacterCount": 701,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220848,
-      "modifiedDate": 1698124466947,
-      "sizeInBytes": 130
+      "modifiedDate": 1698124775791,
+      "sizeInBytes": 901
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md": {
       "isDirectory": false,
