@@ -7,7 +7,7 @@
 	- Triple helical DNA
 	- non-binary
 	- Children referred to as kuld
-	- Very tall (8-14 feet
+	- Very tall (3-5 meters)
 	- 3 parents
 - Norx 
 	- HIVEEEEEEEEEEMINDDDDDDDD

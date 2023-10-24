@@ -79,6 +79,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07377e61c5c0f0c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
@@ -219,7 +227,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Species.md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Species.md",
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Species.md"
+                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md"
               }
             }
           },
@@ -312,12 +320,15 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "5cc63c503a5340b6",
+  "active": "0e66f25bf10a88bd",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/Information/Species.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/0. Overview 5.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/5. The Fifth Gathering.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Sepsis.md",
@@ -338,9 +349,6 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Worst of All Possible Worlds.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/In the Vaults of Monotony.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
-    "Broken.md",
     "The Fall and Rise of Gather/Spider.png",
     "The Fall and Rise of Gather/Gather.canvas"
   ]

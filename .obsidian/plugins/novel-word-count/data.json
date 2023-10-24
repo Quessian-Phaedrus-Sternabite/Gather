@@ -121,14 +121,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.34782608695652173,
-      "characterCount": 485,
-      "nonWhitespaceCharacterCount": 391,
+      "characterCount": 487,
+      "nonWhitespaceCharacterCount": 393,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633221003,
-      "modifiedDate": 1698125064210,
-      "sizeInBytes": 485
+      "modifiedDate": 1698125118915,
+      "sizeInBytes": 487
     },
     "The Fall and Rise of Gather/Information/Naming Conventions.md": {
       "isDirectory": false,
@@ -533,18 +533,18 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 260,
+      "wordCount": 314,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1304347826086956,
-      "characterCount": 1502,
-      "nonWhitespaceCharacterCount": 1234,
+      "pageCount": 1.3652173913043477,
+      "characterCount": 1820,
+      "nonWhitespaceCharacterCount": 1496,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220848,
-      "modifiedDate": 1698125035133,
-      "sizeInBytes": 1553
+      "modifiedDate": 1698125264059,
+      "sizeInBytes": 1871
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md": {
       "isDirectory": false,
