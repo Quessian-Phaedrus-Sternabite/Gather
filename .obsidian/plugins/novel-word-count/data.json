@@ -959,7 +959,7 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1697487472907,
-      "modifiedDate": 1698113525852,
+      "modifiedDate": 1698122937750,
       "sizeInBytes": 11220
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md": {
@@ -1173,18 +1173,18 @@
     "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 3123,
+      "wordCount": 3103,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 13.578260869565218,
-      "characterCount": 18038,
-      "nonWhitespaceCharacterCount": 14903,
+      "pageCount": 13.491304347826087,
+      "characterCount": 17914,
+      "nonWhitespaceCharacterCount": 14799,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220677,
-      "modifiedDate": 1692044960000,
-      "sizeInBytes": 18038
+      "modifiedDate": 1698123214922,
+      "sizeInBytes": 17914
     },
     "Markdown Cheat Sheet.md": {
       "isDirectory": false,
