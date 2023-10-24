@@ -537,14 +537,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.08260869565217391,
-      "characterCount": 113,
-      "nonWhitespaceCharacterCount": 95,
+      "characterCount": 118,
+      "nonWhitespaceCharacterCount": 97,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220848,
-      "modifiedDate": 1688047384000,
-      "sizeInBytes": 113
+      "modifiedDate": 1698124466947,
+      "sizeInBytes": 130
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md": {
       "isDirectory": false,
