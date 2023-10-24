@@ -83,4 +83,6 @@ A thrum cuts him off. You can see his eyes widen, and feel your own do the same,
 
 You're not a rule-breaker; you understand that your body is gone, eviscerated with everything else in the area. But all the same, you *see*. In "front" of you, a crater lies down, stretching several hundred kilometers in diameter, sending out a shockingly non-nuclear blast wave out in it's wake. And then, before your trembling awareness, it begins to crawl backwards.
 
-None of this makes sen
+None of this makes sense, you think, and your heart seems to crawl to a halt as the shockwave reaches you and a tugging pulls on your discombobulated presence. The cold hand of death jerks you back, and you watch as the dust clusters in front of you, reforming in the shape of a singular man amongst the sound of millions of corpses *thudding* to the ground as the body is reformed, but not in time to preserve consciousness.
+
+"You do not understand." The man nearly whispers in a tone not befitting someone of his towering gait; it alarms you to no avail as he seems to stare at where you preside. "I am order." Some of the bodies stir, those who constructed their lifeline with enough care to prevent disembodiment. The majority do not. And before you can say anything, babbles or otherwise, you feel 
