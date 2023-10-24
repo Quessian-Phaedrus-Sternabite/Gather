@@ -5,7 +5,7 @@ tags:
 era: 4
 date: 4860
 ---
-Your head lies in shattered pieces, each memory a stab to the brain. In front of you is a man, undefinable, any words you can think of sloughing off of your tongue as you forget who He is or who you are or why any of this is happening to you, right at this moment as you can't even remember walking into the building and- He snaps his fingers.
+Your head lies in shattered pieces, each memory a stab to the brain. In front of you is a Man, undefinable, any words you can think of sloughing off of your tongue as you forget who He is or who you are or why any of this is happening to you, right at this moment as you can't even remember walking into the building and- He snaps his fingers.
 
 "Not another cretin... Snap out of it!" 
 
@@ -85,4 +85,8 @@ You're not a rule-breaker; you understand that your body is gone, eviscerated wi
 
 None of this makes sense, you think, and your heart seems to crawl to a halt as the shockwave reaches you and a tugging pulls on your discombobulated presence. The cold hand of death jerks you back, and you watch as the dust clusters in front of you, reforming in the shape of a singular man amongst the sound of millions of corpses *thudding* to the ground as the body is reformed, but not in time to preserve consciousness.
 
-"You do not understand." The man nearly whispers in a tone not befitting someone of his towering gait; it alarms you to no avail as he seems to stare at where you preside. "I am order." Some of the bodies stir, those who constructed their lifeline with enough care to prevent disembodiment. The majority do not. And before you can say anything, babbles or otherwise, you feel 
+"You do not understand." The man nearly whispers in a tone not befitting someone of his towering gait; it alarms you to no avail as he seems to stare at where you preside. "I am order." Some of the bodies stir, those who constructed their lifeline with enough care to prevent disembodiment. The majority do not. And before you can say anything, babbles or otherwise, you feel a claw thrust you across the light-years and into another cold shell.
+
+***
+
+Your head lies in shattered pieces, each memory a stab to the brain. In front of you is a Man, indescribable except for one word... **smug**.
