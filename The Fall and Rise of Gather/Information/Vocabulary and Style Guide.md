@@ -1,0 +1,6 @@
+---
+tags:
+  - information
+  - syntax
+  - key
+---

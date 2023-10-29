@@ -15,7 +15,7 @@ Novus maintains the power infrastructure around Gather, scilicet they have stati
 
 ## Tempi
 Tempi maintains several planets concerned with military operations. As such, they were primarily outposts until the 4th Gathering, when Gather became the only power in the universe.
-- Muerto Playa - The death beach. Near core, main hub of military power.
+- Playa de la Muerte - The death beach. Near core, main hub of military power.
 - Aguila - A major outpost near the edge of Andromeda.
 
 ## Cathan

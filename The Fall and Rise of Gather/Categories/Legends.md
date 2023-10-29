@@ -20,5 +20,6 @@ Most legends are assumed to be told during the 6th or 7th Gathering, as they rep
 
 ### The Sixth Gathering
 - [[The Riots of Græslond]]
+- 
 
 ### The Seventh Gathering

@@ -3,7 +3,7 @@ era: 4
 date: 1730
 ---
 #story, #rhyne , #cathan , #key 
-%%*Story about an expedition into a planet made up entirely of a labyrinthal monastary, revealed to be the ruins of Roth, the home of Noelle Cathan growing up. Absolutely gigantic, and hidden chambers are found, as well as someone who stayed alive in a stasis. Do note: Rhyne becomes one of the largest sources of sheer power as the monks have their dreams realized*%%
+%%*Story about an expedition into a planet made up entirely of a labyrinthian monastery, revealed to be the ruins of Roth, the home of Noelle Cathan growing up. Absolutely gigantic, and hidden chambers are found, as well as someone who stayed alive in a stasis. Do note: Rhyne becomes one of the largest sources of sheer power as the monks have their dreams realized*%%
 
 ```
 Rhyne Expedition Log 1

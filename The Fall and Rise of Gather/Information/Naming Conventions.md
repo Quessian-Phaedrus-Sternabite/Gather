@@ -1,4 +1,10 @@
-#information , #syntax, #key 
+---
+tags:
+  - information
+  - syntax
+  - key
+---
+
 ## Era-Wise Conventions
 Any titles go in front of the first name or the entire name.
 - 1st Gathering - First name, Last name. *Daniel Lewis* ^0b885e
@@ -23,13 +29,20 @@ Any titles go in front of the first name or the entire name.
 
 ## Crèche Conventions
 ### General
+For regional names, use census data OR baby name collections.
 - Aevum - Welsh or Mediterranean in origin. 
 - Cathan - Irish, or just generally western European in origin
 - Novus - Stemming from middle-eastern roots. As such, instead of last or family names, the names of a father (or mother if needed) is used. Umbra was born in Greece, but raised in turkey, and she chose to embrace their naming system for her vassals.
-- Fidelis - Australian!
-- Tempi
+- Fidelis - Australian! Additionally, Aboriginal names. 
+- Tempi - Spanish, Portuguese, and other Romance Languages.
+- 
 
 ### Fourth Gathering
 - Aevum - Aevum instill a phrasal name onto a child from birth, usually representing a poem.
 - Fidelis - Fidelis tend to choose it as part of becoming an adult, and as such, many are the bearer's favorite thing.
 - Cathan - The Phrasal name represents the casting off of childhood.
+
+### Special (Species) Conventions
+See [[Species]]
+* Humans - See above.
+* 
