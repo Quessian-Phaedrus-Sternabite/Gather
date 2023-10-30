@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
                 "mode": "source",
                 "source": false
               }
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md"
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md"
               }
             }
           },
@@ -334,7 +334,10 @@
   },
   "active": "17b3db89f6e809fb",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Photo Graphs.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
@@ -358,9 +361,6 @@
     "The Fall and Rise of Gather/Information/Species.md",
     "The Fall and Rise of Gather/Information/Vocabulary and Style Guide.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
-    "The Fall and Rise of Gather/Categories/Overviews.md",
-    "The Fall and Rise of Gather/Categories/Information.md",
-    "The Fall and Rise of Gather/Information/Information.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png",
     "The Fall and Rise of Gather/Spider.png"
   ]
