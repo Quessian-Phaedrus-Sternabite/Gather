@@ -15,4 +15,16 @@ So I ran away, as much as a could, turning away from the grizzle and probing the
 
 Of course, this begs the question: if I'm in some kind of featureless room with a corpse and a doorknob--what does the doorknob open? With a sigh, I decide to take the plunge and grab the doorknob, by the knob this time, and pull it from the man's face. A noise builds as a draw near, as if cell death was being amplified and blasted directly into my skull, reverberating over and over until I can't hear anything but the noise, the Old Man's radiation stripping away my very being and my flesh, boiling away as I bring the hand nearer until the very skin is dripping off, acid tabs popping as the world distorts and reality seems to converge on the corpse's face, it's hollow gaze piercing me and stabbing into my heart until
 
-I touch the doorknob and my mind feels clearer than ever. It cuts through the din and stands out, pointing an arrow in some... other direction that leads away from this Old Man and towards an infinity of other doors just waiting to be open. Forgive me, of course, but I walk towards the nearest one. And reality shifts, and I shift, and it feels like my mind is breakijng again and it feels like the photo has gone out of focus completely and I feel like I'm sliding with no pants on and I'm falling down and up and all around and the door gets closer as I try to walk to it and fall, in a tangled heap, in front of the door with the Man somehow inside of me and yet above me at the same time
+I touch the doorknob and my mind feels clearer than ever. It cuts through the din and stands out, pointing an arrow in some... other direction that leads away from this Old Man and towards an infinity of other doors just waiting to be open. Forgive me, of course, but I walk towards the nearest one. And reality shifts, and I shift, and it feels like my mind is breaking again and it feels like the photo has gone out of focus completely and I feel like I'm sliding with no pants on and I'm falling down and up and all around and the door gets closer as I try to walk to it and fall, in a tangled heap, in front of the door with the Man somehow inside of me and yet above me at the same time and it's out of focus too and everything is but a hair of dust and the
+door
+standing
+right
+there.
+
+On its own accord, my hand reaches out and
+
+***
+
+Turns the knob. It pierced reality before, and now is no different. The space opens up to another one, remarkably clear with every detail visible and all the edges sharp. Hairs flit around here and there, dust in my vision; as a whole, however, I seem to be all in one place. My eyes drop to the doorknob, and I see what looks like the room's reflection fading away and becoming more blurry, staying in the same spot yet moving away rapidly. It hurts to think about, but is fine so long as I keep my hand tight. The doorknob refuses to be put down. For the first time, I consider the thought that the Old Man hadn't been slaughtered by a person, but by this thing in my grasp.
+
+I need to find its maker. Instinctually, I know it's the only thing that can free me, and yet the very thought fills me with despair. Something about the sheer scale of wherever I am, and the sheer amount of *everything* I'd need to delve through to find out who made this.
