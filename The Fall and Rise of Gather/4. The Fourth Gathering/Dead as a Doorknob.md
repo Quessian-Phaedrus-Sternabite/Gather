@@ -56,3 +56,4 @@ Is this what life is?
 ---
 
 
+Vomit spills from my mouth as I realize I just murdered two people, carelessly, barely a thought turning them into literal pathways towards my future. I want nothing more than to fling this wretched
