@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,64 +108,69 @@
         "currentTab": 7
       },
       {
-        "id": "2f6bec5100ca5e4b",
-        "type": "tabs",
+        "id": "3dacbf1e21118ac3",
+        "type": "split",
         "dimension": 34.96192893401015,
         "children": [
           {
-            "id": "eb1598e945b9ff4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
-                "mode": "source",
-                "source": false
+            "id": "2f6bec5100ca5e4b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eb1598e945b9ff4b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "78d498b0fc61bdc0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c1e1279b8d9d3412",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "78d498b0fc61bdc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
-                "mode": "source",
-                "source": false
+            "id": "d1cbebeedd6c8568",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bd70382d277b0b86",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "c1e1279b8d9d3412",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c31f30aa2a9031b6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "23f90c37ddfba2b2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
+            ]
           }
         ],
-        "currentTab": 4
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -239,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md"
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md"
               }
             }
           },
@@ -334,19 +339,20 @@
   },
   "active": "17b3db89f6e809fb",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md",
-    "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Photo Graphs.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Conceptual Space.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Photo Graphs.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
     "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md",
     "The Fall and Rise of Gather/Information/Description.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned-DESK-KQDO1A9F.md",
     "The Fall and Rise of Gather/Information/Notable Places.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
     "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
     "The Fall and Rise of Gather/Gather.canvas",
@@ -360,7 +366,6 @@
     "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
     "The Fall and Rise of Gather/Information/Species.md",
     "The Fall and Rise of Gather/Information/Vocabulary and Style Guide.md",
-    "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png",
     "The Fall and Rise of Gather/Spider.png"
   ]
