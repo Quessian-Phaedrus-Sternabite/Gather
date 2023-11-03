@@ -1269,18 +1269,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1189,
+      "wordCount": 1384,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.1695652173913045,
-      "characterCount": 6335,
-      "nonWhitespaceCharacterCount": 5131,
+      "pageCount": 6.017391304347826,
+      "characterCount": 7388,
+      "nonWhitespaceCharacterCount": 5985,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698975611950,
-      "modifiedDate": 1698977394054,
-      "sizeInBytes": 6386
+      "modifiedDate": 1698977628658,
+      "sizeInBytes": 7439
     }
   }
 }
