@@ -18,6 +18,7 @@ The stories of Gather are assumed to be historical account. Note that "story" re
 - [[In the Vaults of Monotony]]
 - [[Screams]]
 - [[Core Collapse]]
+- [[Dead as a Doorknob]]
 - [[So You Want to Master the Universe!]]
 - [[Woodworking]]
 - [[Fishing in the Void]]

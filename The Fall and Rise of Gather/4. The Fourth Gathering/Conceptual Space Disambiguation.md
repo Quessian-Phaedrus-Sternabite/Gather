@@ -1,8 +1,9 @@
 #information , #hub, #conceptual, #four
 ## Stories
 
-- **[[Screams]]** - The origin of Conceptual Space. Features several feats.
-- **[[Champions of Nothing]]** - Within one of the only successful robberies of a Cathan Vault came 
+- [[Screams]] - The origin of Conceptual Space. Features several feats.
+- **[[Champions of Nothing]]** - Within one of the only successful robberies of a Cathan Vault came
+- [[Photo Graphs]] 
 
 ## Legends
 - **[[The Tale of Lauren]]**

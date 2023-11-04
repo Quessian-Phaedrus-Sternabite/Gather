@@ -4,7 +4,6 @@ tags:
   - syntax
   - key
 ---
-
 ## Era-Wise Conventions
 Any titles go in front of the first name or the entire name.
 - 1st Gathering - First name, Last name. *Daniel Lewis* ^0b885e

@@ -1,8 +1,11 @@
 ---
 era: 4
 date: 5829
+tags:
+  - story
+  - four
 ---
-#story , #four
+
 %%*Bank robbery story! Third person partially omniscient, tell the story entirely through the eyes of normal people witnessing it. Perhaps even a hostage.*%%
 
 It was a brilliant day, bloom brightening the skies and the eyes of all around. For Jamie Ochre Sands Surrounding a Spring, it was the dawn of a promotion, with him becoming the drill sergeant for some of the Tempo forces around Sooth; he always loved the military, and warfare especially, but there hadn't been any conflicts in well over a thousand years, and training was enough to sustain him. As he adjusted his tie and sharpened up his uniform, preparing to embody order itself, an explosion rang through the air outside. Within an instant he had exited his apartment, a gignus present on his hip, and he was running towards the explosion.
