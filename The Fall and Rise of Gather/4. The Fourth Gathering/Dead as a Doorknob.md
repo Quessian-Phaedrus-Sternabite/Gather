@@ -58,4 +58,6 @@ Is this what life is?
 
 Vomit spills from my mouth as I realize I just murdered two people, carelessly, barely a thought turning them into literal pathways towards my future. I want nothing more than to fling this wretched doorknob away from my body, into one of the myriad of paths I feel it can open, into any of the holes on the ground that thrum with restrained definition. And I breathe in. 
 
-Bile fills my nostrils as I struggle to inhale, the chunky smell threatening to make me return to hurling. Around me, the quiet forest begins to return to life, the animals returning to their noise as if I opened my ears and they stopped maintaining their vigil.  
+Bile fills my nostrils as I struggle to inhale, the chunky smell threatening to make me return to hurling. Around me, the quiet forest begins to return to life, the animals returning to their noise as if I opened my ears and they stopped maintaining their vigil.  The pool on the ground has started to settle, acids seeping into the grass and devastating their potential futures. I breathe out and flush my nose, spewing chunks from the openings until I can finally. Breathe. Again. 
+
+My back straightens as I raise my head and begin to surveil the clearing. Around me, all has returned to that noisy quiet that accompanies the paces of life. To my left is a throng of trees, trailing off until I can't even make out the horizon between their trunks
