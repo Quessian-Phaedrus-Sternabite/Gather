@@ -258,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,7 +298,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md"
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md"
               }
             }
           },
@@ -351,10 +351,10 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "bd70382d277b0b86",
+  "active": "17b3db89f6e809fb",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
     "The Fall and Rise of Gather/Information/Notable Places.md",
     "The Fall and Rise of Gather/Information/Species.md",
     "Markdown Cheat Sheet.md",

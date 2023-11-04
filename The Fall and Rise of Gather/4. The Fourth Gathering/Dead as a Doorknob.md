@@ -78,4 +78,10 @@ Inscribed as the center bar of the "H", the keyhole is like no other I could eve
 
 ---
 
-It's a good walking stick, all things considered. While the knob is extended, "unlocked" for lack of a better word, it feels solid enough to put weight on. Every rotation of my hand, however, threatens to send it to the groud as it rotates about and retracts the length. Infinite with no stopping power; story of my presumable life. The steps turn into kilometers as I clack on, the simple taspping of the knob being my only companion. the biggest concern I have is that, while the hours tick on by, the blur seems to increase, things becoming less real. Inside of my head lies a thought; I can fix this by just travelling through a door. Something about that manuevreing thr
+It's a good walking stick, all things considered. While the knob is extended, "unlocked" for lack of a better word, it feels solid enough to put weight on. Every rotation of my hand, however, threatens to send it to the groud as it rotates about and retracts the length. Infinite with no stopping power; story of my presumable life. The steps turn into kilometers as I clack on, the simple taspping of the knob being my only companion. the biggest concern I have is that, while the hours tick on by, the blur seems to increase, things becoming less real. Inside of my head lies a thought; I can fix this by just travelling through a door.
+
+Something about that manuevreing through obscene passageways seems to stop the torque, moving me back in line with reality. If it weren't for the fear that comes close to overwhelming whenever I conswider, I would've broken right now. It feels like I'm rotating whilst stnding still, as if I'm not moving so much as turning away from the world. Everything is only slightly out of focus except my sillhoute--it;s the one thing that remains sharp to my eyes.Still, howver, it isn't too bad.
+
+Myopeia of the soul fades from my thoughts as I continue to walk, simply ignoring the rotation. AQfter all, it's only a slight blur, and nothing I can't deal with. Especially as the light comes to a close and the stars hbegin to twirl overhead, followed by what must be the most incredible sight I've ever seen.
+
+Above me is a moon, taking up a huge portion of the sky. It's surface is boiling, coveredm in magma from who-knows-what, and I can;'t take my eyes awsay from it. '
