@@ -121,4 +121,6 @@ The sky is still fading, and no stars have become visible, but that doesn't stop
 
 The only people I had seen at this point were both dead, split apart as their bodies were opened up to the world. Seeing even the promise of people, of companions and friends, was overjoying. When the stars began to come out, and the night sky started to reveal itself, I almost didn't look.
 
-Thankfully though, a silent crash pulls my attention away. On the moon above, the one in sync with the rest of the unreal world
+Thankfully though, a silent crash pulls my attention away. On the moon above, the one in sync with the rest of the unreal world, a meteorite has slammed into its surface. It must be massive to see with the naked eye. Coming from seemingly nowhere, and being drawn to the molten surface, I backtrack a trail that fades off into itself, increasing and decreasing with a curve of sharpness. Suddenly, another rock comes barraling through, moving impossibly fast as it remains still; the only indicator of change is a blur fading as it draws near. Again, there is no sound nor shockwave from the impact, and I'm left wondering about debris.
+
+There must be some dross that's made it to this planet, especially if collisions are this common. Perhaps some of them hold remnants of that otherworldy power; perhaps some maintain the ability to travel perpendicular to this world. If so, maybe there's a solution to the doorknob's blurring, one that doesn't involve using it. <there isn't> My 
