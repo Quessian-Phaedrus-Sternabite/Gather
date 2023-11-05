@@ -99,4 +99,14 @@ Continuing onward, I fall into a familiar rhythm. A strange longing fills my spi
 
 Finally, though, something interrupts me from my morbidity. In front of my stride lies a small path. It's unpaved; well-worn dirt from thousands of footsteps is all its make; I can only imagine the thousands of lives that have traversed these woods on its path, planting one foot in front of the other as they carry their burdens from wherever I'm going to another--town, village, city, doesn't matter--children frolicking along next to their parents or alone, families split up by unseen dangers and watchmen earning their keep by survieling the road, protectors and those needing protection walking its narrow path through wherever it weaves; an entire culture having this throughput as a key part, as a source of connection, the same I lack, thrumming through the wilderness as it unites kingdoms and empires. With another footfall, I plant myself along the well-travelled path and make like an unknowable number before me.
 
-Steps feel easier now, and though I know not whether it's from my renewed determination or simply having a well-trodden path in front of me, it fills me with a great amount of joy and trepidation. For the first time since entering this plane, I look over my body. I'm in a fairly plain set of clothes--a single unbroken fabric stretching across my body and covering me up to my neck. The only departure in color is my hair, shadows notwhist 
+Steps feel easier now, and though I know not whether it's from my renewed determination or simply having a well-trodden path in front of me, it fills me with a great amount of joy and trepidation. For the first time since entering this plane, I look over my body. I'm in a fairly plain set of clothes--a single unbroken fabric stretching across my body and covering me up to my neck. The only departure in color is my hair, shadows notwithstanding, and it goes down to my waist in lovely brownish-golds, concerns for another time as I check the outfit for stains. There's no blood or gore that I can see, but all the same, I can feel it; I can't shrug off the perverse sense that death followed me--the animals know it and I do as well--I am clearly a harbinger of despair. 
+
+For a moment, the fear takes over. I instinctually begin to turn the doorknob, and only a strong bite of will stops it. It doesn't matter what these people think; for all I know, the two I accidentally slew came from nowhere near this town, 
+or if they did, there's no way the people'll be able to tell from my spotless form, 
+as far as I can see. And besides, even if they did accuse me,
+I'm sure I can explain that
+it was an accident.
+And 
+I meant no harm. 
+
+
