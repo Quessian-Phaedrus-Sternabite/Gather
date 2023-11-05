@@ -109,4 +109,6 @@ it was an accident.
 And 
 I meant no harm. 
 
+--- 
 
+Several hours later, I leave the path. Not out of feasr, this time, but wonder. The dusk is beginning, and I want to take a moment to truly enjoy the spectacle of twilight. Surrounding me, the same as they have all existence, dozens of trees stretch up dozens of meters into the air. And several of them have low-hanging branches, and several more are sturdy enough to support me. Despite the doorknob's hindering presence on my ability to grip, it serves adequate as a drill, boring into the trunk the longer I hold it still and pointed. The compression works in my favor, this time, as I can hold it close and seemingly vacuum away huge chunks of bark in nearly an instant, making handholds and footholds; need be, I can drop it down and use the beam to sup
