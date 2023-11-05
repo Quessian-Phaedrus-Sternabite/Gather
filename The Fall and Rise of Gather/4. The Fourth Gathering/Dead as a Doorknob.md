@@ -117,4 +117,8 @@ With the slight danger comes another temptation. If I fall, it'd take no more th
 
 Thankfully, no such falls occur. I hug the center of the tree as I stand on a particularly thick branch, and manuever myself into a sitting position. The wood is especially firm, despite the height, and the trunk and branches seemed to stay the same height, not even tapering off as they ended in a stump of bark some 50 meters up. From this height, I can see forever. 
 
-The sky is still fading, and no s
+The sky is still fading, and no stars have become visible, but that doesn't stop my breath from hitching. In the distance, the first concrete sign I've seen of actual inhabitance is visible. The coalition of doors and houses is seemingly a leap away, smokeless lights brightening the hundreds of homes I can spot, Tiny forms milling about (barely visible to the eye). It feels like staring at a colony of insects, and I am instantly in love.
+
+The only people I had seen at this point were both dead, split apart as their bodies were opened up to the world. Seeing even the promise of people, of companions and friends, was overjoying. When the stars began to come out, and the night sky started to reveal itself, I almost didn't look.
+
+Thankfully though, a silent crash pulls my attention away. On the moon above, the one in sync with the rest of the unreal world
