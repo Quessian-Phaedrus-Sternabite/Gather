@@ -209,4 +209,4 @@ My mind is filled with questions, as well as a stifling urge to keep quiet. Ther
 
 So we continue, in silence, each of our footsteps ringing out and returning with muted echoes along the wooded path; he keeps looking over, as if to speak, but I just pretend I don't see him and he'll look away. Or at least, with the majority of his eyes. I feel like they're watching me, the orbs swirling around and swimming across his head until at least one, maybe more, are staring me directly in the face and making sure I don't decide to run off. It is decidedly creepy, but I don't want to be rude, especially after he fed me and waited with me. 
 
-Finally, the silence is broken by Birch working up the courage to speak..
+Finally, the silence is broken by Birch working up the courage to speak. "You're not from around here, I'd presume?"
