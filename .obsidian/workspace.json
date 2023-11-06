@@ -201,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#information",
+                "query": "lept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,12 +226,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -247,6 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,6 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,7 +286,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md"
+              }
             }
           },
           {
@@ -336,7 +340,7 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "bd70382d277b0b86",
+  "active": "d431aec6b78eee93",
   "lastOpenFiles": [
     "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
