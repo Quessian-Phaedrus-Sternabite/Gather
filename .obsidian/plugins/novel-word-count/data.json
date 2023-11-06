@@ -85,18 +85,18 @@
     "The Fall and Rise of Gather/Information/Species.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 80,
+      "wordCount": 85,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.34782608695652173,
-      "characterCount": 487,
-      "nonWhitespaceCharacterCount": 393,
+      "pageCount": 0.3695652173913043,
+      "characterCount": 530,
+      "nonWhitespaceCharacterCount": 431,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633221003,
-      "modifiedDate": 1698125118915,
-      "sizeInBytes": 487
+      "modifiedDate": 1699237111992,
+      "sizeInBytes": 530
     },
     "The Fall and Rise of Gather/Information/Notable Places.md": {
       "isDirectory": false,
@@ -869,18 +869,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 7165,
+      "wordCount": 7306,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 31.152173913043477,
-      "characterCount": 39420,
-      "nonWhitespaceCharacterCount": 32155,
+      "pageCount": 31.765217391304347,
+      "characterCount": 40179,
+      "nonWhitespaceCharacterCount": 32772,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698975611950,
-      "modifiedDate": 1699237037461,
-      "sizeInBytes": 39471
+      "modifiedDate": 1699237337075,
+      "sizeInBytes": 40230
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md": {
       "isDirectory": false,
