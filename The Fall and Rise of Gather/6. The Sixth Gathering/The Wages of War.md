@@ -5,3 +5,4 @@
 "What is it, my dear?" I bellowed, my husky voice filling the room. Nothing could sour my mood. 
 Helen's voice trembled: "I'm afraid there's some bad news..." A crack was heard through the room as I slammed my hand into the button to respond. 
 "Stop. Not now." I didn't need to say more, she would understand. The sheer audacity, the *nerve* to offer a Grand Admiral 'bad news.' "Fix it, and don't disturb me for a while. I need some time to prepare for tonight!" I went to my personal closet, a walk-in granted upon request (though I shouldn't have needed to request, and reassigned those involved promptly for forgetting such a fact) and pulled out my finest suit, something that would make most infantry quiver at the cost. 
+
