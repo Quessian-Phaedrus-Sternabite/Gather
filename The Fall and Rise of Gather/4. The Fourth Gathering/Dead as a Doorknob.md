@@ -179,4 +179,6 @@ The thing fucking smiles, and pulls back. "Oooookayyy, guess you're not a fan of
 
 "No, don't worry, I'm a vegan." The word is unfamiliar, but sensible, and I finally relent and take a bite. 
 
-It's an explosion in my mouth, almost as if my stomach was reaching up through my throat and strangeling the utensils in the strangers grasp. Despite the pathetic appearance of me as a dirty slump on the ground in the middle of a pathway less than a few hours' walk from the nearest town, he's still sp
+It's an explosion in my mouth, almost as if my stomach was reaching up through my throat and strangeling the utensils in the strangers grasp. Despite the pathetic appearance of me as a dirty slump on the ground in the middle of a pathway less than a few hours' walk from the nearest town, he's still spooning a warm dish of spices and creams into my mouth. We sit like that for a few minutes, neither of us saying a word. Finally, he speaks up.
+
+"So what's a lone human doing on <name?>. It takes me far too long to realize he's talking about this planet/ 
