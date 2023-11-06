@@ -161,11 +161,11 @@ It's at this point I notice a peculiar... thing off to the side of the road star
 
 "Are you alright?" The presumable person asks, and though I'm still hyperventilating and sobbing on the ground, I try and nod yes. Dirt sticks to my face and clumps up my hair even as the gravel scratches at me.
 
-"Right, stupid question." It straightens up, and for the first time, I notice that it was bending over. It's... tall. Like, really tall. Easily two and a half meters to my one hundred and eighty centimeters. More agony crosses my mind as I realize I know my own height, despite never having been measured. The tall thing looks back at me, and softly murmurs, "Here, do you think you'd be able to drink some water?" Its voice is deep, and extraordinarily calming. It walks towards me and leans down again, holding out some kind of flask.
+"Right, stupid question." It straightens up, and for the first time, I notice that it was bending over. It's... tall. Like, really tall. Easily two and a half meters to my 170 centimeters. More agony crosses my mind as I realize I know my own height, despite never having been measured. The tall thing looks back at me, and softly murmurs, "Here, do you think you'd be able to drink some water?" Its voice is deep, and extraordinarily calming. It walks towards me and leans down again, holding out some kind of flask.
 
 "Drink up. This should be enough." It's all I can do to grab it with my right hand and drink through the choking sobs, but once I start, I can't stop. Shamefully, I close my eyes, doing whatever I can to avoid the person's concerned looks. Just my luck that the first person I truly get to meet comes across me like this, fresh off a glorified crime scene. A scrape causes my eyes to open, and I see that the person has sat down besides me and pulled out a bag, seemingly from nowhere. It's bulging, easily twice my size, and from it, they pull out a box that, again, defies space. My thoughts turn to the doorknob.
 
-That's right. The doorknob. Instantly, any semblance of control I had regained while being... coddled like this departs, and I start to panic once more at the thought of them finding the doorknob, or heavens forbid, touching it's beam as they try and help me. It's pointed neatly to my front and beck, and I try to scream out as my newfound companion draws nearer to me with the best thing I've smelled yet.
+That's right,. The doorknob. Instantly, any semblance of control I had regained while being... coddled like this departs, and I start to panic once more at the thought of them finding the doorknob, or heavens forbid, touching it's beam as they try and help me. It's pointed neatly to my front and beck, and I try to scream out as my newfound companion draws nearer to me with the best thing I've smelled yet.
 
 The thing fucking smiles, and pulls back. "Oooookayyy, guess you're not a fan of xnopcht! Sorry, let me grab something else." They seem unperturbed. At this point, the tears have stopped, and the only thing left for me to do is to *stop breathing like I'm running a marathon*. Again, completely oblivious to my suffering, the being rummages through their pack while I try to regain control. After a minute, they speak.
 
@@ -181,28 +181,4 @@ The thing fucking smiles, and pulls back. "Oooookayyy, guess you're not a fan of
 
 It's an explosion in my mouth, almost as if my stomach was reaching up through my throat and strangeling the utensils in the strangers grasp. Despite the pathetic appearance of me as a dirty slump on the ground in the middle of a pathway less than a few hours' walk from the nearest town, he's still spooning a warm dish of spices and creams into my mouth. We sit like that for a few minutes, neither of us saying a word. Finally, he speaks up.
 
-"So what's a lone human doing on Cordera 2?" It takes me far too long to realize he's talking about this planet. Even longer to realize that he means me with the word "human." Of all the things he's said, that's the most reassuring. It ground me, in a way, to have a category I fit in, to put a name to my own face that I haven't even seen. Of course, with that comes the consideration that my strange benefactor is not human, and while it would certainly explain the odd height and multiple eyes, it doesn't account for the fact that we share a language.
-
-Looking back up, Birch-or-whatever is still waiting patiently for my response, that damned warm smile still filling his face. I try to stammer out a response, but my throat just croaks and seems to close up with every breath. 
-
-"That's fair," he says, still watching me, "we've only just met, and I know I wouldn't share my life story with a complete stranger!" 
-
-It's odd, that stare of his. There's always at least one eye opened; it focuses on me before blinking in random patterns that make his face ripple and wave, perfect engagement without sacrificing clarity of vision. It's also unnerving, the feeling like he's always watching. And, despite earlier almost seeming to read my mind, he doesn't seem to notice his glare making me uncomfortable.
-
-In a way, it's reassuring. Knowing that he isn't some perfect empath, that even amidst that calm compassion there can be room for error. Looking past his shoulders, I catch a glimpse of the sky, and the last vestiges of my anxiety begin to fade. Even from under the trees, it's beautiful, and the otherworldly glows that filled my vision persist regardless, creating that wondrous lightshow devoid of reflection on this material plane. The only thing that seems to block it is this man, and the effervescent radiance haloes him against the night. 
-
-"Is there anything else I can get you?" That calming voice pulls me out of my stupor, and I finally feel that I can breathe, and potentially respond. 
-
-"N-" It was too much. Just a single word caused the shudders to return, and so I jut shake my head, avoiding eyes' contact and looking away. 
-
-"Right, sorry, didn't mean to pressure you. I'm gonna go repack my bags, if that's alright?" He pauses, and looks at me, all eyes opening up and boring into mine. I silently nod, and watch as he opens his mouth, pauses as if he's about to speak, and then decides better and walks away. The bag's only a couple meters from us, but it's enough; his presence is possibly the only thing keeping me from breaking down even further. He rummages around and I try to lift myself into a sitting position. 
-
-The first try, my right arm feels too unsteady to push my entire body up. On the second, I reach out with the knob and use its beam to try and steady myself. It works. Finally, I feel as though I've regained some modicum of decorum, and I can confront Birch. I wonder if he'd mind that as a nickname, or if he'd rather I use the full-length version. Well, no harm in asking.
-
-"Would you-"
-
-"Alright, done!" I'm cut off as he turns around, the bag now packed full with his supplies, and he looks at me with an eager expression. I probably wasn't even audible. "Oh good, you're up! Come on, we should move if we want to make Nyquist in time to get a couple hours of sleep." He proffers his hand, and after a moment of hesitation, I take it. If he's surprised by me using my right hand, he doesn't show it, and with another breath I'm on my feet again, ready to walk.
-
-"The night's still young," he continues, "and we're only a few klicks from the town." I try and mimic his smile, reassuring him that I am extraordinarily glad and mentally perfect in this moment. He gives a slight grin, with a hint of concern. Damn, thought that would work. We walk next to each other in silence, the only noise a clack from a belt pack he wears. The bag is gone, its cumbersome weight removed when I was looking away. 
-
-	My mind is filled with questions, as well as a stifling urge to keep quiet. There's that voice in my mind telling me that I'm a murderer, that Birch should get as far away from me as possible before I slip up again and twist him into nothingness, that I need to kindly thank him for his help and walk off into the woods, pretending like I live there and this was just a sojourn, slumming it out with those who walk paths and live in towns. Doubt he'd buy it, though. 
+"So what's a lone human doing on <name?>. It takes me far too long to realize he's talking about this planet
