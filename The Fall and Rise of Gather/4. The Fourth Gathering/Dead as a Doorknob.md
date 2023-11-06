@@ -137,6 +137,12 @@ On the ground, I scream. Behind me, the tree that served as my companion is defo
 
 Small mammals. birds, rodents, and anything else that was enjoying its peaceful life in these woods lay crushed around me. At the foot of the lavishly carved doorjamb is a long 6-legged creature, covered in fur and adorned with a magnificent set of antlers. Everything is mangled. 
 
-The carpet now stained with vomit is a remnant of its pelt--the top of the doorjamb having been formed from the <ivory> of its antlers--hooves having been desiccated and marbled in damascus whorls, a beautiful sight polished by the blood of its victim. There is no knob, save for the one I have in my hand. With horror, I realize that it's material has now changed to a blood-red copper, and with nausea, I realize that it truly is blood: red copper. My palm is burning now, and I realize that all the flesh is gone, my fingerprints being wiped clean by the knob's display of power. It's like it's mocking me for refusing to open any doors for so long. 
+The carpet now stained with vomit is a remnant of its pelt--the top of the doorjamb having been formed from the <! ivory> of its antlers--hooves having been desiccated and marbled in damascus whorls, a beautiful sight polished by the blood of its victim. There is no knob, save for the one I have in my hand. With horror, I realize that it's material has now changed to a blood-red copper, and with nausea, I realize that it truly is blood: red copper. My palm is burning now, and I realize that all the flesh is gone, my fingerprints being wiped clean by the knob's display of power. It's like it's mocking me for refusing to open any doors for so long. 
 
 My left hand nearly snaps with the force I use to fling the doorknob away from me. It doesn't leave my grip. Even when I splay my fingers apart and try and force myself to let go, it stays adhered to the muscle. The pain won't relent. It seeps through my arm and pulses along my chest, striking every centimeter of my body with waves of ache. I can do nothing but lie on the ground, holding the conflagrated palm to my stomach as as rock back and forth, tears my only companion against the destruction I wrought.
+
+---
+
+It's close to noon when I exit my fugue. The doorknob lies forgotten in my hand, a thing layer of skin already bunching up around it. I can only hope that it regrows the same as it did before, and this *thing* hasn't permanently marred me. The forest has remained quiet, for obvious reasons.
+
+I am surrounded by the stench of death--all of the life undone by my opening sweeps through my awareness like water through a grate, staying but a moment before rushing away; regret overtakes me as I feel terrible for not caring more; despair 
