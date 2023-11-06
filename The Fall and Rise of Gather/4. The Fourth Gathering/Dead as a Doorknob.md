@@ -167,4 +167,10 @@ It's at this point I notice a peculiar... thing off to the side of the road star
 
 That's right,. The doorknob. Instantly, any semb lance of control I had regained while being... coddled like this departs, and I start to panic once more at the thought of them finding the doorknob, or heavens forbid, touching it's beam as they try and help me. It's pointed neatly to my frojnt and beck, and I try to scream out as my newfound companion draws nearer to me with the best thing I've smelled yet.
 
-The thing fucking smiles, and pulls back. "Oooookayyy, guess you're not a fan of xnopcht! Sorry, let me grab something else." They seem unperturbed. At this point, the tears have stopped, and the only thing left for me to do is to *stop breathing like I'm running a marathon*. Again, cmopletely oblivious to my suffering, the being rummages through their pack while I try to regain control. After a minute, t 
+The thing fucking smiles, and pulls back. "Oooookayyy, guess you're not a fan of xnopcht! Sorry, let me grab something else." They seem unperturbed. At this point, the tears have stopped, and the only thing left for me to do is to *stop breathing like I'm running a marathon*. Again, cmopletely oblivious to my suffering, the being rummages through their pack while I try to regain control. After a minute, they speak.
+
+"By the way, I suppose I should introduce myself. My name is Lucis Thomas a Bending Bow of Birch Against His Enemies." I'm left stupified at the garbage that just exited his mouth. It's nonsense, something that would better be the title of a work than a name. And yet, with it comes a surge of meaning, as if there's a tangible weight behind the phrase. It feels earned, for lack of a better word.
+
+"Feel ready to tell me yours?" He asks me with that same calm look on his face, and it's all I can do to not stand up, walk over, and fall into his arms sobbing. Perhaps he'd understand. After a minute of breathing, i finally feel ready to say my first words of memorable existance.
+
+"I don't- I can't "
