@@ -165,4 +165,6 @@ It's at this point I notice a peculiar... thing off to the side of the road star
 
 "Drink up. This should be enough." It's all I can do to grab it with my right hand and drink through the choking sobs, but once I start, I can't stop. Shamefully, I close my eyes, doing whatever I can to avoid the person's concerned looks. Just my luck that the first person I truly get to meet comes across me like this, fresh off a glorified crime scene. A scrape causes my eyes to open, and I see that the person has sat down besides me and pulled out a bag, seemingly from nowhere. It's bulging, easily twice my size, and from it, they pull out a box that, again, defies space. My thoughts turn to the doorknob.
 
-That's r
+That's right,. The doorknob. Instantly, any semb lance of control I had regained while being... coddled like this departs, and I start to panic once more at the thought of them finding the doorknob, or heavens forbid, touching it's beam as they try and help me. It's pointed neatly to my frojnt and beck, and I try to scream out as my newfound companion draws nearer to me with the best thing I've smelled yet.
+
+The thing fucking smiles, and pulls back. "Oooookayyy, guess you're not a fan of xnopcht! Sorry, let me grab something else." They seem unperturbed. At this point, the tears have stopped, and the only thing left for me to do is to *stop breathing like I'm running a marathon*. Again, cmopletely oblivious to my suffering, the being rummages through their pack while I try to regain control. After a minute, t 
