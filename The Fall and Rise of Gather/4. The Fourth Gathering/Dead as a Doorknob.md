@@ -145,4 +145,8 @@ My left hand nearly snaps with the force I use to fling the doorknob away from m
 
 It's close to noon when I exit my fugue. The doorknob lies forgotten in my hand, a thing layer of skin already bunching up around it. I can only hope that it regrows the same as it did before, and this *thing* hasn't permanently marred me. The forest has remained quiet, for obvious reasons.
 
-I am surrounded by the stench of death--all of the life undone by my opening sweeps through my awareness like water through a grate, staying but a moment before rushing away; regret overtakes me as I feel terrible for not caring more; despair 
+I am surrounded by the stench of death--all of the life undone by my opening sweeps through my awareness like water through a grate, staying but a moment before rushing away; regret overtakes me as I feel terrible for not caring more; despair tags along to everything else. The tree that served to shelter me in its loving embrace is gone, its siblings fallen victim to the same fate. My legs are not my own; they pick me up and begin limping through the undergrowth as the energy that seemed to fill me earlier has mostly faded. I want to do nothing but sleep, and were it not for the pain (both emotional and physical) I fear I would lay down and let the forest overtake me. And for a moment--I almost do.
+
+The doorknob is a part of me. It isn't some kind of burden I can just hide in a bush--if I'm to even exist, I must accept it as a chunk of my nature. Despite the anger and fear and sadness and just... everything, using it feels as natural as breathing. The path comes into view, and I shudder as I turn back. No signs of my destruction remain. It seems impossible for such a small distance to be all standing between people enjoying their travels and bearing witness to horrors beyond all comprehension. It's sickening.
+
+The settlement is probably a days' walk away. And it's already noon. If I
