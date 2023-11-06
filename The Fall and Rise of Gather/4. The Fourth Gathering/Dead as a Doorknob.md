@@ -173,4 +173,10 @@ The thing fucking smiles, and pulls back. "Oooookayyy, guess you're not a fan of
 
 "Feel ready to tell me yours?" He asks me with that same calm look on his face, and it's all I can do to not stand up, walk over, and fall into his arms sobbing. Perhaps he'd understand. After a minute of breathing, i finally feel ready to say my first words of memorable existance.
 
-"I don't- I can't "
+"I don't- I can't- I just have..." I fucking blew it. My first words were a blubber, random excuses begging to be strung together that fall apart with every syllable spoken. I'm a mess. And yet, despite all of my disgusting, quivering movements, the bastard looks compassionaite. Like he's saying to me, "I understand, don't worry." Then I realize that, no, he is saying that to me. He walks back over with another box, this time filled with yet another delightful smell. I almost take a bite, before a thought occurs to me.
+
+"A-a-animals?" I tremble out, and his face softens. 
+
+"No, don't worry, I'm a vegan." The word is unfamiliar, but sensible, and I finally relent and take a bite. 
+
+It's an explosion in my mouth, almost as if my stomach was reaching up through my throat and strangeling the utensils in the strangers grasp. Despite the pathetic appearance of me as a dirty slump on the ground in the middle of a pathway less than a few hours' walk from the nearest town, he's still sp
