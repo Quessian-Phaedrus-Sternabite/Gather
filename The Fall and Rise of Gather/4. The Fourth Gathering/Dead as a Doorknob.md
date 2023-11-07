@@ -213,4 +213,6 @@ Finally, the silence is broken by Birch working up the courage to speak. "You're
 
 "N-no?" Fuuuuck. I have no idea if that's a double negative, but all's fine, he seems to get the gist. He nods his head and leans back a bit, hands brushing pockets as he stares into the sky. A dull throbbing permeates my legs, and I notice that the suit I'm wearing grows thin on the soles. To be expected, as they weren't the semi-hard cloth covering the rest of me, but it's painful nonetheless. Maybe he'll notice the limp?
 
-"Hey," he begins. *Perfect.* "When we get to town, what are you going to do." Oh. That's... a bit of a loaded question. Well, he's been pretty cheerful so far, so why not go for honesty? It
+"Hey," he begins. *Perfect.* "When we get to town, what are you going to do." Oh. That's... a bit of a loaded question. Well, he's been pretty cheerful so far, so why not go for honesty? It's the least I can do, after all.
+
+"Find a bathroom," I triumphantly proclaim! For the first time, my words came out clear, m
