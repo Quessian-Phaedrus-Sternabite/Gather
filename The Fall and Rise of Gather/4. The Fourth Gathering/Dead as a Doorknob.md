@@ -221,4 +221,8 @@ Finally, the silence is broken by Birch working up the courage to speak. "You're
 
 "You're pretty funny, I gotta say." *What?* "Like I said, if you don't want to answer, you don't have to." I unclench my right palm, noticing with a start that I'm still holding the doorknob. It wasn't like I expected it to be gone, rather, I had stopped noticing I was gripping onto it with all the might my muscles could muster, my arm tightening up with tension the closer it gets to my palm, and a small, nigh-unnoticeable trail of dust was following me, blending in mostly with my footsteps; every so often, moonlight would show a clear beam spiraling up into my hand and drilling away at the ground.
 
-I need to stop. Pace myself. Clearly, Birch hasn'
+I need to stop. Pace myself. Clearly, Birch hasn't noticed, or if he has, he's too damn polite to say anything. And besides, worst-case scenario, he thinks it's just some kind of good-luck charm or keepsake that I can't let go of. I just need to be cautious, need to focus on my thoughts, need to make sure I don't accidentally *open* another door without meaning to. 
+
+Birch nearly screams out like some kind of maniac: "We're almost there!" Sure enough, the path is growing more worn; it's wider, like more people travelled only a short distance before relenting and heading back to town. In front of us, maybe 20 meters or so, another well-trodden path branches into our destination, and I'm greeted with yet another unfamiliar sight. 
+
+Stone is inlaid into the ground, whorls and patterns contorting at a point where more paths seem to branch, each one except for the center laid out not with pavers, but with the wages of time. And that central path stretches on for kilometers, stones building on top of each other until at a distance it seems nothing more than a pale grey line, converging into infinity. 
