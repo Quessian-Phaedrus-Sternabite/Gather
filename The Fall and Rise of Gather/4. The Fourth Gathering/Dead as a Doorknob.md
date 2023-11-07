@@ -209,10 +209,16 @@ My mind is filled with questions, as well as a stifling urge to keep quiet. Ther
 
 So we continue, in silence, each of our footsteps ringing out and returning with muted echoes along the wooded path; he keeps looking over, as if to speak, but I just pretend I don't see him and he'll look away. Or at least, with the majority of his eyes. I feel like they're watching me, the orbs swirling around and swimming across his head until at least one, maybe more, are staring me directly in the face and making sure I don't decide to run off. It is decidedly creepy, but I don't want to be rude, especially after he fed me and waited with me. 
 
+---
+
 Finally, the silence is broken by Birch working up the courage to speak. "You're not from around here, I'd presume?" Heat rushes to my face as I turn away a bit, making eye contact with the trees alone. I've already made a fool out of myself, so more words can't hurt.
 
 "N-no?" Fuuuuck. I have no idea if that's a double negative, but all's fine, he seems to get the gist. He nods his head and leans back a bit, hands brushing pockets as he stares into the sky. A dull throbbing permeates my legs, and I notice that the suit I'm wearing grows thin on the soles. To be expected, as they weren't the semi-hard cloth covering the rest of me, but it's painful nonetheless. Maybe he'll notice the limp?
 
 "Hey," he begins. *Perfect.* "When we get to town, what are you going to do." Oh. That's... a bit of a loaded question. Well, he's been pretty cheerful so far, so why not go for honesty? It's the least I can do, after all.
 
-"Find a bathroom," I triumphantly proclaim! For the first time, my words came out clear, m
+"Find a bathroom," I triumphantly proclaim! For the first time, my words came out clear, my mouth finally cooperating with me. He starts chuckling, and it quickly blossoms into a full laugh. Of all the reactions I expected, this... *insult* wasn't one of them. Again, I blush and look down, trying to keep my back straight and my stride long. After a minute or two of that incessant chuckling, he turns back to me.
+
+"You're pretty funny, I gotta say." *What?* "Like I said, if you don't want to answer, you don't have to." I unclench my right palm, noticing with a start that I'm still holding the doorknob. It wasn't like I expected it to be gone, rather, I had stopped noticing I was gripping onto it with all the might my muscles could muster, my arm tightening up with tension the closer it gets to my palm, and a small, nigh-unnoticeable trail of dust was following me, blending in mostly with my footsteps; every so often, moonlight would show a clear beam spiraling up into my hand and drilling away at the ground.
+
+I need to stop. Pace myself. Clearly, Birch hasn'
