@@ -50,22 +50,6 @@
       "modifiedDate": 1695069991000,
       "sizeInBytes": 807
     },
-    "The Fall and Rise of Gather/Spider.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1689633220645,
-      "modifiedDate": 1687826188000,
-      "sizeInBytes": 13040033
-    },
     "The Fall and Rise of Gather/Gather.canvas": {
       "isDirectory": false,
       "noteCount": 1,
@@ -537,14 +521,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 45.79565217391304,
-      "characterCount": 61587,
-      "nonWhitespaceCharacterCount": 50999,
+      "characterCount": 61654,
+      "nonWhitespaceCharacterCount": 51066,
       "linkCount": 0,
       "embedCount": 1,
       "aliases": null,
       "createdDate": 1689633220868,
-      "modifiedDate": 1691699395000,
-      "sizeInBytes": 61670
+      "modifiedDate": 1699325107535,
+      "sizeInBytes": 61737
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md": {
       "isDirectory": false,
@@ -901,18 +885,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 9630,
+      "wordCount": 9663,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 41.869565217391305,
-      "characterCount": 52858,
-      "nonWhitespaceCharacterCount": 43077,
-      "linkCount": 0,
+      "pageCount": 42.01304347826087,
+      "characterCount": 53042,
+      "nonWhitespaceCharacterCount": 43228,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1698975611950,
-      "modifiedDate": 1699324779447,
-      "sizeInBytes": 52909
+      "modifiedDate": 1699325216336,
+      "sizeInBytes": 53093
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md": {
       "isDirectory": false,
@@ -1281,6 +1265,38 @@
       "createdDate": 1686010784041,
       "modifiedDate": 1695057558000,
       "sizeInBytes": 1908
+    },
+    "The Fall and Rise of Gather/Images/Spider.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1689633220645,
+      "modifiedDate": 1687826188000,
+      "sizeInBytes": 13040033
+    },
+    "The Fall and Rise of Gather/Images/Doorknob.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1699325109902,
+      "modifiedDate": 1699325109906,
+      "sizeInBytes": 2526404
     }
   }
 }
