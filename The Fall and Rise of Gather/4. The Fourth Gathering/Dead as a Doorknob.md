@@ -209,4 +209,8 @@ My mind is filled with questions, as well as a stifling urge to keep quiet. Ther
 
 So we continue, in silence, each of our footsteps ringing out and returning with muted echoes along the wooded path; he keeps looking over, as if to speak, but I just pretend I don't see him and he'll look away. Or at least, with the majority of his eyes. I feel like they're watching me, the orbs swirling around and swimming across his head until at least one, maybe more, are staring me directly in the face and making sure I don't decide to run off. It is decidedly creepy, but I don't want to be rude, especially after he fed me and waited with me. 
 
-Finally, the silence is broken by Birch working up the courage to speak. "You're not from around here, I'd presume?"
+Finally, the silence is broken by Birch working up the courage to speak. "You're not from around here, I'd presume?" Heat rushes to my face as I turn away a bit, making eye contact with the trees alone. I've already made a fool out of myself, so more words can't hurt.
+
+"N-no?" Fuuuuck. I have no idea if that's a double negative, but all's fine, he seems to get the gist. He nods his head and leans back a bit, hands brushing pockets as he stares into the sky. A dull throbbing permeates my legs, and I notice that the suit I'm wearing grows thin on the soles. To be expected, as they weren't the semi-hard cloth covering the rest of me, but it's painful nonetheless. Maybe he'll notice the limp?
+
+"Hey," he begins. *Perfect.* "When we get to town, what are you going to do." Oh. That's... a bit of a loaded question. Well, he's been pretty cheerful so far, so why not go for honesty? It
