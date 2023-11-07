@@ -233,4 +233,10 @@ My companion, of course, responds in the opposite. "Ah, finally!" he cries, "A p
 
 "Is this alright? I hope I'm not squeezing too hard." I shakily nod, and he sets his jaw. "Good, then. I'll make sure to hurry." He takes off in a sprint so fast that my hair trails behind me and I instinctively draw closer to his chest. An obscene warmth is there, hot enough to boil water, but in the chill of the night, it's perfect. Of course, now is the perfect time for my unwelcome guest to remind me of it's appearance.
 
-Doors, thousands of them, slam into my awareness like moths to a flame as we come within a kilometer of the city, the mental blocks I set up being collapses as I not only come into distance of doors, but draw near to *proper doors*. The difference couldn't be more stark. If earlier, I was aware of atoms and knots in trees like they were a slight 
+Doors, thousands of them, slam into my awareness like moths to a flame as we come within a kilometer of the city, the mental blocks I set up being collapses as I not only come into distance of doors, but draw near to *proper doors*. The difference couldn't be more stark. If earlier, I was aware of atoms and knots in trees like they were a slight itch, this is like staring into the hearts of stars, dying and reaching out with their final breaths to pull me in, to use me as fuel and burn me up. With a shudder, I rotate my arm ever-so-slightly, trying to make sure that the knob is pointed away from Birch's shoulder. 
+
+He notices, and a second later, picks up his already fast pace. "Are you alright‽" He half-yells over the rush of the air. I make to wipe the tears out of my eyes, and am confused when he remains blurry. Then I realize. The torque has returned.
+
+---
+
+With every second that passes this close to the doors, I can feel myself getting more and more off-kilter in the eyes of this world. As for Birch's eyes, however, my reflection seems to grow flatter and sharper the longer I persist. It's as if you're looking at a photo, your eyes struggling to perceive non-existent depth. Words fail me as I try to explain, and I know that it's useless. We're less than 5 minutes from the town at this point, and every step has fallen to a whisper as Birch pushes himself for my sake. I close my eyes and retreat further into his embrace, letting him 
