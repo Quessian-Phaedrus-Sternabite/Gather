@@ -265,4 +265,12 @@ I let out a shocked yelp, but, again, the man fails to respond. Instead, he walk
 
 "Good, I didn't think you were awake!" He stares at me, expecting a response, and I can't help but cringe when I hear my throat make a scream. Faltering a bit, he quickly regains his composure, and starts to write something with a slight frown. 
 
-"Please, can you hear me?" I begin to grow desperate as my words fail to reach him again, and watch as he just keeps writing, ignorant of the one-way delay.
+"Please, can you hear me?" I begin to grow desperate as my words fail to reach him again, and watch as he just keeps writing, ignorant of the one-way delay. "Please!" I reach out to grab his arm, forgetting about the restraints, and scream as my right hand cuts itself on the blurs of the soft fabric. The man still doesn't react.
+
+He clears his throat, "Is there a name I can put you down under? You had no ID, and your outfit was torn to shreds." That same damn question. For once, my reactions match what he sees as I cringe in perfect time with my earlier one. It feels like only half of my body is responding to me, and the delay grows slightly worse by the minute. 
+
+My question reaches his ears, and he seems taken aback by the somber terror playing out across my face.
+
+"Of course I can hear you. Is something wron-" My please cuts him off, and I see his eyes widen as I thrash against the restraints. More pain floods my arm as, for the second time, the ties cut into my jerking hand. This time, however, they feel less solid, as if the bindings which previously bent to no movement were now subject to the normal laws of physics. 
+
+As I cringe again through tears, the man starts running to grab a doctor, and I'm finally giv
