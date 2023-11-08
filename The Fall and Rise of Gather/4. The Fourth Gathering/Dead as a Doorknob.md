@@ -279,4 +279,6 @@ My left hand jerks. I had completely forgotten when I had tried to turn the door
 
 "Please, doctor, help!" I shout to the empty room, feeling idiotic. Of course, nothing happens, but it would have been embarrassing if it did. "My words keep coming several seconds late, and nothing makes sense." For now, I'll let that sit, and hope that the doctor can help. 
 
-She ducks into the room through one of the abnormally tall doors, 
+She ducks into the room through one of the abnormally tall doors, and it's at that point I notice her face. Similar to birch, dozens of eyes cover it's surface, but where he was bald, thousands of strands of translucent hair grow in the cracks between the eye-sockets and blanket the head. It hangs down like a curtain, merging gracefully with hair on the rest of her body, and she wears no clothes but a lab coat. The eyes are all half-closed, as if she's simply just waking from a nap, and I turn my head to make eye-contact, not expecting any response.
+
+A few of the eyes flit towards me, peripheral vision perhaps causing a subconscious reaction. But the rest remain solely focused on where my head used to lie. Almost directly on time, my voice comes crying out from the void to my right. The doctor and nures 

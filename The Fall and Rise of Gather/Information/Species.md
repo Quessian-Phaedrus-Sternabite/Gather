@@ -14,7 +14,8 @@
 	- In the Fifth Gathering, the mind was disrupted, and fragmented into several dozen notable beings.
 - Alma
 	- Mammals that are similar to humans with the exception of p----spreading via eggs. Additionally, they have cloacae`
-	- Pinkish skin, tetrachromacy
+	- Pale, bone-white skin, tetrachromacy
 	- Dozens of eyes covering the head, looking in every direction
 	- Roughly 2-3 meters tall
 	- Can split attention at will and *truly* multi-task
+	- Sexual trimorphism. Three sexes. Males are completely hairless, females are covered entirely in translucent hair, and simal are blind, with grey hair covering only the head in a cocoon. Any two Almae can reproduce due to all three containing both egg and sperm. Asexual reproduction is only employed in emergencies. 
