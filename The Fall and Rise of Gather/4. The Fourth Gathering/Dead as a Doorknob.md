@@ -273,4 +273,10 @@ My question reaches his ears, and he seems taken aback by the somber terror play
 
 "Of course I can hear you. Is something wron-" My please cuts him off, and I see his eyes widen as I thrash against the restraints. More pain floods my arm as, for the second time, the ties cut into my jerking hand. This time, however, they feel less solid, as if the bindings which previously bent to no movement were now subject to the normal laws of physics. 
 
-As I cringe again through tears, the man starts running to grab a doctor, and I'm finally giv
+As I cringe again through tears, the man starts running to grab a doctor, and I'm finally given a chance to react. I'll need to make sure I time this carefully if I want to have some semblance of a conversation. 
+
+My left hand jerks. I had completely forgotten when I had tried to turn the doorknob in my panic, and it seems like my body did too, for a time. The knob doesn't turn, but I do feel something clouding the box my hand is in: dust. It feels as if the box is full of it, and with the first glimpse of joy since waking up, I realize that it might be my ticket out. The presence of dust can only mean that the knob is working, its beam slowly cutting into the top and bottom of the cage. I smile, and then wipe it off my face when I see the nurse running back towards me, a doctor trailing.
+
+"Please, doctor, help!" I shout to the empty room, feeling idiotic. Of course, nothing happens, but it would have been embarrassing if it did. "My words keep coming several seconds late, and nothing makes sense." For now, I'll let that sit, and hope that the doctor can help. 
+
+She ducks into the room through one of the abnormally tall doors, 

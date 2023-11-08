@@ -14,4 +14,7 @@
 	- In the Fifth Gathering, the mind was disrupted, and fragmented into several dozen notable beings.
 - Alma
 	- Mammals that are similar to humans with the exception of p----spreading via eggs. Additionally, they have cloacae`
-	- Pinkish skin,  tetrachromacy, multiple eyes
+	- Pinkish skin, tetrachromacy
+	- Dozens of eyes covering the head, looking in every direction
+	- Roughly 2-3 meters tall
+	- Can split attention at will and *truly* multi-task
