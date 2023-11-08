@@ -283,10 +283,14 @@ She ducks into the room through one of the abnormally tall doors, and it's at th
 
 A few of the eyes flit towards me, peripheral vision perhaps causing a subconscious reaction. But the rest remain solely focused on where my head used to lie. Almost directly on time, my voice comes crying out from the void to my right. The doctor and nurse both startle, and I can see confusion appear in both of their eyes. A patient that can't respond except with a serious delay, and a doorknob that must be entombed in a special chamber. A pang of fear rushes through my chest as I contemplate what would have happened had they tried to remove the knob while I slept, though it's brushed aside by the fact that I'm still alive.
 
-The doctor regains her composure, and stands up straight as she studies me. "Interesting. I'm going to test your reflexes now, see if I can find out what's wrong." From her coat, she procures a tiny hammer, and walks in front of me. Before she can even tap the knee, however, my leg snaps up on its own accord, reacting in advance. At least, for me. 
+The doctor regains her composure, and stands up straight as she studies me. "Interesting. I'm going to test your reflexes now, see if I can find out what's wrong." From her coat, she procures a tiny hammer, and walks in front of me, undoing the leg restraints on her way. Before she can even tap the knee, however, my leg snaps up on its own accord, reacting in advance. <! maneuver her into a sitting position> At least, for me. 
 ``
 To her, she doesn't seem to notice, walking through my leg as if it's not there, and I realize that, for her, it simply isn't. A faint blur of my leg shows it reacting to the hammer when she taps it, and it snaps into the position I hold in front of me. I finally stop screaming, the pain resulting from being in two places at once stopping.
 
 The doctor jerks back, caught off guard by the random scream, and waits for me to finish before staring with renewed curiosity. I'm breathing heavily, words spilling out in pearls of pleas, begging for her not to do that again, for her to fix me, for her to make the blurring stop. After the customary delay, she nods her head, growing serious.
 
-"I'll be right back," ssh"
+"I'll be right back," she tells me and the nurse, "I need to grab Dr. Charleston."
+
+---
+
+The doctor comes back, Dr. Charleston in tow, and my heart stops with fear. It's them. The same person I saw from across the room earlier, with the eye tattoo. This time, his eye is as blurry as everything else, but the tattoo is just a clear as it was before. I start screaming and try to move, ignoring the first bouts of pain as the evil entity walks in front of me with care in his eyes. My leg snaps up and kicks him in the crotch, but I feel no resistance, and he likewise doesn't react. Instead, the ripping pain continues, eerily similar to when I first touched the knobs beam, and he simply walks to my side to look at my eyes.
