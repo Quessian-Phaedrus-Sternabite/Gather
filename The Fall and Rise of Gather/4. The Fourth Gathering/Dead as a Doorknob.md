@@ -281,4 +281,12 @@ My left hand jerks. I had completely forgotten when I had tried to turn the door
 
 She ducks into the room through one of the abnormally tall doors, and it's at that point I notice her face. Similar to birch, dozens of eyes cover it's surface, but where he was bald, thousands of strands of translucent hair grow in the cracks between the eye-sockets and blanket the head. It hangs down like a curtain, merging gracefully with hair on the rest of her body, and she wears no clothes but a lab coat. The eyes are all half-closed, as if she's simply just waking from a nap, and I turn my head to make eye-contact, not expecting any response.
 
-A few of the eyes flit towards me, peripheral vision perhaps causing a subconscious reaction. But the rest remain solely focused on where my head used to lie. Almost directly on time, my voice comes crying out from the void to my right. The doctor and nures 
+A few of the eyes flit towards me, peripheral vision perhaps causing a subconscious reaction. But the rest remain solely focused on where my head used to lie. Almost directly on time, my voice comes crying out from the void to my right. The doctor and nurse both startle, and I can see confusion appear in both of their eyes. A patient that can't respond except with a serious delay, and a doorknob that must be entombed in a special chamber. A pang of fear rushes through my chest as I contemplate what would have happened had they tried to remove the knob while I slept, though it's brushed aside by the fact that I'm still alive.
+
+The doctor regains her composure, and stands up straight as she studies me. "Interesting. I'm going to test your reflexes now, see if I can find out what's wrong." From her coat, she procures a tiny hammer, and walks in front of me. Before she can even tap the knee, however, my leg snaps up on its own accord, reacting in advance. At least, for me. 
+``
+To her, she doesn't seem to notice, walking through my leg as if it's not there, and I realize that, for her, it simply isn't. A faint blur of my leg shows it reacting to the hammer when she taps it, and it snaps into the position I hold in front of me. I finally stop screaming, the pain resulting from being in two places at once stopping.
+
+The doctor jerks back, caught off guard by the random scream, and waits for me to finish before staring with renewed curiosity. I'm breathing heavily, words spilling out in pearls of pleas, begging for her not to do that again, for her to fix me, for her to make the blurring stop. After the customary delay, she nods her head, growing serious.
+
+"I'll be right back," ssh"
