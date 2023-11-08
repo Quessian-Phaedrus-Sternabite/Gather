@@ -263,4 +263,6 @@ I begin to speak. "Sorry, can you say that again?" Nothing changes on the person
 
 I let out a shocked yelp, but, again, the man fails to respond. Instead, he walks up to me with a smile on his face and pulls out a clipboard.
 
-"Good, I didn't think you were awake!" 
+"Good, I didn't think you were awake!" He stares at me, expecting a response, and I can't help but cringe when I hear my throat make a scream. Faltering a bit, he quickly regains his composure, and starts to write something with a slight frown. 
+
+"Please, can you hear me?" I begin to grow desperate as my words fail to reach him again, and watch as he just keeps writing, ignorant of the one-way delay.
