@@ -255,4 +255,12 @@ However... there is a single person, a 5-meter tall behemoth with a wiry frame a
 
 My entire sight narrows onto the eye, and I can't help but stare as I see it dilate and focus in on me, moving backwards and forwards in an attempt to get a clear image; the rest of the person's body takes a second to catch up, but once it does, an expression partway between a grin and grimace comes across their face, and they begin walking towards me. Fear prevails, and I find myself desperately trying to wriggle out of my binds before they reach me, before they try and do anything, before the comfortable knowledge of the blurred world being separate from everything else is *ruined* by this person and their accursed eye; I try and turn the doorknob but it doesn't go, my hand still locked in that chamber, and I can still see them growing closer, seeming to run now.
 
-"Ma'am? Can you hear me?" I nearly jump out of my skin and into death's embrace as a voice shocks me out of my trance. My eyes begin to flicker, checking to see where that sharp figure creeping towards me lies on its path, and I realize with a tremor that's it's gone. Worst of all, I can't decide if I'm hallucinating or if the strange 
+"Ma'am? Can you hear me?" I nearly jump out of my skin and into death's embrace as a voice shocks me out of my trance. My eyes begin to flicker, checking to see where that sharp figure creeping towards me lies on its path, and I realize with a tremor that's it's gone. Worst of all, I can't decide if I'm hallucinating or if the strange daemon simply disappeared. I turn back to the person staring at me with concern as sweat drips down my face.
+
+I begin to speak. "Sorry, can you say that again?" Nothing changes on the person's face, and I grow unnerved as a minute passes. Normally, seeing a human would be reassuring, especially in an unknown place, but the blur stops me from seeing anything but the broadest feature's on this man's face, and I can't help but shake as the flat plane of pale stares at me.
+
+"She must still be catatonic," he says, "I'll go grab one of the doctor's and ask them to check her out again." I stare, confused, and wonder if perhaps my earlier words were imagined as well. Suddenly, a voice rings out, clear as day, catching the man in his stride out of the room as it asks him to repeat his phrase. I know that voice. At least, I would hope so, for it's one that typically comes out of my mouth. 
+
+I let out a shocked yelp, but, again, the man fails to respond. Instead, he walks up to me with a smile on his face and pulls out a clipboard.
+
+"Good, I didn't think you were awake!" 
