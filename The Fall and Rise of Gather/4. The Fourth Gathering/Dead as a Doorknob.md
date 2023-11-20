@@ -297,4 +297,10 @@ The doctor comes back, Dr. Charleston in tow, and my heart stops with fear. It's
 
 Of the litany of eyeballs, only one follows; the rest stick to that damned delay as they circle around me. The one eye burns through my flesh, a heptagram of a hand peeling away at my face. The fingers begin to curl up, pulling downwards until it feels that the world around me has frozen and I'm left with a cone burrowing into my forehead. It speaks to me.
 
-"You're not supposed to be here." I scream out in pain, the words resonating with both my fragile psyche and body, and again, I feel the restraints tighten as I try and jerk away. The doctor steps closer, and the fingers begin to latch on to my eye socket. A glimmer of recognition flits into Charleston's eyes, and with a snap of their fingers, the attend
+"You're not supposed to be here." I scream out in pain, the words resonating with both my fragile psyche and body, and again, I feel the restraints tighten as I try and jerk away. The doctor steps closer, and the fingers begin to latch on to my eye socket. A glimmer of recognition flits into Charleston's eyes, and with a snap of their fingers, the attending nurse and doctor leave the room. 
+
+The true mouth opens now, though I hear it before it speaks. "Please," Charleston whispers, "tell me how." All of the myriad of eyes are now on me, and I can sense only longing in their face, a desperate need for understanding that they think I will bring. They pull out a pen, and unlatch my right hand. 
+
+If I wanted to react, I'd still be too late. The delay has worsened, and no matter how hard I yank my hand, it refuses to move. Charleston pulls out what looks like a shard of bone, and, to my horror, dips it far into their eye. The bone stays still, yet grows longer and closer to me, and with my eye propped open, I can do nothing but watch. They pull out the pen, for that's what this must be, and steady it as they lick the fingers of their other hand. It plies apart my eyesocket in the physical, and where before there were seven fingers, now there are thirteen. 
+
+"Don't scream, my dear," Charleston whispers, and they bring th
