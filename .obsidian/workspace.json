@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
                 "mode": "source",
                 "source": false
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md"
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md"
               }
             }
           },
@@ -361,11 +361,16 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "502f692d6c89d690",
+  "active": "cc85e560a7cf17b9",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Shifting.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
+    "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Shifting.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md",
     "The Fall and Rise of Gather/Categories/Stories.md",
@@ -374,13 +379,10 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
-    "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Photo Graphs.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
     "The Fall and Rise of Gather/Images/Doorknob.png",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/A Precipice of Disaster.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/The Labyrinths of Chaos.md",
@@ -389,9 +391,7 @@
     "The Fall and Rise of Gather/Images",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob-DESK-KQDO1A9F.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
-    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
     "The Fall and Rise of Gather/Information/Notable Places.md",
-    "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/Gather.canvas",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png"
   ]
