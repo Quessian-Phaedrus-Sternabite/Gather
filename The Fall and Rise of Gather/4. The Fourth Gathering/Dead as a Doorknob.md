@@ -314,3 +314,7 @@ They adjust their lean over to the box: "What have we here?" Waves of heat come 
 Except for that last one. That second mouth begins to open--wider and wider and wider yet until the entire head splits apart and the eye remains fixed in place, a uvala of sight. It speaks. "What a lovely trick." A giggle emerges, even as more nurses rush into the room and catch Charleston's collapsing form. The mouth and eye refuse to move. "How unfortunate," it says. "You should try and get that fixed." As I myself drift into unconsciousness, I can see the fingers of the tattoo peel out from the lips of the mouth and affix themselves to my arm; they pull the mouth close and I scream spiritually as a chunk is bitten from my flesh. When the mouth opens, my arm is whole, yet I can still feel a phantom pain. 
 
 Left on my arm, blurry yet still legible, is a glowing brand in the shape of a key. It is the last thing I see before I fall into dreams. 
+
+---
+
+

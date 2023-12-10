@@ -12,6 +12,7 @@ Most legends are assumed to be told during the 6th or 7th Gathering, as they rep
 - [[The Tale of Lauren]]
 - [[Philip sat on a stump.]]
 - [[Broken]]
+- [[Dead as a Doorknob]]
 
 ### The Fifth Gathering
 - [[The Labyrinths of Chaos]]
