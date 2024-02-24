@@ -1333,18 +1333,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Last Prophet.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 172,
+      "wordCount": 340,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7478260869565218,
-      "characterCount": 962,
-      "nonWhitespaceCharacterCount": 789,
+      "pageCount": 1.4782608695652173,
+      "characterCount": 1912,
+      "nonWhitespaceCharacterCount": 1569,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1708756031432,
-      "modifiedDate": 1708756624811,
-      "sizeInBytes": 1003
+      "modifiedDate": 1708756855658,
+      "sizeInBytes": 1953
     },
     "The Fourth Gathering.md": {
       "isDirectory": false,
@@ -1361,6 +1361,22 @@
       "createdDate": 1708756107925,
       "modifiedDate": 1708756107925,
       "sizeInBytes": 0
+    },
+    "The Fall and Rise of Gather/filecount.bat": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1708756919881,
+      "modifiedDate": 1707362167782,
+      "sizeInBytes": 114
     }
   }
 }
