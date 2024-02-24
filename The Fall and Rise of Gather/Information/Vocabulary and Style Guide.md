@@ -4,3 +4,15 @@ tags:
   - syntax
   - key
 ---
+YAML
+```
+---
+
+tags:
+
+era:
+
+date: 
+
+---
+```
