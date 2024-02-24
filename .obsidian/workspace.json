@@ -213,7 +213,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "earth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +238,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -353,7 +354,7 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "cc85e560a7cf17b9",
+  "active": "d431aec6b78eee93",
   "lastOpenFiles": [
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Last Prophet.md",
