@@ -13,6 +13,7 @@ Most legends are assumed to be told during the 6th or 7th Gathering, as they rep
 - [[Philip sat on a stump.]]
 - [[Broken]]
 - [[Dead as a Doorknob]]
+- [[The Last Prophet]]
 
 ### The Fifth Gathering
 - [[The Labyrinths of Chaos]]

@@ -229,18 +229,18 @@
     "The Fall and Rise of Gather/Categories/Legends.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 136,
+      "wordCount": 140,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.591304347826087,
-      "characterCount": 793,
-      "nonWhitespaceCharacterCount": 649,
-      "linkCount": 11,
+      "pageCount": 0.6086956521739131,
+      "characterCount": 816,
+      "nonWhitespaceCharacterCount": 668,
+      "linkCount": 12,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220955,
-      "modifiedDate": 1701122223000,
-      "sizeInBytes": 794
+      "modifiedDate": 1708757801317,
+      "sizeInBytes": 817
     },
     "The Fall and Rise of Gather/Categories/Overviews.md": {
       "isDirectory": false,
@@ -1333,18 +1333,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Last Prophet.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 517,
+      "wordCount": 693,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.247826086956522,
-      "characterCount": 2896,
-      "nonWhitespaceCharacterCount": 2373,
+      "pageCount": 3.0130434782608697,
+      "characterCount": 3863,
+      "nonWhitespaceCharacterCount": 3163,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1708756031432,
-      "modifiedDate": 1708757524757,
-      "sizeInBytes": 2937
+      "modifiedDate": 1708757826257,
+      "sizeInBytes": 3915
     },
     "The Fourth Gathering.md": {
       "isDirectory": false,

@@ -1,6 +1,7 @@
 ---
 tags:
   - lucis
+  - legend
 era: 4
 date: 7000
 ---
@@ -12,4 +13,6 @@ Miriam was no stranger to the conceptual, being one of the first generations to 
 
 One of the hands began adjusting her face, and had she been able to cry, sobs would've filled the air. True beauty befell her, the hand cemented in her vision with seven fingers splayed equidistant around an aperture--a tube of pure darkness that reached out to her mind and embraced it. She desperately threw all of her focus at understanding the glory she saw, and felt something call back to her. In her mind's eye lied a series of strings, connected at numerous points until a heptagram presented itself to her; a fragment of the true Photographer, the symbol still evoked a fraction of the fear felt by His present. So she embraced it. Even after the photo was taken, even after everyone around her began to move, she stayed frozen. Miriam cradled the image in her head, and chose to listen to the calling.
 
-On the eve of the next day, one of her friends would stumble upon Miriam, sitting in a bathtub covered in blood. On her torso and across her back stretched that asterik 
+On the eve of the next day, one of her friends would stumble upon Miriam, sitting in a bathtub covered in blood. On her torso and across her back stretched that asterisk of fate, lines wrapping around and meeting again in impossible ways. At the center laid a chunk of the True Eye, a shallow vestige of His that still contained its power. The friend collapsed at the sight, dying within minutes as she failed to comprehend what she saw. Miriam was none the wiser, and when she woke, she cast off her humanity and left the planet to contemplate what she had become.
+
+Over 1,000 years had passed. Her body was timeless, and Miriam was immune to the ravages of time. The skin around the carvings had become old and faded, alternating between fresh blood seeping from cracks and ancient scars that seemed nothing more than a memory of the pain she had endured. With the scars came a gift from his repertoire--a chunk of the True Sight that gave Him access to the secrets of the universe. From a young age, Miriam had always focused on the nature of the future, and it was this form which her gift took. Where He witnessed concepts as they 
