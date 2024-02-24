@@ -1333,18 +1333,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Last Prophet.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1292,
+      "wordCount": 1431,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 5.6173913043478265,
-      "characterCount": 7253,
-      "nonWhitespaceCharacterCount": 5946,
+      "pageCount": 6.221739130434782,
+      "characterCount": 8028,
+      "nonWhitespaceCharacterCount": 6581,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1708756031432,
-      "modifiedDate": 1708759026822,
-      "sizeInBytes": 7305
+      "modifiedDate": 1708759213363,
+      "sizeInBytes": 8080
     },
     "The Fourth Gathering.md": {
       "isDirectory": false,
