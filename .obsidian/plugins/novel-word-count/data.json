@@ -1377,6 +1377,22 @@
       "createdDate": 1708756919881,
       "modifiedDate": 1707362167782,
       "sizeInBytes": 114
+    },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/For What.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05217391304347826,
+      "characterCount": 74,
+      "nonWhitespaceCharacterCount": 63,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1708848283658,
+      "modifiedDate": 1708848322191,
+      "sizeInBytes": 74
     }
   }
 }
