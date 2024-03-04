@@ -79,19 +79,19 @@
             }
           },
           {
-            "id": "cb7e98fbefb02635",
+            "id": "cc85e560a7cf17b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
+                "file": "The Fall and Rise of Gather/2. The Second Gathering/Depths of Insanity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc85e560a7cf17b9",
+            "id": "1914f1b2fd9b0aa4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,9 +158,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "f4f975678262d2f2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Fall and Rise of Gather/Information/Crèches.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
             "id": "d1cbebeedd6c8568",
@@ -170,11 +182,9 @@
               {
                 "id": "bd70382d277b0b86",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "graph",
-                  "state": {},
-                  "pinned": true
+                  "state": {}
                 }
               }
             ]
@@ -345,42 +355,39 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "cc85e560a7cf17b9",
+  "active": "1914f1b2fd9b0aa4",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/4. The Fourth Gathering/The Last Prophet.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Untitled.md",
-    "The Fall and Rise of Gather/Categories/Legends.md",
-    "The Fall and Rise of Gather/Images/filecount.bat",
-    "The Fall and Rise of Gather/filecount.bat",
-    "filecount.bat",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Photo Graphs.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
-    "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/Information/Species.md",
-    "The Fall and Rise of Gather/Information/Crèches.md",
-    "The Fall and Rise of Gather/Information/Vocabulary and Style Guide.md",
-    "The Fall and Rise of Gather/6. The Sixth Gathering/The Labyrinths of Chaos.md",
-    "The Fourth Gathering.md",
-    "The Fall and Rise of Gather/Gather.canvas",
-    "The Fall and Rise of Gather/17 Steps to a Plot.md",
-    "The Fall and Rise of Gather/Information/Weapons.md",
-    "The Fall and Rise of Gather/Information/Notable Places.md",
-    "The Fall and Rise of Gather/Information/Notable Characters.md",
-    "The Fall and Rise of Gather/Information/Information.md",
-    "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md",
-    "The Fall and Rise of Gather/Information/Customs.md",
-    "The Fall and Rise of Gather/Information/Description.md",
-    "readme.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Depths of Insanity.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
+    "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md",
+    "The Fall and Rise of Gather/Information/Crèches.md",
+    "The Fall and Rise of Gather/Information/Species.md",
     "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Untitled",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Labyrinths of Chaos.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed painting 1.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Shifting.md",
+    "The Fall and Rise of Gather/Categories/Legends.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md",
+    "The Fall and Rise of Gather/Categories/Stories.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images",
+    "The Fall and Rise of Gather/Gather.canvas",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png"
   ]
 }

@@ -1,0 +1,1 @@
+Story about death and those who ensure it lasts. Set it up as the same group denying time travel. They exist to ensure the "laws of reality" are followed.
