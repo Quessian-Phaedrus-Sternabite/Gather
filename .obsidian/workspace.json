@@ -6,7 +6,7 @@
       {
         "id": "da22538a389aedc6",
         "type": "tabs",
-        "dimension": 68.45637583892618,
+        "dimension": 66.01876675603218,
         "children": [
           {
             "id": "a2e6a822f9902853",
@@ -84,27 +84,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/2. The Second Gathering/Depths of Insanity.md",
+                "file": "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1914f1b2fd9b0aa4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       },
       {
         "id": "3dacbf1e21118ac3",
         "type": "split",
-        "dimension": 31.543624161073826,
+        "dimension": 33.98123324396783,
         "children": [
           {
             "id": "2f6bec5100ca5e4b",
@@ -162,13 +154,15 @@
               {
                 "id": "f4f975678262d2f2",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "The Fall and Rise of Gather/Information/Crèches.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "pinned": true
                 }
               }
             ],
@@ -264,6 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,6 +275,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -301,7 +297,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md"
+              }
             }
           },
           {
@@ -355,35 +353,35 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "1914f1b2fd9b0aa4",
+  "active": "cc85e560a7cf17b9",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/2. The Second Gathering/Depths of Insanity.md",
-    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (2).md",
+    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
+    "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/2. The Second Gathering.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Let's Just Leave it at That.md",
+    "The Fall and Rise of Gather/Information/Vocabulary and Style Guide.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
     "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/Information/Species.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/0. Overview 2.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Untitled",
-    "The Fall and Rise of Gather/6. The Sixth Gathering/The Labyrinths of Chaos.md",
-    "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed painting 1.md",
-    "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Shifting.md",
-    "The Fall and Rise of Gather/Categories/Legends.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md",
-    "The Fall and Rise of Gather/Categories/Stories.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Shipped into Oblivion.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Fishing in the Void.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Photo Graphs.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/For What.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Nothing, Forever.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/5. The Fifth Gathering.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
+    "The Fall and Rise of Gather/2. The Second Gathering/Untitled",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images",
