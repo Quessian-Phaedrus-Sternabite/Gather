@@ -5,4 +5,4 @@
 - [[The Fourth Gathering]]
 - [[0. Overview 5]]
 - [[0. Overview 6]]
-- [[0. Overview 7]]
+- [[The Seventh Gathering]]
