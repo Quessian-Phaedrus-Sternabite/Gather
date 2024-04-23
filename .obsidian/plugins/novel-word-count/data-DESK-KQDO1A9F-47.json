@@ -1017,14 +1017,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.673913043478261,
-      "characterCount": 2442,
-      "nonWhitespaceCharacterCount": 2029,
+      "characterCount": 2435,
+      "nonWhitespaceCharacterCount": 2031,
       "linkCount": 7,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1695057740623,
-      "modifiedDate": 1713816885000,
-      "sizeInBytes": 2496
+      "modifiedDate": 1696954432000,
+      "sizeInBytes": 2489
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md": {
       "isDirectory": false,

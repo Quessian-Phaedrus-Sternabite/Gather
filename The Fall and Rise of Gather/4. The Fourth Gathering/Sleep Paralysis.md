@@ -1,0 +1,12 @@
+---
+era: 4
+date: 374
+tags:
+---
+He sat there. He sat there and he stared at the wall and he told himself that it wasn't real, that it couldn't hurt him, that he was *fine*. He was, in fact, fine. It it was nothing more than a bad dream, nothing more than an illusion spurned on by the lack of sleep. He stared at the wall and he couldn't remember when he had last gone to sleep. Around him, his room was in complete disarray. A mirror focused light from the moons onto his bed, with a magazine flashing into his mind as he continued to stare at the wall. It was the only empty wall in the room, the others being covered by posters or even writings, paper falling way to drywall as he ran out of room and couldn't be bothered to make more.. 
+
+DEspite this, the wall that he knew was full of drawings just the day before, that had a particularly interesting problem he had been craning out, that had been *something*, had now been reduced to a peerfectly clear surface. The marker's ink had faded, and all that was elft was a reflection of himself. Empty. Blank. And discarded, a space once filled and used now left as open as the day he was born. THe rest of the room was the same sort of hollow, with a light breath seemingly enough to collapse the floors and chairs around him. He sat there and he stared at that blank spot on his wall and he didn't even consider why it was blank, what had made it blank. 
+
+After what eemed like an eternity, erlief finall staied his body and cleared away some of the sweat that had been puring down his face. There truly was nothing there. It was unfortunate, really, that his work had been erased, but as he laid back down on te bed, shuffling aside dirty clothes and utensils, he was comforted by the pristine emptiness. It wasn't until he reached for a glass of water on the table next to him that his heart began racing again. The table was gone. He exhaled, staring at the cold fog of his breath, and began searching the rest of the room. There was nothing there, no table, no glass of water, and most importantly, no lamp. He didn't know when it had disappeared. After all, in a room without windows, what other source of light was theree?
+
+That spot on the wall called to him again, and he turned towards it. To call it a spot, though, would be a bit deceptive. No, it was more of a botch. About the size of a door, and nearly reaching from floor to ceiling. Absently, he realized he couldn't quite recall where he placed his marker, and he concluded that he must have dropped it amongst the piles on the floor 

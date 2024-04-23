@@ -4,7 +4,7 @@
   "enabledCssSnippets": [
     "extended-colorschemes"
   ],
-  "textFontFamily": "",
+  "textFontFamily": "Runic Calligraphy",
   "baseFontSize": 16,
-  "interfaceFontFamily": "Runic Calligraphy"
+  "interfaceFontFamily": ""
 }
