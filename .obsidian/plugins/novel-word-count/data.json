@@ -1441,6 +1441,22 @@
       "createdDate": 1689633220667,
       "modifiedDate": 1687826188000,
       "sizeInBytes": 468
+    },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Sleep Paralysis.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 480,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.0869565217391304,
+      "characterCount": 2523,
+      "nonWhitespaceCharacterCount": 2037,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1713845300858,
+      "modifiedDate": 1713817980000,
+      "sizeInBytes": 2553
     }
   }
 }
