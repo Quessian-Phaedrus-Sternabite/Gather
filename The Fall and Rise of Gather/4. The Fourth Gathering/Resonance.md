@@ -6,7 +6,7 @@ tags:
   - four
 era: 4
 ---
-%%The aftermath of a great battle, possible [[Collapse]]. 
+%%The aftermath of a great battle, possible [[Collapse]]. A "young" fighter confronts Blood, one of the few Living Concepts. A Resonator. After Blood attempts true resurrections through blood transfusion, Law appears, utilizing the break to enter the zone. The two discuss the balance of order and chaos, with Blood claiming that the battlefield is too chaotic for Law to subsume. At this point, Law brings in the true Anchor, [[The Tale of Lauren|Lauren]]. Her lack of ambition and refusal to obey creates a stable point between order and chaos, and a pressure begins to build on every Concept in the area, one insisting on maintaining itself. At this point, the original soldier, who had briefly considering running, manages to reforge her spear, pouring everything into the idea of it. She coalesces, breaking Blood's influence, and uses the deep connection to Conceptual space in the area to associate herself, finishing the century long process. Blood offers her power, and Law threatens her with insanity by revealing his conceptual form as Law. As the two powers try and sway her, and Lauren remains stubbornly neutral, a voice calls out to her, hidden from all. The [[Photo Graphs |Photographer]] lays his head in front of her and tel
 You can't "kill" a concept. It's impossible. How can one sunder that which doesn't exist? It's as foolish as trying to stab space, or trying to kill the idea of breathing. And yet, I was going to do it, or die trying.
 
 In front of me, an ocean of Blood filled all I could see, his visage getting closer with each wave.

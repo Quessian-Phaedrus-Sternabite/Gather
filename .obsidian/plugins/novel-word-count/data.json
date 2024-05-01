@@ -1477,18 +1477,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Resonance.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 565,
+      "wordCount": 762,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.4565217391304346,
-      "characterCount": 3117,
-      "nonWhitespaceCharacterCount": 2539,
-      "linkCount": 2,
+      "pageCount": 3.3130434782608695,
+      "characterCount": 4301,
+      "nonWhitespaceCharacterCount": 3527,
+      "linkCount": 4,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1714597808355,
-      "modifiedDate": 1714598993554,
-      "sizeInBytes": 3182
+      "modifiedDate": 1714599296154,
+      "sizeInBytes": 4366
     }
   }
 }
