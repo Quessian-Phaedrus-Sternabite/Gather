@@ -585,14 +585,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 11.856521739130434,
-      "characterCount": 15618,
+      "characterCount": 15620,
       "nonWhitespaceCharacterCount": 12875,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220824,
-      "modifiedDate": 1688047112000,
-      "sizeInBytes": 15644
+      "modifiedDate": 1714598390406,
+      "sizeInBytes": 15646
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md": {
       "isDirectory": false,
@@ -1477,18 +1477,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Resonance.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 151,
+      "wordCount": 264,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.6565217391304348,
-      "characterCount": 819,
-      "nonWhitespaceCharacterCount": 665,
+      "pageCount": 1.1478260869565218,
+      "characterCount": 1460,
+      "nonWhitespaceCharacterCount": 1190,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1714597808355,
-      "modifiedDate": 1714598094730,
-      "sizeInBytes": 884
+      "modifiedDate": 1714598322942,
+      "sizeInBytes": 1525
     }
   }
 }
