@@ -6,6 +6,7 @@ tags:
   - four
 era: 4
 ---
+%%The aftermath of a great battle, possible [[Collapse]]. 
 You can't "kill" a concept. It's impossible. How can one sunder that which doesn't exist? It's as foolish as trying to stab space, or trying to kill the idea of breathing. And yet, I was going to do it, or die trying.
 
 In front of me, an ocean of Blood filled all I could see, his visage getting closer with each wave.
@@ -16,4 +17,8 @@ In front of me, an ocean of Blood filled all I could see, his visage getting clo
 
 He laid his hand on it and pushed it away, rusting the blade in an instant. A hand reached up and cradled my face, before viciously slapping it away. "You squander the gifts of life!" Blood cries, punching my chest as he does so. It feels as though a boulder crashed into me, and it's all I can do to stay breathing as I collapse into a pool of blood on the ground. He continues, kneeling down on top of my chest as we make eye contact. A slight lean is all it takes to labor my breathing, and my eyes panic as he fails to relent. 
 
-"The [[0. Overview 1 |First]] had believed that blood had power." My breathing has quieted as I realize I might actually die. The spear that had carried me through the last century of fighting had shattered and scattered in the wind. "They truly thought that blood carried memories, or imbued youth, or any number of things." His face was translucent, I finally noticed, with the stars being visible through his h
+"The [[0. Overview 1 |First]] had believed that blood had power." My breathing has quieted as I realize I might actually die. The spear that had carried me through the last century of fighting had shattered and scattered in the wind. "They truly thought that blood carried memories, or imbued youth, or any number of things." His face was translucent, I finally noticed, with the stars being visible through his hair. As my vision darkened, he placed a finger in my mouth, and filled it with himself. Blood poured through my veins as I snapped back to awareness, revitalized by the overwhelming amount of oxygen. "There," he said, "now your death won't interrupt me." A strength greater than all the armies of Gather fueled me, and I made to rise and dispose of this great evil. 
+
+Blood didn't even notice my attempt. My body refused to move, and though I had strength, it fled from my grasp. Despite the struggle, the living puddle kept talking, ignoring me. 
+
+"Though they were wrong, it's not all lost. Have you ever heard of the idea of uplifting?" Blood stood up and began to pace. I could feel myself sit up and watch him, my muscles out of my control as my blood rebelled. 
