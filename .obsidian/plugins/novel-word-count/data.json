@@ -581,18 +581,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2727,
+      "wordCount": 2411,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 11.856521739130434,
-      "characterCount": 15620,
-      "nonWhitespaceCharacterCount": 12875,
+      "pageCount": 10.482608695652173,
+      "characterCount": 13821,
+      "nonWhitespaceCharacterCount": 11388,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220824,
-      "modifiedDate": 1714598390406,
-      "sizeInBytes": 15646
+      "modifiedDate": 1714598421158,
+      "sizeInBytes": 13847
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md": {
       "isDirectory": false,
@@ -1477,18 +1477,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Resonance.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 264,
+      "wordCount": 418,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.1478260869565218,
-      "characterCount": 1460,
-      "nonWhitespaceCharacterCount": 1190,
-      "linkCount": 0,
+      "pageCount": 1.817391304347826,
+      "characterCount": 2291,
+      "nonWhitespaceCharacterCount": 1866,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1714597808355,
-      "modifiedDate": 1714598322942,
-      "sizeInBytes": 1525
+      "modifiedDate": 1714598696136,
+      "sizeInBytes": 2356
     }
   }
 }
