@@ -1,4 +1,4 @@
-o#information , #four 
+#information , #four 
 
 **Core** - Refers to the center of the milky way. Hawking Radiation generator set up around the super massive black hole. 
 
