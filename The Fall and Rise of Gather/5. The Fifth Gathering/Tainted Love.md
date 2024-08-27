@@ -18,4 +18,6 @@ I've never felt a love quite like his. From the moment he first rescued me, it f
 
 It's funny, the idea of calling love a spark. A single spark can devastate our crop, ruining the lives of so many. A spark can burn down our entire station, forcing us to start anew. And yet, people never discuss sparks as a bad thing. All the old gossips say that the youth are consumed by the flames of passion, and yet they say it with laughs and crowing titters. And it's true that when I felt that heat suffusing my soul, I could only rejoice, for I was loved. 
 
-"Kaia?" His voice suddenly snapped me out of my trance. I realized I had been staring, letting my tea grow cold even as his hands warmed mine. We were perhaps 70 meters above base at this point, sitting in a carved hardwood both as the server traipsed across the walkway with trays in hand. 
+"Kaia?" His voice suddenly snapped me out of my trance. I realized I had been staring, letting my tea grow cold even as his hands warmed mine. We were perhaps 70 meters above base at this point, sitting in a carved hardwood both as the server traipsed across the walkway with trays in hand. Every step seemed closer to a stumble than a calculation, yet the platter remained perfectly level compared to the slanted floor. Despite the tangle, the room was quiet even more so. 
+
+I turned my attention back to Hamish and cleared my throat. His ey
