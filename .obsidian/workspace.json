@@ -203,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "raped",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +228,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -422,7 +423,7 @@
       }
     ]
   },
-  "active": "0aa8293b6d069c9a",
+  "active": "d431aec6b78eee93",
   "lastOpenFiles": [
     "The Fall and Rise of Gather/5. The Fifth Gathering/5. The Fifth Gathering.md",
     "The Fall and Rise of Gather/Information/Species.md",
