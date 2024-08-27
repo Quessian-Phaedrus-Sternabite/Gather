@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md",
+                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md",
+                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md"
+                "file": "The Fall and Rise of Gather/Information/Naming Conventions.md"
               }
             }
           },
@@ -423,10 +423,10 @@
       }
     ]
   },
-  "active": "daaf99b6afebf0b7",
+  "active": "ff6eb261cf67794a",
   "lastOpenFiles": [
-    "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md",
+    "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/5. The Fifth Gathering.md",
     "The Fall and Rise of Gather/Information/Species.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
