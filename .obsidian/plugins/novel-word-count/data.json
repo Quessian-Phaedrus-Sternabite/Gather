@@ -783,8 +783,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1693024125526,
-      "modifiedDate": 1693024916092,
-      "sizeInBytes": 1190
+      "modifiedDate": 1724720128871,
+      "sizeInBytes": 1211
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Last Prophet.md": {
       "isDirectory": false,
@@ -837,18 +837,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2411,
+      "wordCount": 2408,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 10.482608695652173,
-      "characterCount": 13821,
-      "nonWhitespaceCharacterCount": 11388,
+      "pageCount": 10.469565217391304,
+      "characterCount": 13799,
+      "nonWhitespaceCharacterCount": 11370,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1689633220824,
-      "modifiedDate": 1714598421158,
-      "sizeInBytes": 13847
+      "modifiedDate": 1724720146298,
+      "sizeInBytes": 13859
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Sleep Paralysis.md": {
       "isDirectory": false,
@@ -1525,18 +1525,18 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 2,
+      "wordCount": 8,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.008695652173913044,
-      "characterCount": 9,
-      "nonWhitespaceCharacterCount": 6,
+      "pageCount": 0.034782608695652174,
+      "characterCount": 46,
+      "nonWhitespaceCharacterCount": 37,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1724720021043,
-      "modifiedDate": 1724720040266,
-      "sizeInBytes": 9
+      "modifiedDate": 1724720239952,
+      "sizeInBytes": 117
     }
   }
 }

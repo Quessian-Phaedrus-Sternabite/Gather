@@ -1,6 +1,11 @@
 ---
-tag: four, story, tempi, time
+tags:
+  - four
+  - story
+  - tempi
+  - time
 date: 25000
+era: 4
 ---
 #four , #story, #tempi, #time 
 
