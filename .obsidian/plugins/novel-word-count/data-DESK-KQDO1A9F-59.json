@@ -1525,18 +1525,18 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 728,
+      "wordCount": 649,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.1652173913043478,
-      "characterCount": 4056,
-      "nonWhitespaceCharacterCount": 3325,
+      "pageCount": 2.8217391304347825,
+      "characterCount": 3633,
+      "nonWhitespaceCharacterCount": 2982,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1724720021043,
-      "modifiedDate": 1724787496000,
-      "sizeInBytes": 4133
+      "modifiedDate": 1724787366000,
+      "sizeInBytes": 3710
     }
   }
 }
