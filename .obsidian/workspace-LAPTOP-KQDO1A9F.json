@@ -62,26 +62,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "daaf99b6afebf0b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/7. The Seventh Gathering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "3dacbf1e21118ac3",
@@ -135,10 +123,24 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The Fall and Rise of Gather/5. The Fifth Gathering/5. The Fifth Gathering.md",
+                    "file": "The Fall and Rise of Gather/Information/Species.md",
                     "mode": "source",
                     "source": false
                   }
+                }
+              },
+              {
+                "id": "f4f975678262d2f2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Fall and Rise of Gather/Information/Crèches.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
                 }
               },
               {
@@ -154,7 +156,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "d1cbebeedd6c8568",
@@ -228,8 +230,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Crèches.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/7. The Seventh Gathering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Crèches.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/7. The Seventh Gathering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Crèches.md"
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/7. The Seventh Gathering.md"
               }
             }
           },
@@ -332,8 +333,8 @@
     "hiddenItems": {
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": true,
-      "daily-notes:Open today's daily note": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
@@ -345,115 +346,37 @@
       "publish:Publish changes...": false
     }
   },
-  "floating": {
-    "id": "4ef0ad64f9957c0a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0acfc416b88a8a27",
-        "type": "window",
-        "children": [
-          {
-            "id": "f142f82dc1707b04",
-            "type": "tabs",
-            "dimension": 31.93916349809886,
-            "children": [
-              {
-                "id": "f4f975678262d2f2",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Fall and Rise of Gather/Information/Crèches.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              }
-            ]
-          },
-          {
-            "id": "d3e876600a5b3e48",
-            "type": "tabs",
-            "dimension": 31.93916349809886,
-            "children": [
-              {
-                "id": "ff6eb261cf67794a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Fall and Rise of Gather/Information/Naming Conventions.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "7dd379fad55ca12e",
-            "type": "tabs",
-            "dimension": 36.12167300380228,
-            "children": [
-              {
-                "id": "03efc88778c8498c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "The Fall and Rise of Gather/Information/Species.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3531,
-        "y": 16,
-        "width": 600,
-        "height": 631,
-        "maximize": true,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "f4f975678262d2f2",
+  "active": "2e1b0b4ca0371ea8",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/Information/Naming Conventions.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md",
-    "Markdown Cheat Sheet.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/5. The Fifth Gathering.md",
-    "The Fall and Rise of Gather/Information/Species.md",
-    "The Fall and Rise of Gather/Information/Vocabulary and Style Guide.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/The Monks of Madness.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tranquility 4.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Sepsis.md",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/The Worst of All Possible Worlds.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/He Awakens.md",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
-    "The Fourth Gathering.md",
-    "The Fall and Rise of Gather/Information/Crèches.md",
+    "Markdown Cheat Sheet.md",
     "readme.md",
+    "The Fourth Gathering.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Depths of Insanity.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Let's Just Leave it at That.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Shifting.md",
     "The Fall and Rise of Gather/Information/Notable Characters.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md",
+    "The Fall and Rise of Gather/1. The First Gathering/0. Overview 1.md",
+    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (2).md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Labyrinths of Chaos.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md",
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/7. The Seventh Gathering.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed painting 1.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Introduction.md",
+    "The Fall and Rise of Gather/Information/Plot Thread -- Philosophies.md",
+    "The Fall and Rise of Gather/Information/Notable Places.md",
+    "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images/Doorknob.png",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png",
     "The Fall and Rise of Gather/2. The Second Gathering/Untitled",
     "The Fall and Rise of Gather/Images",
     "The Fall and Rise of Gather/Gather.canvas"
