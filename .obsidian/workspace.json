@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "3dacbf1e21118ac3",
@@ -249,7 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Crèches.md",
+                "file": "Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Crèches.md",
+                "file": "Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/Information/Crèches.md"
+                "file": "Markdown Cheat Sheet.md"
               }
             }
           },
@@ -423,10 +423,11 @@
       }
     ]
   },
-  "active": "f4f975678262d2f2",
+  "active": "2e1b0b4ca0371ea8",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md",
+    "The Fall and Rise of Gather/Information/Naming Conventions.md",
+    "The Fall and Rise of Gather/Information/Crèches.md",
     "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/5. The Fifth Gathering.md",
     "The Fall and Rise of Gather/Information/Species.md",
@@ -444,7 +445,6 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
     "The Fourth Gathering.md",
-    "The Fall and Rise of Gather/Information/Crèches.md",
     "readme.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Depths of Insanity.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Let's Just Leave it at That.md",
