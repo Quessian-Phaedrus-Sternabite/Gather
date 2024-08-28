@@ -20,4 +20,4 @@ It's funny, the idea of calling love a spark. A single spark can devastate our c
 
 "Kaia?" His voice suddenly snapped me out of my trance. I realized I had been staring, letting my tea grow cold even as his hands warmed mine. We were perhaps 70 meters above base at this point, sitting in a carved hardwood both as the server traipsed across the walkway with trays in hand. Every step seemed closer to a stumble than a calculation, yet the platter remained perfectly level compared to the slanted floor. Despite the tangle, the room was quiet even more so. 
 
-I turned my attention back to Hamish and cleared my throat. His eyes shined as he waited for my answer. "Sorry," I murmur, "I was just thinking about you." He chuckled softly before squeezing my hand a bit
+I turned my attention back to Hamish and cleared my throat. His eyes shined as he waited for my answer. "Sorry," I murmur, "I was just thinking about you." He chuckled softly before squeezing my hand, tightly and warmly until it hurt.
