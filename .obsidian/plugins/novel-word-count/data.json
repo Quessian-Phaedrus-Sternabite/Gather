@@ -18,22 +18,6 @@
     "excludeComments": false
   },
   "cachedCounts": {
-    "readme.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 123,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5347826086956522,
-      "characterCount": 713,
-      "nonWhitespaceCharacterCount": 587,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168549659,
-      "modifiedDate": 1686620210000,
-      "sizeInBytes": 713
-    },
     "The Fall and Rise of Gather/Information/Weapons.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -49,22 +33,6 @@
       "createdDate": 1691168543874,
       "modifiedDate": 1688135834000,
       "sizeInBytes": 857
-    },
-    "The Fall and Rise of Gather/Information/Plot Thread -- Philosophies.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 519,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.256521739130435,
-      "characterCount": 3061,
-      "nonWhitespaceCharacterCount": 2542,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1715027010757,
-      "modifiedDate": 1715029061189,
-      "sizeInBytes": 3089
     },
     "The Fall and Rise of Gather/Information/Vocabulary and Style Guide.md": {
       "isDirectory": false,
@@ -98,6 +66,22 @@
       "modifiedDate": 1701121752054,
       "sizeInBytes": 1110
     },
+    "The Fall and Rise of Gather/Information/Plot Thread -- Philosophies.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 519,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.256521739130435,
+      "characterCount": 3061,
+      "nonWhitespaceCharacterCount": 2542,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1715027010757,
+      "modifiedDate": 1715029061189,
+      "sizeInBytes": 3089
+    },
     "The Fall and Rise of Gather/Information/Notable Places.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -113,22 +97,6 @@
       "createdDate": 1698245596057,
       "modifiedDate": 1698416245167,
       "sizeInBytes": 2828
-    },
-    "The Fall and Rise of Gather/Information/Notable Characters.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 336,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.4608695652173913,
-      "characterCount": 1983,
-      "nonWhitespaceCharacterCount": 1644,
-      "linkCount": 4,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168548769,
-      "modifiedDate": 1688065920000,
-      "sizeInBytes": 1983
     },
     "The Fall and Rise of Gather/Information/Information.md": {
       "isDirectory": false,
@@ -162,6 +130,38 @@
       "modifiedDate": 1699036248993,
       "sizeInBytes": 2802
     },
+    "The Fall and Rise of Gather/Information/Notable Characters.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 336,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4608695652173913,
+      "characterCount": 1983,
+      "nonWhitespaceCharacterCount": 1644,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168548769,
+      "modifiedDate": 1688065920000,
+      "sizeInBytes": 1983
+    },
+    "The Fall and Rise of Gather/Information/Customs.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 112,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.48695652173913045,
+      "characterCount": 626,
+      "nonWhitespaceCharacterCount": 505,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168548769,
+      "modifiedDate": 1693024204000,
+      "sizeInBytes": 626
+    },
     "The Fall and Rise of Gather/Information/Faster-Than-Light Travel.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -194,22 +194,6 @@
       "modifiedDate": 1687826190000,
       "sizeInBytes": 600
     },
-    "The Fall and Rise of Gather/Information/Customs.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 112,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.48695652173913045,
-      "characterCount": 626,
-      "nonWhitespaceCharacterCount": 505,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168548769,
-      "modifiedDate": 1693024204000,
-      "sizeInBytes": 626
-    },
     "The Fall and Rise of Gather/Information/Crèches.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -226,22 +210,6 @@
       "modifiedDate": 1698029647000,
       "sizeInBytes": 3076
     },
-    "The Fall and Rise of Gather/Images/Spider.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1691168545195,
-      "modifiedDate": 1687826188000,
-      "sizeInBytes": 13040033
-    },
     "The Fall and Rise of Gather/Images/Doorknob.png": {
       "isDirectory": false,
       "noteCount": 1,
@@ -257,6 +225,22 @@
       "createdDate": 1699365832825,
       "modifiedDate": 1699325109000,
       "sizeInBytes": 2526404
+    },
+    "The Fall and Rise of Gather/Images/Spider.png": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1691168545195,
+      "modifiedDate": 1687826188000,
+      "sizeInBytes": 13040033
     },
     "The Fall and Rise of Gather/Gather.canvas": {
       "isDirectory": false,
@@ -450,22 +434,6 @@
       "modifiedDate": 1687826190000,
       "sizeInBytes": 300
     },
-    "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 407,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.7695652173913043,
-      "characterCount": 2193,
-      "nonWhitespaceCharacterCount": 1785,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168548784,
-      "modifiedDate": 1687826190000,
-      "sizeInBytes": 2193
-    },
     "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed painting 1.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -498,21 +466,21 @@
       "modifiedDate": 1714423934708,
       "sizeInBytes": 641
     },
-    "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md": {
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Forgetfulness.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 863,
+      "wordCount": 407,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.752173913043478,
-      "characterCount": 4688,
-      "nonWhitespaceCharacterCount": 3813,
+      "pageCount": 1.7695652173913043,
+      "characterCount": 2193,
+      "nonWhitespaceCharacterCount": 1785,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1691168545210,
-      "modifiedDate": 1695057978126,
-      "sizeInBytes": 4688
+      "createdDate": 1691168548784,
+      "modifiedDate": 1687826190000,
+      "sizeInBytes": 2193
     },
     "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md": {
       "isDirectory": false,
@@ -530,6 +498,22 @@
       "modifiedDate": 1699235427000,
       "sizeInBytes": 1854
     },
+    "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 863,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.752173913043478,
+      "characterCount": 4688,
+      "nonWhitespaceCharacterCount": 3813,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168545210,
+      "modifiedDate": 1695057978126,
+      "sizeInBytes": 4688
+    },
     "The Fall and Rise of Gather/6. The Sixth Gathering/The Riots of Græslond.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -546,21 +530,21 @@
       "modifiedDate": 1688047834000,
       "sizeInBytes": 326
     },
-    "The Fall and Rise of Gather/6. The Sixth Gathering/The Labyrinths of Chaos.md": {
+    "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 131,
+      "wordCount": 43,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5695652173913044,
-      "characterCount": 786,
-      "nonWhitespaceCharacterCount": 653,
-      "linkCount": 1,
+      "pageCount": 0.18695652173913044,
+      "characterCount": 279,
+      "nonWhitespaceCharacterCount": 236,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1691168543859,
-      "modifiedDate": 1698245587035,
-      "sizeInBytes": 844
+      "createdDate": 1691168548738,
+      "modifiedDate": 1687826190000,
+      "sizeInBytes": 279
     },
     "The Fall and Rise of Gather/6. The Sixth Gathering/He Awakens.md": {
       "isDirectory": false,
@@ -594,21 +578,21 @@
       "modifiedDate": 1687826190000,
       "sizeInBytes": 172
     },
-    "The Fall and Rise of Gather/6. The Sixth Gathering/0. Overview 6.md": {
+    "The Fall and Rise of Gather/6. The Sixth Gathering/The Labyrinths of Chaos.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 43,
+      "wordCount": 131,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.18695652173913044,
-      "characterCount": 279,
-      "nonWhitespaceCharacterCount": 236,
-      "linkCount": 0,
+      "pageCount": 0.5695652173913044,
+      "characterCount": 786,
+      "nonWhitespaceCharacterCount": 653,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1691168548738,
-      "modifiedDate": 1687826190000,
-      "sizeInBytes": 279
+      "createdDate": 1691168543859,
+      "modifiedDate": 1698245587035,
+      "sizeInBytes": 844
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md": {
       "isDirectory": false,
@@ -642,6 +626,22 @@
       "modifiedDate": 1698080360152,
       "sizeInBytes": 3963
     },
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Sepsis.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 781,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.3956521739130436,
+      "characterCount": 4615,
+      "nonWhitespaceCharacterCount": 3829,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691591918619,
+      "modifiedDate": 1691783936476,
+      "sizeInBytes": 4665
+    },
     "The Fall and Rise of Gather/5. The Fifth Gathering/The Monks of Madness.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -674,38 +674,6 @@
       "modifiedDate": 1724871395490,
       "sizeInBytes": 5890
     },
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": 0,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": [],
-      "createdDate": 1691168545195,
-      "modifiedDate": 1687826190000,
-      "sizeInBytes": 13040033
-    },
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Sepsis.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 781,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.3956521739130436,
-      "characterCount": 4615,
-      "nonWhitespaceCharacterCount": 3829,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691591918619,
-      "modifiedDate": 1691783936476,
-      "sizeInBytes": 4665
-    },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -722,21 +690,21 @@
       "modifiedDate": 1698125264000,
       "sizeInBytes": 1871
     },
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md": {
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 336,
+      "wordCount": 0,
       "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.4608695652173913,
-      "characterCount": 2027,
-      "nonWhitespaceCharacterCount": 1688,
-      "linkCount": 1,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
       "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168551596,
+      "aliases": [],
+      "createdDate": 1691168545195,
       "modifiedDate": 1687826190000,
-      "sizeInBytes": 2027
+      "sizeInBytes": 13040033
     },
     "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md": {
       "isDirectory": false,
@@ -770,21 +738,21 @@
       "modifiedDate": 1715027193081,
       "sizeInBytes": 2051
     },
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md": {
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Eternity in a Day.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 340,
+      "wordCount": 336,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.4782608695652173,
-      "characterCount": 1878,
-      "nonWhitespaceCharacterCount": 1534,
-      "linkCount": 0,
+      "pageCount": 1.4608695652173913,
+      "characterCount": 2027,
+      "nonWhitespaceCharacterCount": 1688,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1691168548738,
-      "modifiedDate": 1688046940000,
-      "sizeInBytes": 1903
+      "createdDate": 1691168551596,
+      "modifiedDate": 1687826190000,
+      "sizeInBytes": 2027
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Worst of All Possible Worlds.md": {
       "isDirectory": false,
@@ -802,6 +770,22 @@
       "modifiedDate": 1724720128000,
       "sizeInBytes": 1211
     },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Woodworking.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 340,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.4782608695652173,
+      "characterCount": 1878,
+      "nonWhitespaceCharacterCount": 1534,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168548738,
+      "modifiedDate": 1688046940000,
+      "sizeInBytes": 1903
+    },
     "The Fall and Rise of Gather/4. The Fourth Gathering/The Tale of Lauren.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -818,22 +802,6 @@
       "modifiedDate": 1724720146000,
       "sizeInBytes": 13859
     },
-    "The Fall and Rise of Gather/4. The Fourth Gathering/The Last Prophet.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1431,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 6.221739130434782,
-      "characterCount": 8028,
-      "nonWhitespaceCharacterCount": 6581,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1709354984341,
-      "modifiedDate": 1708759213000,
-      "sizeInBytes": 8080
-    },
     "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -849,6 +817,22 @@
       "createdDate": 1691168548738,
       "modifiedDate": 1687826190000,
       "sizeInBytes": 2824
+    },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/The Last Prophet.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1431,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.221739130434782,
+      "characterCount": 8028,
+      "nonWhitespaceCharacterCount": 6581,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709354984341,
+      "modifiedDate": 1708759213000,
+      "sizeInBytes": 8080
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Sleep Paralysis.md": {
       "isDirectory": false,
@@ -914,22 +898,6 @@
       "modifiedDate": 1715026837831,
       "sizeInBytes": 4779
     },
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 849,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.6913043478260867,
-      "characterCount": 4994,
-      "nonWhitespaceCharacterCount": 4107,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168543859,
-      "modifiedDate": 1698246746198,
-      "sizeInBytes": 5021
-    },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Photo Graphs.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -946,22 +914,6 @@
       "modifiedDate": 1697812164546,
       "sizeInBytes": 12887
     },
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 684,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 2.973913043478261,
-      "characterCount": 3984,
-      "nonWhitespaceCharacterCount": 3299,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168549690,
-      "modifiedDate": 1698254484762,
-      "sizeInBytes": 3985
-    },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Nothing, Forever.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -977,6 +929,38 @@
       "createdDate": 1695057535059,
       "modifiedDate": 1696865076784,
       "sizeInBytes": 6037
+    },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 849,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.6913043478260867,
+      "characterCount": 4994,
+      "nonWhitespaceCharacterCount": 4107,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168543859,
+      "modifiedDate": 1698246746198,
+      "sizeInBytes": 5021
+    },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Philip sat on a stump..md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 684,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.973913043478261,
+      "characterCount": 3984,
+      "nonWhitespaceCharacterCount": 3299,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168549690,
+      "modifiedDate": 1698254484762,
+      "sizeInBytes": 3985
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md": {
       "isDirectory": false,
@@ -1026,6 +1010,38 @@
       "modifiedDate": 1708848322000,
       "sizeInBytes": 74
     },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12915,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 56.15217391304348,
+      "characterCount": 70348,
+      "nonWhitespaceCharacterCount": 57217,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1699032210762,
+      "modifiedDate": 1702188455000,
+      "sizeInBytes": 70401
+    },
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Fear The Reaper.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1459,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 6.343478260869565,
+      "characterCount": 8188,
+      "nonWhitespaceCharacterCount": 6700,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1709354987418,
+      "modifiedDate": 1710021213000,
+      "sizeInBytes": 8243
+    },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Fishing in the Void.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1058,37 +1074,21 @@
       "modifiedDate": 1716621845000,
       "sizeInBytes": 437
     },
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Fear The Reaper.md": {
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 1459,
+      "wordCount": 357,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 6.343478260869565,
-      "characterCount": 8188,
-      "nonWhitespaceCharacterCount": 6700,
+      "pageCount": 1.5521739130434782,
+      "characterCount": 2016,
+      "nonWhitespaceCharacterCount": 1655,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1709354987418,
-      "modifiedDate": 1710021213000,
-      "sizeInBytes": 8243
-    },
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 12915,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 56.15217391304348,
-      "characterCount": 70348,
-      "nonWhitespaceCharacterCount": 57217,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1699032210762,
-      "modifiedDate": 1702188455000,
-      "sizeInBytes": 70401
+      "createdDate": 1691168551612,
+      "modifiedDate": 1699036050643,
+      "sizeInBytes": 2067
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Core Collapse.md": {
       "isDirectory": false,
@@ -1138,37 +1138,21 @@
       "modifiedDate": 1699036033948,
       "sizeInBytes": 317
     },
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Champions of Nothing.md": {
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 357,
+      "wordCount": 49,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 1.5521739130434782,
-      "characterCount": 2016,
-      "nonWhitespaceCharacterCount": 1655,
-      "linkCount": 0,
+      "pageCount": 0.21304347826086956,
+      "characterCount": 319,
+      "nonWhitespaceCharacterCount": 267,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1691168551612,
-      "modifiedDate": 1699036050643,
-      "sizeInBytes": 2067
-    },
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 228,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.991304347826087,
-      "characterCount": 1347,
-      "nonWhitespaceCharacterCount": 1109,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168548738,
-      "modifiedDate": 1715028516100,
-      "sizeInBytes": 1348
+      "createdDate": 1698416255486,
+      "modifiedDate": 1701122280923,
+      "sizeInBytes": 368
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md": {
       "isDirectory": false,
@@ -1186,21 +1170,21 @@
       "modifiedDate": 1698975646000,
       "sizeInBytes": 11230
     },
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md": {
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Capital Planets 4.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 49,
+      "wordCount": 228,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.21304347826086956,
-      "characterCount": 319,
-      "nonWhitespaceCharacterCount": 267,
-      "linkCount": 2,
+      "pageCount": 0.991304347826087,
+      "characterCount": 1347,
+      "nonWhitespaceCharacterCount": 1109,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1698416255486,
-      "modifiedDate": 1701122280923,
-      "sizeInBytes": 368
+      "createdDate": 1691168548738,
+      "modifiedDate": 1715028516100,
+      "sizeInBytes": 1348
     },
     "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md": {
       "isDirectory": false,
@@ -1218,22 +1202,6 @@
       "modifiedDate": 1714423868182,
       "sizeInBytes": 2544
     },
-    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 135,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5869565217391305,
-      "characterCount": 792,
-      "nonWhitespaceCharacterCount": 654,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168549675,
-      "modifiedDate": 1696954178711,
-      "sizeInBytes": 792
-    },
     "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1250,22 +1218,6 @@
       "modifiedDate": 1698032464000,
       "sizeInBytes": 4380
     },
-    "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 747,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.247826086956522,
-      "characterCount": 4139,
-      "nonWhitespaceCharacterCount": 3389,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168551596,
-      "modifiedDate": 1687826188000,
-      "sizeInBytes": 4139
-    },
     "The Fall and Rise of Gather/2. The Second Gathering/The Swollen Men.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1281,6 +1233,22 @@
       "createdDate": 1691168550581,
       "modifiedDate": 1687826188000,
       "sizeInBytes": 2468
+    },
+    "The Fall and Rise of Gather/2. The Second Gathering/Transportation Requested.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 747,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.247826086956522,
+      "characterCount": 4139,
+      "nonWhitespaceCharacterCount": 3389,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168551596,
+      "modifiedDate": 1687826188000,
+      "sizeInBytes": 4139
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Superiority through Purity.md": {
       "isDirectory": false,
@@ -1314,22 +1282,6 @@
       "modifiedDate": 1691698762490,
       "sizeInBytes": 17981
     },
-    "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 390,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.6956521739130435,
-      "characterCount": 2247,
-      "nonWhitespaceCharacterCount": 1853,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168545195,
-      "modifiedDate": 1688065574000,
-      "sizeInBytes": 2247
-    },
     "The Fall and Rise of Gather/2. The Second Gathering/Let's Just Leave it at That.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1361,6 +1313,22 @@
       "createdDate": 1707167811227,
       "modifiedDate": 1707170300863,
       "sizeInBytes": 3931
+    },
+    "The Fall and Rise of Gather/2. The Second Gathering/Rightfully Hers.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 390,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6956521739130435,
+      "characterCount": 2247,
+      "nonWhitespaceCharacterCount": 1853,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168545195,
+      "modifiedDate": 1688065574000,
+      "sizeInBytes": 2247
     },
     "The Fall and Rise of Gather/2. The Second Gathering/Collapse.md": {
       "isDirectory": false,
@@ -1394,6 +1362,22 @@
       "modifiedDate": 1696954423166,
       "sizeInBytes": 1096
     },
+    "The Fall and Rise of Gather/3. The Third Gathering/0. Overview 3.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 135,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5869565217391305,
+      "characterCount": 792,
+      "nonWhitespaceCharacterCount": 654,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168549675,
+      "modifiedDate": 1696954178711,
+      "sizeInBytes": 792
+    },
     "The Fall and Rise of Gather/17 Steps to a Plot.md": {
       "isDirectory": false,
       "noteCount": 1,
@@ -1409,22 +1393,6 @@
       "createdDate": 1692649081097,
       "modifiedDate": 1695069991599,
       "sizeInBytes": 807
-    },
-    "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md": {
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 221,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9608695652173913,
-      "characterCount": 1470,
-      "nonWhitespaceCharacterCount": 1248,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1691168549690,
-      "modifiedDate": 1687826188000,
-      "sizeInBytes": 1470
     },
     "The Fall and Rise of Gather/1. The First Gathering/The Wages of Sin.md": {
       "isDirectory": false,
@@ -1442,21 +1410,21 @@
       "modifiedDate": 1691698716900,
       "sizeInBytes": 13538
     },
-    "The Fall and Rise of Gather/1. The First Gathering/Inspirational Quote.md": {
+    "The Fall and Rise of Gather/1. The First Gathering/Project Requisition Form Epsilon Eridani 102.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 13,
+      "wordCount": 221,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.05652173913043478,
-      "characterCount": 68,
-      "nonWhitespaceCharacterCount": 54,
-      "linkCount": 0,
+      "pageCount": 0.9608695652173913,
+      "characterCount": 1470,
+      "nonWhitespaceCharacterCount": 1248,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1715028878650,
-      "modifiedDate": 1715028902283,
-      "sizeInBytes": 68
+      "createdDate": 1691168549690,
+      "modifiedDate": 1687826188000,
+      "sizeInBytes": 1470
     },
     "The Fall and Rise of Gather/1. The First Gathering/Foundations of Freight.md": {
       "isDirectory": false,
@@ -1474,21 +1442,21 @@
       "modifiedDate": 1698123915000,
       "sizeInBytes": 18589
     },
-    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (2).md": {
+    "The Fall and Rise of Gather/1. The First Gathering/Inspirational Quote.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 225,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.9782608695652174,
-      "characterCount": 1297,
-      "nonWhitespaceCharacterCount": 1072,
+      "pageCount": 0.05652173913043478,
+      "characterCount": 68,
+      "nonWhitespaceCharacterCount": 54,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1691168543781,
-      "modifiedDate": 1688066466000,
-      "sizeInBytes": 1297
+      "createdDate": 1715028878650,
+      "modifiedDate": 1715028902283,
+      "sizeInBytes": 68
     },
     "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (1).md": {
       "isDirectory": false,
@@ -1521,6 +1489,38 @@
       "createdDate": 1691168551596,
       "modifiedDate": 1687826188000,
       "sizeInBytes": 963
+    },
+    "The Fall and Rise of Gather/1. The First Gathering/Excerpt from the Founder (2).md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 225,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9782608695652174,
+      "characterCount": 1297,
+      "nonWhitespaceCharacterCount": 1072,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168543781,
+      "modifiedDate": 1688066466000,
+      "sizeInBytes": 1297
+    },
+    "readme.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 123,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5347826086956522,
+      "characterCount": 713,
+      "nonWhitespaceCharacterCount": 587,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1691168549659,
+      "modifiedDate": 1686620210000,
+      "sizeInBytes": 713
     },
     "Markdown Cheat Sheet.md": {
       "isDirectory": false,
