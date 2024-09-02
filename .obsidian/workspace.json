@@ -6,7 +6,7 @@
       {
         "id": "da22538a389aedc6",
         "type": "tabs",
-        "dimension": 66.01876675603218,
+        "dimension": 66.4013644115975,
         "children": [
           {
             "id": "a2e6a822f9902853",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
+                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Slough.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
       {
         "id": "3dacbf1e21118ac3",
         "type": "split",
-        "dimension": 33.98123324396783,
+        "dimension": 33.5986355884025,
         "children": [
           {
             "id": "2f6bec5100ca5e4b",
@@ -147,14 +147,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "The Fall and Rise of Gather/7. The Seventh Gathering/7. The Seventh Gathering.md",
+                    "file": "The Fall and Rise of Gather/Information/Vocabulary and Style Guide.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           },
           {
             "id": "d1cbebeedd6c8568",
@@ -228,8 +228,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
+                "file": "The Fall and Rise of Gather/Information/Crèches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
+                "file": "The Fall and Rise of Gather/Information/Crèches.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md"
+                "file": "The Fall and Rise of Gather/Information/Crèches.md"
               }
             }
           },
@@ -414,8 +413,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 3531,
-        "y": 16,
+        "x": 2418,
+        "y": 123,
         "width": 600,
         "height": 631,
         "maximize": true,
@@ -423,17 +422,20 @@
       }
     ]
   },
-  "active": "9b638acffab009cb",
+  "active": "f4f975678262d2f2",
   "lastOpenFiles": [
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Slough.md",
+    "The Fall and Rise of Gather/Information/Vocabulary and Style Guide.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/7. The Seventh Gathering.md",
+    "The Fall and Rise of Gather/4. The Fourth Gathering/Dead as a Doorknob.md",
+    "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Try, try again.md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/War Never Fails.md",
     "Markdown Cheat Sheet.md",
     "The Fall and Rise of Gather/Information/Naming Conventions.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md",
-    "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/5. The Fifth Gathering.md",
     "The Fall and Rise of Gather/Information/Species.md",
-    "The Fall and Rise of Gather/Information/Vocabulary and Style Guide.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Let Loose.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/The Monks of Madness.md",
@@ -449,9 +451,6 @@
     "readme.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Depths of Insanity.md",
     "The Fall and Rise of Gather/2. The Second Gathering/Let's Just Leave it at That.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Shifting.md",
-    "The Fall and Rise of Gather/Information/Notable Characters.md",
-    "The Fall and Rise of Gather/2. The Second Gathering/Vivisection of a Disaster.md",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/2. The Second Gathering/Untitled",
