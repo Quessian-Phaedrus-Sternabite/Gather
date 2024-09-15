@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Slough.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Fear The Reaper.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "miriam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -227,7 +227,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Slough.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Fear The Reaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Slough.md",
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Fear The Reaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Fall and Rise of Gather/7. The Seventh Gathering/Slough.md"
+                "file": "The Fall and Rise of Gather/4. The Fourth Gathering/Fear The Reaper.md"
               }
             }
           },
@@ -345,8 +346,8 @@
   },
   "active": "a2e6a822f9902853",
   "lastOpenFiles": [
-    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
     "The Fall and Rise of Gather/7. The Seventh Gathering/Slough.md",
+    "The Fall and Rise of Gather/7. The Seventh Gathering/Ruin..md",
     "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
     "The Fall and Rise of Gather/7. The Seventh Gathering/A Description of an Unnamed painting 1.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Tainted Love.md",
