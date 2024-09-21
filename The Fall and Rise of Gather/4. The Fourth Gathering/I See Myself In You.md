@@ -19,4 +19,8 @@ When Meredith got home, she stared at you in shock. Her face wormed with discomf
 
 The illusion ended--the disconnect between my mind and this tar dissolving in the wind. My hands were thrown out, and I could feel black seeping through my fingers. I was not my own. I screamed, but Meredith only saw a still face. You didn't even show an expression, didn't do anything more than I made you. I grabbed at your throat and *pulled*, relishing in the unconscious expression of pain on our face. I couldn't tell if it was you or me, but our cadaver screamed at this, a primal, gut-wrenching noise. As I threw down the flesh puppet, you simply slipped from my grasp and crumpled into a puddle. 
 
-Meredith regained her self at the same time I lost mine. She crawled over to you and began sobbing into your chest, stroking your hair that I 
+Meredith regained her self at the same time I lost mine. She crawled over to you and began sobbing into your chest, stroking your hair that I had worked so hard to care for. When your breathing slowed, hers did as well, and the two of you felt connected. Grief raced through my chest as you embraced my love, and I couldn't stand it. I reached forward and began pulling your cords, whispering out more words. 
+
+"Follow... me... please." She wanted to resist, but didn't want to leave you alone. I began pulling you back through the trees towards the pit that had almost killed me. I needed it to finish the job. To reunite us in this tar, to grant us the freedom of incorporeality. I needed to free my legs and give myself my body back.
+
+And I needed to kill you. You... traitor who stole everything I cared for. At this point, I was dragging Miriam as well as you, and niether 

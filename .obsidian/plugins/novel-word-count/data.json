@@ -1557,18 +1557,18 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/I See Myself In You.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 597,
+      "wordCount": 735,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 2.5956521739130434,
-      "characterCount": 3135,
-      "nonWhitespaceCharacterCount": 2528,
+      "pageCount": 3.1956521739130435,
+      "characterCount": 3871,
+      "nonWhitespaceCharacterCount": 3123,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1726944145017,
-      "modifiedDate": 1726945028220,
-      "sizeInBytes": 3208
+      "modifiedDate": 1726945328426,
+      "sizeInBytes": 3944
     }
   }
 }
