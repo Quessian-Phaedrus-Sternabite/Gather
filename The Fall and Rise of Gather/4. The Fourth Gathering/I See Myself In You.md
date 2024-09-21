@@ -23,4 +23,12 @@ Meredith regained her self at the same time I lost mine. She crawled over to you
 
 "Follow... me... please." She wanted to resist, but didn't want to leave you alone. I began pulling you back through the trees towards the pit that had almost killed me. I needed it to finish the job. To reunite us in this tar, to grant us the freedom of incorporeality. I needed to free my legs and give myself my body back.
 
-And I needed to kill you. You... traitor who stole everything I cared for. At this point, I was dragging Miriam as well as you, and niether 
+And I needed to kill you. You... traitor who stole everything I cared for. At this point, I was dragging Meredith as well as you, and neither would fight back. We came upon that clearing, and I turned you around to face Meredith.
+
+"We can be together!" You cried, the words tearing away as I flung them out into the void. Meredith seemed to... resolve herself, and she smiled, tears falling from her eyes.
+
+She softly spoke: "Wouldn't that be nice?" At this, she beckoned for me to lead the way, and the last thing I heard as I flung myself into that pit all the way was a quiet goodbye. 
+
+As I fell, I finally saw your reflection, and for the first time, what had happened to my face. It looked like a gaping hole made of tar, with a small mouth submerged in the center. Two eyes sat there, closed, and there was an expression of peace as the first toe hits the tar. 
+
+You didn't steal my body. I did. 
