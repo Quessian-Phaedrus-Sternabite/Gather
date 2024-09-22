@@ -1569,6 +1569,22 @@
       "createdDate": 1689633220662,
       "modifiedDate": 1687826188000,
       "sizeInBytes": 963
+    },
+    "The Fall and Rise of Gather/Blurbs/Rebirth Short Story.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 47,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.20434782608695654,
+      "characterCount": 272,
+      "nonWhitespaceCharacterCount": 224,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1727029431666,
+      "modifiedDate": 1727029511492,
+      "sizeInBytes": 307
     }
   }
 }
