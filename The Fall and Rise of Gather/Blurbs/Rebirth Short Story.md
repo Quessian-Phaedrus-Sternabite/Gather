@@ -55,4 +55,12 @@ It wasn't the absence of noise, per se. Instead, it was the feeling of having a 
 
 Nobody reached out to me. I shouldn't have been surprised. There was no reason why somebody should make the effort to connect with me when I hadn't in the past. After my hearing left, it was only worse, with communique having to be scrawled out to reach me. Sign language provided little relief, as ASL was all that was offered. To have my own language stripped away from me as I was forced to confer through stilted English was the second death I felt with my lack of hearing.
 
-I didn't know how I would continue. I almost didn't want to. But the speech therapist was covered by my insurance, and the bureaucrats above me loved the idea of having representation among the cue
+I didn't know how I would continue. I almost didn't want to. But the speech therapist was covered by my insurance, and the bureaucrats above me loved the idea of having representation among the crew. Our older project was finished--a shining bakery cum apartments cum who knows what else--and we were left furloughed with nothing to do. I don't know how any of those apartments sold. The entire thing felt like death.
+
+When the news of my furlough arrived, I met it with a resigned sort of anger. It wasn't my fault that I had been stripped of my humanity, but here I was being made to suffer for it. I could apply and apply all I wanted, but the second it came time to interview, I was left stumbling over my hands as my fingers refused to work. Cold filled my heart whenever I moved them, and I kept wishing to cut them off, to replace my hands with ears so I could hear again.
+
+I suppose I got my wish.
+
+...
+
+*Have you found a job yet?*
