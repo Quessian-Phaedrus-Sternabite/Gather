@@ -84,4 +84,8 @@ The shower didn't help. Neither did dinner that night as every I ate felt insubs
 
 ...
 
-I think I was curled up in a ball on my mat in the floor. There wasn't even a chair anymore. I wasn't sure there ever had been. It felt like my eyes had closed one night and refused to open again, leaving me blind, deaf, and without taste or touch. All I had left were the scents that should have been of home, that should have drafted in through the halls, that should have filled me with visions of cilantro and 
+I think I was curled up in a ball on my mat in the floor. There wasn't even a chair anymore. I wasn't sure there ever had been. It felt like my eyes had closed one night and refused to open again, leaving me blind, deaf, and without taste or touch. All I had left were the scents that should have been of home, that should have drafted in through the halls, that should have filled me with visions of saffron and paellas. And yet there was nothing. 
+
+The only thing that filled my nostrils were the sharp smells of disinfectant and salt. That stupid smell of salt. My only relief came after some inordinate period of time, when it was replaced by putrescence. After a while, I couldn't tell if I had gotten used to it or if I had lost my sense of smell too. Nothing was left of who I once was.
+
+I floated there, in that sensory deprivation chamber of my mind, and became aware of unreality. It felt like my nerves just snapped into place one day. Instead of seeing nothing, I saw a black void, removed of anything that could lend a sense of s 
