@@ -77,3 +77,11 @@ Hands grabbed my shoulders and spun me around before I could continue my train o
 One of her tears splashed on my face, and the sharp cold brought me back to my senses. I pushed her away, perhaps a bit harsher than I meant to, and was met with a look of shock intermingling with her earlier concern. The woman whose name started with an A stared at me. I defiantly lifted my hands, ignoring the pain that swept through my arm.
 
 Relieved that I could feel something, I told her the truth. *I got lost in the moment*. That's all it could have been. Her doubtful gaze followed me as she walked me up to my apartment, turning into one of mild surprise and consternation when it was revealed that I lacked bandages. After a few scant minutes of alone time, she was back, her arms adorned with flowing gauze. 
+
+I suppose it should have been intimate. My hand laid out, vulnerable, as she patched me up. But my cold detachment grew as A finished. I hadn't felt a thing. Not even a trace of the peroxide. My hands had ceased to become anything but half-worn mouths, struggling to produce any meaning. 
+
+The shower didn't help. Neither did dinner that night as every I ate felt insubstantial--lacking taste and substance. I couldn't tell when my mouth was full or empty; I couldn't tell when I was full or empty. It felt as though I existed in a void, formless and without proprioception.
+
+...
+
+I think I was curled up in a ball on my mat in the floor. There wasn't even a chair anymore. I wasn't sure there ever had been. It felt like my eyes had closed one night and refused to open again, leaving me blind, deaf, and without taste or touch. All I had left were the scents that should have been of home, that should have drafted in through the halls, that should have filled me with visions of cilantro and 
