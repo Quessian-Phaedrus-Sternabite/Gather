@@ -6,6 +6,16 @@ date:
 ---
 Memoir about someone slowing losing their five senses, ending with them going blind. Nobody notices this change, and his words seem to slide right off them. In the end, the main character is "reborn," and the story closes with them dumping their old self into the ocean. 
 
+**Begin with the Main Character vomiting. Their proposal has failed. Set the stage for changing preferences.
+
+The world slows. Nothing seems to change even as familiarity is lost. This is the first time they lose a sense. It starts with touch, with the world sliding off and becoming indistinct. People began to forget their face. They begin to forget their face. 
+
+A few months pass. They’ve become a recluse. Their savings should be dwindling, but money keeps flowing in. They lose their hearing and sense of taste. The previous joys are now horrific, and they can feel themselves wince every time they take a bite of tasteless food. 
+
+Nothing has changed. Society moves on. They’ve got a job. It’s slowly shown that the main character is now blind. Whereas before they were a prospector/foreman, they now work in an office doing menial labor. It’s unknown how old they are.
+
+Finally, the main character emerges triumphant. They regain their sight, and are beloved by all. Whereas before, everything was stagnant, it now moves. Until you look inside their mind. They’re trapped. It’s a complete rebirth–a metamorphosis–and they’ve been left behind. As they feel their new self, their new face, go to the balcony where everything first change, they decide to jump into the sea before the story cuts off.**
+
 
 I stared off the balcony and into the sea, where waves sent foam crashing into me. The salty smell cut through the air and assaulted my nostrils, settling in peacefully amongst the vomit. It wasn't enough to balance the sensations. As I emptied my stomach in time with the waves, I blithely let the salt of my tears drop to the sea as well. 
 
@@ -35,4 +45,10 @@ I swept the hotdog off the floor and threw it away before opening the fridge. My
 
 Sitting in the chair was second-nature, as it should be. I switched on the tv to C-Span and began scrolling as I drank my shake. Despite the noise--the clattering of news and the chirruping of my phone--it felt quiet. It only took a few minutes to finish my makeshift dinner, and I laid the bottle to the side in an idle motion. Part of me was ready to work out, but the exhaustion of the day and the pain was getting to me. The news switched to another story as I sat back and continued browsing.
 
-An hour went by. My face flushed when I realized how much time I had wasted. Why hadn't I worked out yet? It should have been habit. I should already be in the shower, satisfied after a nice run, but instead I was still on the chair. It was too dark to run by myself at this point, and the 
+An hour went by. My face flushed when I realized how much time I had wasted. Why hadn't I worked out yet? It should have been habit. I should already be in the shower, satisfied after a nice run, but instead I was still on the chair. It was too dark to run by myself at this point, and the night had grown cold. I sat back in my hard, wooden chair, and cried.
+
+...
+
+The doctors said it shouldn't be permanent. Nothing was wrong with me, of course, my brain had just decided to stop hearing. By the end of the day, they had to shout for me to hear the diagnosis. By the end of the week, it felt like my ears were filled with cotton. 
+
+It wasn't the absence of noise, per se. Instead, it was the feeling of having a stuffed skull, where every sound is made dull and enormous by the seemingly endless reverb trapped in my brain. 
