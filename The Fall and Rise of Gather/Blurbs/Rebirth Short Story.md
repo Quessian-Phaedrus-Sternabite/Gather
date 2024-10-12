@@ -72,4 +72,8 @@ As we walked in silence, A began to whistle. I could feel her breath blowing on 
 
 Hands grabbed my shoulders and spun me around before I could continue my train of thought. It was that girl again. She had her mouth open, and it was only when I saw tears that I realized she was screaming. One of her hands released my shirt and signed in trembling letter-by-letter sigils.
 
-*Why are you doing that to your hand‽* I looked down and saw my left hand absolutely dripping with blood [!]
+*Why are you doing that to your hand‽* I looked down and saw my left hand absolutely [%%Can remove/edit if needed%%] dripping with blood. A trail had been left on the concrete without me even noticing. I hadn't felt it. She pulled me into a hug, softly shaking against my shoulder, and all I could focus on was that *I couldn't feel it.*
+
+One of her tears splashed on my face, and the sharp cold brought me back to my senses. I pushed her away, perhaps a bit harsher than I meant to, and was met with a look of shock intermingling with her earlier concern. The woman whose name started with an A stared at me. I defiantly lifted my hands, ignoring the pain that swept through my arm.
+
+Relieved that I could feel something, I told her the truth. *I got lost in the moment*. That's all it could have been. Her doubtful gaze followed me as she walked me up to my apartment, turning into one of mild surprise and consternation when it was revealed that I lacked bandages. After a few scant minutes of alone time, she was back, her arms adorned with flowing gauze. 
