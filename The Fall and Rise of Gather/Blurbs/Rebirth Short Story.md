@@ -88,4 +88,8 @@ I think I was curled up in a ball on my mat in the floor. There wasn't even a ch
 
 The only thing that filled my nostrils were the sharp smells of disinfectant and salt. That stupid smell of salt. My only relief came after some inordinate period of time, when it was replaced by putrescence. After a while, I couldn't tell if I had gotten used to it or if I had lost my sense of smell too. Nothing was left of who I once was.
 
-I floated there, in that sensory deprivation chamber of my mind, and became aware of unreality. It felt like my nerves just snapped into place one day. Instead of seeing nothing, I saw a black void, removed of anything that could lend a sense of s 
+I floated there, in that sensory deprivation chamber of my mind, and became aware of unreality. It felt like my nerves just snapped into place one day. Instead of seeing nothing, I saw a black void, removed of anything that could lend a sense of scale. My hearing returned next, with an endless silence filling the air. Where before there was a lack of perception, now, there was simply a lack of noise. When I began falling, I wanted to cry out in joy.
+
+The last thing to ground me was, again, my nose. The expanse seemed to be filled with an endless sterility. I fell and I smelt and I became whole. Whole and nothing. I was the lack of anything, a consciousness deprived of itself. I couldn't even seem to retreat from my coma. So instead, I focused on watching. 
+
+In front of me, seemingly falling at the same rate, was myself. I watched my miraculous recovery in real-time. In the distance, I stood up, began walking, and regained my tongue. No more Spanish came from my mouth. Newspapers came out, praising my return, and my former colleagues accepted me with grace. My apartment was revealed to be bare--a "reflection of my devotion towards the mind," and interviewers delighted at 
