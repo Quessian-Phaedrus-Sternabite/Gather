@@ -66,4 +66,10 @@ I suppose I got my wish.
 
 *Have you found a job yet?* I couldn't see her face, but the movement of the hands told me exactly who was signing to me. I shrugged my hands, dismissing her even as she circled around towards my front. We both knew the answer. I couldn't remember her name, but she had moved into the flat next door. She seemed to take an interest in me, learning sign language to be closer. Whatever she was called probably started with an A, but the rest was so garbled through fluidity as to be indecipherable. 
 
-I stood up and starting trudging away, opening my phone as I did so. My bank account was full, another deposit from my worker's comp having come in. The funny thing about the situation was that I hadn't even applied for compensation. The company must have done so--the last saving grace of a corrupted HR department. I didn't even have the fulfillment of earning my own money.
+I stood up and starting trudging away, opening my phone as I did so. My bank account was full, another deposit from my worker's comp having come in. The funny thing about the situation was that I hadn't even applied for compensation. The company must have done so--the last saving grace of a corrupted HR department. I didn't even have the fulfillment of earning my own money. 
+
+As we walked in silence, A began to whistle. I could feel her breath blowing on the back of my arm, even though she was a few feet away. It bothered me to no end, but she laughed whenever I brought it up, and instead just asked if my hearing was coming back. I exited my app and started scrolling through job offers on some forsaken website. No matter how many buildings went up around me, it seemed like none of them were hiring. Like they were just trying to project the illusion of bustle when the town had already moved on.
+
+Hands grabbed my shoulders and spun me around before I could continue my train of thought. It was that girl again. She had her mouth open, and it was only when I saw tears that I realized she was screaming. One of her hands released my shirt and signed in trembling letter-by-letter sigils.
+
+*Why are you doing that to your hand‽* I looked down and saw my left hand absolutely dripping with blood [!]
