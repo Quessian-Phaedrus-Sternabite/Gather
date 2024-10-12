@@ -16,6 +16,7 @@ Nothing has changed. Society moves on. They’ve got a job. It’s slowly shown 
 
 Finally, the main character emerges triumphant. They regain their sight, and are beloved by all. Whereas before, everything was stagnant, it now moves. Until you look inside their mind. They’re trapped. It’s a complete rebirth–a metamorphosis–and they’ve been left behind. As they feel their new self, their new face, go to the balcony where everything first change, they decide to jump into the sea before the story cuts off.**
 
+---
 
 I stared off the balcony and into the sea, where waves sent foam crashing into me. The salty smell cut through the air and assaulted my nostrils, settling in peacefully amongst the vomit. It wasn't enough to balance the sensations. As I emptied my stomach in time with the waves, I blithely let the salt of my tears drop to the sea as well. 
 
@@ -63,4 +64,6 @@ I suppose I got my wish.
 
 ...
 
-*Have you found a job yet?*
+*Have you found a job yet?* I couldn't see her face, but the movement of the hands told me exactly who was signing to me. I shrugged my hands, dismissing her even as she circled around towards my front. We both knew the answer. I couldn't remember her name, but she had moved into the flat next door. She seemed to take an interest in me, learning sign language to be closer. Whatever she was called probably started with an A, but the rest was so garbled through fluidity as to be indecipherable. 
+
+I stood up and starting trudging away, opening my phone as I did so. My bank account was full, another deposit from my worker's comp having come in. The funny thing about the situation was that I hadn't even applied for compensation. The company must have done so--the last saving grace of a corrupted HR department. I didn't even have the fulfillment of earning my own money.
