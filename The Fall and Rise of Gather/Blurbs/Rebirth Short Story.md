@@ -51,4 +51,8 @@ An hour went by. My face flushed when I realized how much time I had wasted. Why
 
 The doctors said it shouldn't be permanent. Nothing was wrong with me, of course, my brain had just decided to stop hearing. By the end of the day, they had to shout for me to hear the diagnosis. By the end of the week, it felt like my ears were filled with cotton. 
 
-It wasn't the absence of noise, per se. Instead, it was the feeling of having a stuffed skull, where every sound is made dull and enormous by the seemingly endless reverb trapped in my brain. 
+It wasn't the absence of noise, per se. Instead, it was the feeling of having a stuffed skull, where every sound is made dull and enormous by the seemingly endless reverb trapped in my brain. Speech fell away, the notes of others' voices smoothed out by my lack of hearing. Instead of words, all I could hear were pure tones, ringing out in the void. 
+
+Nobody reached out to me. I shouldn't have been surprised. There was no reason why somebody should make the effort to connect with me when I hadn't in the past. After my hearing left, it was only worse, with communique having to be scrawled out to reach me. Sign language provided little relief, as ASL was all that was offered. To have my own language stripped away from me as I was forced to confer through stilted English was the second death I felt with my lack of hearing.
+
+I didn't know how I would continue. I almost didn't want to. But the speech therapist was covered by my insurance, and the bureaucrats above me loved the idea of having representation among the cue
